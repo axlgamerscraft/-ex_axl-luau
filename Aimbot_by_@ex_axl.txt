@@ -1,1 +1,3008 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _xASekLiihXty = a; end)); return(function(p,...)local l;local f;local a;local h;local s;local t;local e=24915;local d=0;local n={};while d<572 do d=d+1;while d<0x32e and e%0x4a1a<0x250d do d=d+1 e=(e+586)%38839 local r=d+e if(e%0x1c1e)<=0xe0f then e=(e*0x3f5)%0x7f33 while d<0x3a9 and e%0x3210<0x1908 do d=d+1 e=(e*810)%39441 local a=d+e if(e%0x1464)<0xa32 then e=(e-0x2e4)%0x45ae local e=45585 if not n[e]then n[e]=0x1 l=(not l)and _ENV or l;end elseif e%2~=0 then e=(e-0x206)%0x9afd local e=11366 if not n[e]then n[e]=0x1 s=tonumber;end else e=(e-0x200)%0x714e d=d+1 local e=32962 if not n[e]then n[e]=0x1 l=getfenv and getfenv();end end end elseif e%2~=0 then e=(e*0x259)%0x5616 while d<0x195 and e%0x441e<0x220f do d=d+1 e=(e+376)%47363 local l=d+e if(e%0x3e2c)<=0x1f16 then e=(e+0x28c)%0x87ee local e=22121 if not n[e]then n[e]=0x1 h={};end elseif e%2~=0 then e=(e-0xf8)%0x8a9c local e=47608 if not n[e]then n[e]=0x1 t=string;end else e=(e-0x58)%0x8873 d=d+1 local e=70352 if not n[e]then n[e]=0x1 end end end else e=(e-0x48)%0xaf3a d=d+1 while d<0x2f1 and e%0x2408<0x1204 do d=d+1 e=(e*253)%12935 local r=d+e if(e%0x125e)<0x92f then e=(e+0x200)%0x948f local e=18860 if not n[e]then n[e]=0x1 f="\4\8\116\111\110\117\109\98\101\114\120\104\109\98\103\65\105\70\0\6\115\116\114\105\110\103\4\99\104\97\114\86\97\76\107\66\71\97\95\0\6\115\116\114\105\110\103\3\115\117\98\69\72\110\113\82\80\74\81\0\6\115\116\114\105\110\103\4\98\121\116\101\116\76\107\104\97\76\114\111\0\5\116\97\98\108\101\6\99\111\110\99\97\116\86\69\82\79\104\84\75\89\0\5\116\97\98\108\101\6\105\110\115\101\114\116\109\70\105\70\79\114\76\97\5";end elseif e%2~=0 then e=(e-0x3f4)%0xb81f local e=66666 if not n[e]then n[e]=0x1 a=function(a)local e=0x01 local function n(d)e=e+d return a:sub(e-d,e-0x01)end while true do local d=n(0x01)if(d=="\5")then break end local e=t.byte(n(0x01))local e=n(e)if d=="\2"then e=h.xhmbgAiF(e)elseif d=="\3"then e=e~="\0"elseif d=="\6"then l[e]=function(e,d)return p(8,nil,p,d,e)end elseif d=="\4"then e=l[e]elseif d=="\0"then e=l[e][n(t.byte(n(0x01)))];end local d=n(0x08)h[d]=e end end end else e=(e*0x1cc)%0x1a17 d=d+1 local e=52189 if not n[e]then n[e]=0x1 end end end end end e=(e*275)%34879 end a(f);local e={};for d=0x0,0xff do local n=h.VaLkBGa_(d);e[d]=n;e[n]=d;end local function r(d)return e[d];end local t=(function(f,t)local p,n=0x01,0x10 local d={{},{},{}}local l=-0x01 local e=0x01 local a=f while true do d[0x03][h.EHnqRPJQ(t,e,(function()e=p+e return e-0x01 end)())]=(function()l=l+0x01 return l end)()if l==(0x0f)then l=""n=0x000 break end end local l=#t while e<l+0x01 do d[0x02][n]=h.EHnqRPJQ(t,e,(function()e=p+e return e-0x01 end)())n=n+0x01 if n%0x02==0x00 then n=0x00 h.mFiFOrLa(d[0x01],(r((((d[0x03][d[0x02][0x00]]or 0x00)*0x10)+(d[0x03][d[0x02][0x01]]or 0x00)+a)%0x100)));a=f+a;end end return h.VEROhTKY(d[0x01])end);a(t(70,"em&).+TqlL4(RO=;(RqL+;mROLL..q&T=LLq+O/LORq=&=4&+(..)=;qlL.+&4R&lm&;4c+L.))&=(lL);&OO.q4&.L=+L.m;=(Rl).;6+R.q&+q=t4(mKR((LT;&(;L(RLL&4;;4Tq)mql&);&+=.49+qmmO4L.+)_TO)l4T)mTTl&.Q(R.l))l*)O.4))qx.R)qOm(L..;)(;&4;L+T&=(4;q&);;(L4^TRm4LT(&D=LO+L&&(;OlRq)S)ql)+m(OlL).R>T;mlR+Tw4(+q)+RD)+=mL_&Rmql.mmm=&4.)R;m4m+;O}l4q.)+&qR>L+)m=OO&q=)Lll.+&(=O4++Rml:COW+L)O==ll)LklT=&4mmO)lO.Tm4RlL&TL;.(qLm.;L4++.+;;(Lq;)L&TRRL++.O44+_RRq(mTO&Lm4OTlL.O;OL.q.iOq=)L&TO(LqlO.l=LlOT;&R=4q4;H4OL.+W_lRmq(qO&RR4q;)m=;4+TmOTL&qL)T;r4lLq.gF=4ll;&lOTL4d&(O4(TMmL=4O&lqmm==4OTL;Oq.&Om4=RR,l=m4Ol4(q)&Tq&&(mqwT(q+l&+;.4m.)^+qX&Lm.;vRR+)&;;{()+R&TT=&qm+;.(=+)&q;Rl;T4&TTR&+m.C+R&+)mR=m(..TmlT4&+I=R(lTlm)TR=lO.ms;(OLmORLTlS)l)((;qlTL;=R)lO&(L..=)L;&(;4RT%=;4Tl&+P;;.RpT;J4Lll)==L(;lO&ROmlR0.(=4LTm+R2L4+LY&(;L(TTO(RqlT!mlOTL)qO)4;TL=TRmROm4m=l4.l(..#c((l4+M&mR;L=)T=lL(m.R=((q&+mH4O;l&)+=T4ml+RRlTT;&=mLO&L;.Oz4Rw+;&ql.)=&4=mOmT=);=R(mT=&l=.)R;T=qL;L+.(Ol4fq()RO+Lq;.4OLOTO).=TLlqTm.OT4.;&4RLO+.)4;l(R+&m&R)qq.,44T.++:T=AR)Tl&{(;qO&;;mT&mRgTR&4R.+m+O;L4+&;mRGm4O.R?qRTRELRTl)&R;+4OqLO&lRqO)Tm==RlO.l;qOmlT)4l4..).=lR*4m+mXO(R+(!=R(.&;R=lL=LT)qm+(=q=..;)lq;4(.4d+l.l=ORO+.)(==lT)4(&TR+R>;n:4T+m)ROplT+RQ&T4&+aORllmTm)qO;4=+T==R+TLORLqq;)l;)RmL;TL;R(4TO&O%).=bL;m4(T+++mOOmL&&+=;L&.+Rpq(T)mRO((.L).LOOL4.4;O=T)&=OO+l=+,.q=.(OTL&(==Lq&R4q"));a(t(3,"G0K-.m#{>cX;%gwRRgQ+#X#>#-m{mc.Rwc.#m..c.cK;-#K0K00K0%-;-X%K%AK>0>0-0;0>R;Rc0#YXw%0.R%Z.cKc-R;RXwwR}R-wRwmw-;X%#%#;c;g#.#{g0%R%X;w% ;#m0;#X{;{X-Xm>#X{cRc>X->m{.>gKKK->c{X>X{;0m{c#w#%{%{0.>{K#{.c-m-Xmz-gwXwRm-.K.w..-c.mKR-RKcK{KwK.Kw-0_-K{AXR#R;0XX>X>R.zQR;}c30H0;Rw;g>gm%-%Rw;wR%-{m{KwK%c%wg#XXcgX#;%cR%{%-XR.c.m{X>XX>XcXKX.X{>#{mKXK;c.>%>g>;>#{X{%{K{w.{{0#X#4#w.m-RR4RKmw.>.#.g.-w0.g.-.K-4KR-.4{0%KK0wKKaK=giV;K;00g0-0KOsRR<.w0rggcgjR.%%R#g#>K>ow>w{g;ggwIgw;BgKX-cw%m%6Xmmmm.;wXg;0X{XK; >Rc{cK{{>0>g#R#{K0KK>>{c>c{X0.{K{m{m{K{K{K#-.c-R#K-{.w#KwX"));local e=(-h.V_S_QjRH+(function()local l,n=h.poGItRWK,h.feIEyfRB;(function(e,d,n)e(e(e and d,n,e),d(e and d,e,n and d),e(n and n,e,d))end)(function(d,a,e)if l>h.EWSXLwFW then return e end l=l+h.feIEyfRB n=(n+h.IRuLgTgQ)%h.DDIBURqj if(n%h.AXmGZ__C)>h.atCMVikP then n=(n*h.CuxWoDqG)%h.eFVPAEta return d else return d(d(d and d,a and e,d),d(a and a,e,e),d(e,e,e))end return e(e(e,a,a),e(d,d and a,e),e(a,e,d)and d(e,d,d))end,function(a,e,d)if l>h.CYpxVQGK then return d end l=l+h.feIEyfRB n=(n-h.qPkMOzlm)%h.dzIsjJAV if(n%h.RFVsDMmq)<=h.EExdsxDU then return e(a(e,e,d and d),e(a,d and a,e),d(a and e,a and d,e))else return e end return e end,function(d,a,e)if l>h.npisiFlK then return e end l=l+h.feIEyfRB n=(n-h.opWAilpF)%h.ynRMEIEG if(n%h.gVjJwVJT)>=h.HvqAdikE then return a(e(a,a,e),e(d,a,a),e(d and d,e,e and e)and e(e,d,d))else return d end return a end)return n;end)())local ae=(getfenv)or(function()return _ENV end);local o=h.KzICjErU or h.AYbahKYO;local f=h.LfzLPiwp;local a=h.h_FYnaIQ;local j=h.feIEyfRB;local l=h.TvCeludt;local function ee(u,...)local c=t(e,"v5Se8L=a+4KRCpd!=CeCLKa+4+CBpS!/udaLR+p+!R5+^L8+L!+KK5RppK4=R=p?dd7Ca!+CC!!5K8C+pd!C5K+p4!RaN5SSeCL5aCS+8==8+SKNRdpC!KL+e+LdaS4iKd5dL!a=a4K4p8!=sa5!e!!KS=e8LSa(pE0pSpLe=p4=R5pLdC)k!p8a=S+eK8+eaQ4KKKC+d=L++aR+pSp8pRS8e!LR+;4pRepK!dK+C=d8oSSfedLC=KpaR+p+!S51Sd4!pe*SyRC=d+U*5deCK;d5jSS-eaL85}eK8K=++=!8Sd85aa+5KCKKpR}5S58=LaaK458K+p+8KSC*eS=8+eKRa=pK!R5CeeFC+5+4R4+8!S5SSpLAL!aRKKR4p=R_SLeLLdak8=45p5d!FCM!e!LRe=+K+LaS4RKCCKd+8444R8pSdebKSd5RLa+54aCSC!+dR8C+d=)8a=KLp=!;ppSa8S=e+8=eL5=C+CRLC=d8PSa!R=4pCp!pS5S2LRa44=K8pd<5K+CpdS}k5d4cCSd5!45!8sLL+54!8Ca8+=K8CSSe=p+dK+Rpd+d=5ee8La+54p8K=d+8KSCieS=54SKCK4ppcC5LCddCtKS+8==8+Spd!dpC!K5+e=L8aS4;pKbCdC5SS=88=SCaIee1SpLp++KKRRpe!eKdCdd+&=S8++C!dC52RCd5!=58eS4+pedp5CeC8+=4+eR8=O+L4KR+p=eLaR4pRfpR!dd!5RSpx8S8edLCaKd=5a85La5See8C=K++!R%+8R=pLUedL!a+4=R85RLp=!4eK!=K4=K8CSdkLe+!4!CKR!_SSS8L=SL!+!RKpCdp)LSLdx?L5Ke+L=C+!aS+8Se+=R+KKRpu+SeKLaaL4eR5C!SpR54?KdCCdK/+S=88R=ClKHR!pK!+5=KSRada43RLCKd+u===KdC5d5kaS=85=4++e8L==d+CKK5K8a=++RRLp5ad4!R+p=!8LL4!RKpR!CKKCpd8&SS;+dC+pR555R8==L5SeS8C=K++!KS4LKa8S.88LKa+4=!p8f=e+S+pR+CRdRK=p+dj!d5C5S!!8!5d+RLLOdd8pSS5ddLC8CdNRa+5!S!5SdSR=Re8p6!pUKS+8=R5!55Le585eC+pKKC+d5!dp!?!L=a5+4K!=8+84dRCpKep+8K4R!a{+dKCCKd+I=S8KSK9+DKpRKp+!===4eC4p5dp5peCSC=p+dR8Cedddde58=L458ea8d=C+K!dS!La=R+SKKC5aCKSR=p8!SLa4pC,pSd45ei=L5=C+SeCLKa+4=R8pS!7mdSC8Cae+=K8CSS4=RapK5RpR+24S=88LpaKSC8!==+8KSS=L3=R+a+K4pR=48RRCddCIKa8RLCadegCld8+LR454RC=a848KdCCdKL8+RKKp=+SK8RCpK!+==4LC8pL!CSqCC!5P=S88SpadpOdSL8R==aL4LRL=d+CKKC+d=y8SSa84dadReR+p=!8L!4!RppKppFpS48eLL48RQCLd+!!S45CLRa84SR5p+C45Ke+L8rD5deCLKa+4=R85Re.5i8+8K=++=5=S8L+L!+!KpRpdK!p5=hK5peRLRaR4aR8pa!ej!Sd8!=4+pKCC4dS!ddd/dS+8==8d4q5SR85!C5!e=L8aSpe5peKL+=p+4R+=S+o4dRCpK!+5=L+4SaS4+KCCKd+8C+pKdp8de3d_dL5==a4eSL7=d+CKKC+d=LS=S8S=RaC4KR+S+LL+R4eK!p!!d!+SaL==e+pR5Ld+54+R=p8e=+S+!Cepe!=WpC8dS&q5deCLKa+Cd!8pS!<*dSC8K=++=XSDSdS/a5CeKL+C4!aS8eLLeaKa5RpC!+=K+CFpd!CLpK5C+pa!d5LCddCrKS+8==8=St!!dpd185+e=L8RR!d5d85Ld8K+RKRCeddKwCppK!+5=a+Rade!555e+8C=a4SR=RSde^4S48dLRa+e8L+=d+CKK5+LLaa+RR8CadRI+RKpp!85Se&45pR!C_p&pL4=RSSL8LCaK4+!+eLLLaR4LRdp4!p58S+e=aSa!KKCpd+!aS=eaLda5KL8Ca8+=K8CSe==a+5R5C+dL^=S=SeLa+=+!8+==+8KSCxpd!CaRa+L++q4SRVCded=!4RKRp+p5cd558CLR+!K8L=a+4wKdCCSpaa4SRep8ReKCRCpK!+5pe8LSa,4fR5CKd+_=a+R5pLd5x8RCp!!=58eS4ep=dp5+S!8R=+S88pLdaC4Kyp84L4+8a4RCpC!!5C5KLpaS+L89=+aK4+R=S5=5+LK5R5KC!p5Ke+L5=d8!ed=5a+4=R85LL!aC4KK!CR!KK=C=d{!d5Ca!C=dRc5R8p+ddoCSK4+pL!a;Re88a=R++e4L=a84SReCddC6KSK84=8+SKPwe8KLd5KeKL8aS4u!eeKL!aLS+LS=S+N4d558pLp++apC{dF(eS_5pLC=a4+Ka= ad4CRKp+T<58eSL6=dCeKKC+d=P8SS8&Ld4C4dR+p=!85Se1L5=C4CC5C=dLgSSSedLCaKR+CSp8!e5ES!8C=p++C=p4dSs55depLKa44=RKp=!U:dSCLe=++aK8Ced/QS+peKL+a=4pRSp5dd;CR+8+==+8KSC;pd!C5KK5L=a84SR5CddCHKS+CS=8+SK)R!pC!K5+eaajaS4ZKddCeLI+Sa88=S+hK5RCdC5L5=e=LSa=+dKCCK)+5LS888=)+t4CRpp+5=SdeSLS=d+dKKCCd=NKeK8:L!aCK5R+pa!858eVLSpp+KK+C=dRXSS5ed=9dR4+R=p8}&5zS!8C+KR+K=CLdS_c5de!LK+KSpR8p8!N58SC8K=+K=p8CSdS!d5deKLRa=R8dSp1!ksCSC8+=a+8K+d5pd!p5K8=L=aL4SRSCd!FaRS+8==84rK_R!pC!d+4e=L8aSKRKdCpdKE+R888=e+24!RCpK!+5=aaLSa5+dKCCKd+?=88LR=0a!4CRKp+!p58eS=K=d+pKKC4d=f8SS8w=8aC4RR+p4!85Ser=d=d+KK4C=dLoSSaedLC454+Rap8!85wSd8C+K+KK=CLdS6z5dedLK4+!dR8pe!yx!SC8!=++C^RCSde!d5CeKL4a=4=RSpXS5wCSK8+==+8KSC>pd4*5Ke+L=a84SR)CddCaLS+8a=8+LKnR!pC!K48e=L8aS45KdCCdKXCS=88=S+SKRRCpK!+=eKeCade!e!4e4Ld=R45KaCd!S4dCap+!=58+aCepe!d!ee=L=a44=48padC!!RKpR!85SecKSpR!!TRSdd=_=SVedLCR!:=SR85!S53Sd8C=R4aK=C8dSSs=4eCLRa+4=R8p8!:Sze88K=K+=K+CSdO!deC8aL+a+48R8pB!IBC8K8p==+=KSCSpd!p5Ked=_a84eR/pLdC7RS+8+=8+=55RdpC!K5!e=LLaS485!CCdKr+ee88=e+nRddCpK!45=e8LSaS+dRd=5d+*+S88==Oad4CpKE+!=5=eSLS=d+dKKd+5=:8S88)=EaC4pR+pC485Se58daK+KK4C=d=tSS8K!LCaK4+C8p8!e5USdRL=K++K=C8dSZ25deCp=a+4=R8pe!>zdSCLL=++=K8C8d=!d5CeKC5d8Ta5a8S=S/de%8+==+8uRe7e!=L+CKRL+ap4SRDCd=ea44KR5pa!S05S585!C5pe=L8aScx6!eLLCaRS+LS=S+_4djee!=CLK44CLpe!e5KSd84a84+RL=S+S4CRKp+LCapK)R8=d+CKKC+d=H8SSeB5paC4KR+p=!85SeNedKR+CKpC=d8BS484!Rdd=!pR4pL!85=Sd8C=K!K>Re5L5a=+eeCLKa+4=R8}L!2/dSC8KpK+=K8CSdY!d5CeK=KaR48Rep,!}iCSK8+a++dKSCSpd!!5Ke+L=48KmRXpgdCOCS+8R=8+SK=Rdpd!K5Re=L8aS4UK!CCdRW+S=88=L+hKSC=pK!+5=8SLSa5+dKC=Cd+3CS88S= ad4CRK=a!=5ReSLL=d+CKKC+d+68S+8#=^aC4CR+pC+45Se=8da4+KK4C=dLUSS8K!LCaK4+Cep8!e5^eSRp=K++K=pSdSi55dLCC4a+4=R8pa!65+SCL(pC+=KLCSda!d5peKLKa=4+Sep3dd/Ce58+=a+8KS=Spd!p5Ke4L=a84SRN!pdCiRS+8a=8+SKtpj/L!K5Ke=LCaS4UKdpd5e)+S488=4+?4dRCpd5L5=eLLS4u+dKpCKd+K+S88a={a!4CRKp+!=8=eSLL=d45KKCCd=H8L88;=eaC4KR+pR!85+CL8da5+KCaC=dL_SS5ed=#dR4+R=p8555 S!8CaC5!K=C4dSM45deCLK4+C=R8pa!,5eSCLL=++=8=CSd=!d5peKL+a=4885p^!L*CSd8+==+8KSSRpd*55Ke!L=aL4SR85adCXRS+LR=8+eKGpiae!K54e=L+aS4)KdCCa4I+S+88=S+&4dRCpKSd5=eLLSaS+dK!CKdCaaS88S=,Kd4CRRp+u+KReSLL=d4LKKC+d=S8+y8N=eaC4!R+pC!85Sed8daS+KK4C=d8:SS 8RLC+54+RKp8!S5WSdLd=K+pK=CRdSyS5d8S=La+4RR8uS!0k!SC8R=++K5LCSdm!d8CeKL4a=K=84pI!e2Cee8+==+8CS!Bpd_55KepL=aL4SR9audC5TS+8a=8+SK7Rd=R!K5!e=L+aS46KdCCLL-+SR88=4+I4!RCd3=C5=eLLS48+dKpCKd4j=S+Re=xad4Cpdp+!a58eSCC=d+CKKC4d=.8SS8=LdaC4KR+p=!85Sei8d8C5Kd+C+dCtSSwedKCd4 R5!8+LRa!4C8C=K++K=C8dSc&5daCLCa44=R8pS8451eS8K=++=!=Se88=a45KpLK+S48RSpP88aL+!R!p=!e58e8e5=L484pL=a84SRZCd!KHKS+8==84aKORdpC!K5+e=L8aS4pKdCpdK>4S=88=SKGRLRCpR!+5ae8L+aGKdRaCKd4V=SL8S=eadKCpSp+!=58e8L_=!+CKKCpd= 8SS8YLdaC4KR+p!!85eeGLj=C+KK+C=+=_SSSedLpaK4+R=!85+5ie<8C=C++KCC8US1!5dedLKaK4=R+pS5cSaSC8C=+++K8CedQ!dSSeKL4a=4LRSpSdd5C8M8+==+8KaCqp!!C5KLLL=a84SR5CddCMKSK8==8+SKSC8pC!K5+++R4p!!!S8e5dCw!S=88=SC8WeS!8d=K+LKpLSaX+dKCCKd!3=S88S=l+e4CRKp+!=58eSL1+d4+KKC+d=68SS85LdaCK4R+p=!858e08!=C+KRSC=d8#SS5edLCaKR+CRp8!S5ZSd8C=C++K=pYdSO35dedLKa44=R8d5!yFdSC8R=++=K8C4dh!d5CeCLRa=48RSedLe+eSKKCK5=e!58paLpdL4eK=#a84SRP5KLRa44e4CC4dL58Sp8d!C5Ce=L8aSpC5eedLKWKSC88=S+rd5OS8CL4+e44L8a++dKCCKe+aL4aKRp8daDRS+pK!K58eSLMCe!K5eeCd=78SS8wL!404KR+p=!8e5el8!=C+KK+C=d8SSeLedLpaK44R=p4!SeVed8C=C++KaC8d+; 5d8=LKaK4=R8pS!Scd8CLp=+++K8C8dzWL5C8C=+a=4aRSpSdd.CSK=+aR+8K=CWp!!C5pe+a=pC4SR8Cd!7gKSC8==8RRKOC8pC!C5+e=L8aS4pKdpedKxRS=88=S+X4!RCpd!+5pe8L8aV+dRaCKdp =S88S=GadKdRpp+!C58eaL.=d+CCKdLd=/KSS8=Ldap4Kp+!S!854es8!=C4rK+d=dp%SS+edLpaK4dR=p8#45%e=8CaS++KKC8dS545d8SLK+Y4=R=pS#g5:SC8!=++RK8C+di!dSCeKL+a=4LRSpJdd5^SK8+==+8KSCGpd!C5Ke+8=Re48RLCddC.K4CKaC=ddlLRdpC!K5+e=L8aS+(=pCd!Q1+S=88p8dL#RSRLhLp5=e8LSat+!CeCKd+9=S8d8=qa!4CRKp+!=58eSp!=d+dKKC+d=%8SS8I= aC4RR+p+!858enL8R!+KK4C=!KiSS5edLCaK4CSap8!S5(888C=R++K===dSI55depLKa+4=R8P5!1%!SC8R=++=K8p8f4!d5deKL4a=48RSdS5a)CSp8+=4+8KSC}dS545Ke4L=+K4SR5CddCKCS+8R=8+eKYRdpC!K8Ke=L4aS4LKdp%dKld8a88=a+JKpRCpR!+5=e8L=d5+dKCCK!aY=SL8S=8d!4CRKp+3R58eeLT+^SeKKCpd={=SS8xLd4Ce?R+pR!85aeFLS=C+KRKC=dKqSS5edLCaK4+C5p8!45-eS8C=K++K=padSkL5d8eLKa44=R+dp!:NdSC=N=++aK8C=S4!d5peK=Sa=4LRSpX=KlCSK8+=a+8KSC2da!C5Ke+L+a+4SR0Cd8m=!K&RK==4+K7RdpCpSR!_!pd8R5LCdK84Sd5Kd5CICKUaa85Rea4dddpSR!84NCSCKd+P=!Cd4e4 +aLe!!+CdRChRp+8=e=CKK5=RpCpR5+5LLL5dRKdw!85SecKSp5zS5CB4Le=d+!R)+!aC4!R=p8!S==4aR!pedK5SS4d8ba5deCLKpd(+See!8SLL=d8C=d+=K8CSSe=p++K4CKK448RSpqddXCSKS+pLC8KSCbpd!C5Ke+L=RppSR}CddCyKS+=K=8+SKgRdeS!K5+e=L8aS4)KdCC7a,+S=88=S+h4dRCpK!K5=e8LSaH+dKCCKd+xaS88S=7a!4CRKp+!=5KeSL5=d+CKKC+d=58e88BLdaC4!R+pa!85Sed8d=C+KKKC=d8DSS-dYLCaR4+R=p8!S5ce84!=K+4K=pSdSY55deCLKaCTaR8pS!&5CSC8R=+4+CpCSd5!d5deKL+a=4KHLp:d!6Ce+8+=a+8KSCbdS=p5Ke+L=+S4SR5Cd!caRS+8==845KTR!pCTC85e=LLaS4eKdCCdK5+ee88=S+&4!RCpR!+5=p=LSaO+dKdCKd+G=S8d8=ta!4CRKp+!=58e+Ke=d+pKKd8d=sLSS8{Ld+JFRR+p=!8SdeB8!=C4Ce!C=dLtSSaedLCaKR+5Rp8!e5kS!8CaU++R+dgdSXS5d8LLKa+4=C=d=!H55SCLS=++=K8p8!a!dSleK=5a=48RSpwu4>CSR8+=K+8K8CAd8585Ke4L=4=4SR5CddpJKSCRa=8+SKPd}pC!R5+8+dRaS45KdpedKs+S==8C8+x4!RCpR!+5Ce8=8a++dKdCK!>2=S88SaS+S4CRpp+!!58eSLH+B4dKKCCd=fpSS8OLdaCK=R+pa!85=e)L_=C4KRLC=d8cSS8edLpaK4+eSp8!S5sS!8C=K++KCC8dSEM5dRa=dS=pp4L8C+88pSdLS=++=K85+8L=K+R4pC5dKQpR8p+dd1CSK4+pL!aoRe88a=R++eK==a84SRw5==5aa+4R8pedR085u8R=4+C+=RLd8s8RwpKdK;+S=+KCRdduSrS8e=K+4K+4Lp+!a5+SddK0KS88S=%C=,55ReC!=58eSLu=!KCKKC+d=S8KR8TL!aC4KR+pR!8S8ed8d=!+KKCC=d8*SS<8!LCaR4+R4p8!85k8d8!=K+KK=C8dSXL5d8d=ha+4KR8p+!)QdSC8KaC+=K=CSd8!d5deKLda+48Rep*!4;CSR8+==+8K=e5pd!C5K8eL=aL4SR=S5dC>CS+L5=8+eKbRdpC!d+4e=L8aS4RKdCpdKVC4a88=S+EReRCpR!+5C+aLSaS+dRpCKd4V=S88S=8d!4CRKp+<a58eeLz+dRCKKCRd=q=SS8eLd+SdpR+p4!8SeeP8!=C+KK+CKLL_SSyed=paK44R=p+=e5_Sd8Cad++KaC8d++=5de!LK+C4=RLpS!5UdePRR=++=K8p=dc!!5CLK++a=4aRSp5ddG!SK8+RS+8KLCidb!C5Ke+a=K84SReCddp?KSK8=a=4dK#CSpC!R5+e=L84SKSKdp5dKH4S=8a=S+<RaRCdc!+54e8L=ax+dC+CKdpb=S48S==adRCC4p+!C58e8L;a5+CCKppd=WRSS85Lda!4KR+!e!85+e7L8=C45K+C=!(ESSaed=5aK4dR=p8ed5DeL8C=C++K=C8dSaC5deCLKa44=R8pS!ZbdSC8K=++=K8CSd5t+5CeKL+a=e=RSp5ddqCSK8+==+K8SC)pd!CSee+Laa84eRBpSLpNKS+8==p+SK5RdpC4C5+eaL8ae4zKdCC!hLRS=8L=S+44dRppK!+5=e+Cea_+dKCped+>aS88SlSad4pRKpK!=58eSLk!p+CKCC+d=08SS8^LdC54KR4p=!=5Se58d=Cb=K+C=d8QeS#edLC454+R=p8!S57Sd8C=K++K=C8SS6S5!eCLKa+ddR=p=!TNdSCRaC4!K,CC8d4!d5CeKKLpa!RSEe4=S+5+dKp=++KKSC pd=L+K44R!d=1LRSpadCzKS+Rppe!86Re58CLRaR4RL=+C4BKdCCeIa54SR+Ca!SdSS58pLRaRKSR=p5!CSkepe5a84aR=C5dC!!5!8R!+5+eSLs=dd55+e5LK98SS8wLdaC4KR+p=!858888d=C+K!!eLL==d+84SCRpJc55R8R=Sa!KxCQRK!aJ!eSL=>SS=eCLKa+d=Se8LL4+S4LR4p=++KRCSdO!d=d4Rp5p4!LSL88!2Y!SK8+==!S7aeadVMq5Ke+L=pCza5aeedd5+S+8==8CR5eZS85=paR4RCSp=!55C8Ze4=dS+8C=S+14diL8+=R+K4LC?pe!eKdp=d+b=S84+C4de5eSK8a=++++LR4d+!5KKC+d=r8SS8.4dQRpKRKpC!85Se?45RS!Cw4ee84(8S5edLCaK!5R+pR!S5xSdKSC!dR5KeeL8eSSAepLKa+4=Bdp8!4&dSC8KKRddFLe885=54D4!CKa=48RSprddL5SK8+==4=epCwp!!C5pe+L=a8RSCSCddpYKS48=aS+SKmC8pC!C5+e=L8aS41Cdp+dK KS=8==S454dpC!5!+5+e8L8ac+!KCCK!uG=Sa8S=5ad4CRKp+!a58e=LW=!+CKKC+d=K=SS8LLdad4KR+p=588SeoLe=C+!K+ppd8}Sa/ed=faK4pR=pL!SS>eR8C=p++KpC8d=0Te3peLKaR4=R4pS!Y3dSCdC=++KK8CLdD!d5CeK+da=4aRSpSdd55SK8Cpa+8KSC^5!!C5Re+L=5=4SR+Cd!;AKS+8==8!RK.CapCZ55+e=L8aS4CKdp8dKfKS=8==S+%KGRCde!+5=e8LSa#KdCSCK!5n=Sp8S=Kad4CCpp+M558eKLI=d+CKKp3d=GpSS8RLd+=4KRdpp!85Ce +!=C+RK+C=d8*=45edLCaKp4R=pL!SekLd8CaL++K!C8!+D2SCLKLK+54=!LpS!5-dea8K=C!aK8CSdJe!5CeRL+++SRRSpRdd5SSK8+==K8paC)d4!CSLe+=Sa84SRKCd!4?KS+8==8+SC?C5pCHa5+8eL8+L4.Cdd=dK5LS=L5=S+R4dRCd8!+S8e8LSa_+dKCdKdp{=eS8S=dadK!RK!+xp588yLAaC+CRLC+d=85SS8dLd+84KC=p=58eKefLC=C4+K+Cdd8SSe5ed=KaKK=R=d=!S5Pe 8Ca4++KaC8dSmr5d8SLK+e4=CepS!S}deSL5=+45K8dpdY!!5CeRL+aKQLRSp_ddeaSK84==++5eCApd!CLRe+Laa8RSdZCd!+BKee8=a8+SC2S=pCP=5+8SL8+54bKdLRdK5=S=8R=S+^4dRCLC!+SSe8=^a<4tKCpleRT=eE8SK5ad4pRKp+!=5+KeLl=d+CdRC+da68e8paLd++4KCpp=!85SL.a+=C4=K+pSd8h!S{LdLpaKKLR=pp!S5SSd=C+a++R8C8dRmMeSeCLK++4=CYpS!d}dSd8K=+48K8Cddl^K5CeCL+4=4RRSpCdd5+SK8C==+KKeC&dK!CLLe+Laa84eRQpSLp;KS+8=4!+SK5Rdd3=R5+e=L8Re4yK!CCdKKKS=L5=S+L4dRCpK!d+Re8Lda*CpKCCRd+5eS88=p5ad4CRK5a!=5LeSL8p!+CKKC+Sa;8Se8&LdiR4KR4p=zk5Se<8d=C54K+C=d8r4SNedLC+ouCR=pa!S5!Sd8p=K+KK=C+Lei95deC=4a+4aR8pSeC,dSC8K=K+=K8CSdiaK5CeKL+aa48RSp,!ayCSK8+==+8KSC*pd!C4K+44=a=4aRsCddCL!=CK!p5R8K.RdpC!K5+e=L84=pYR{CpdK +S=4p=8+L4dRCpK8Ra44LRdpL47K!CKd+_=4SKapa+kKSRKp+!==e4+R=d5!55dCKda^8SS8mR=adKSR+p=!8=S4!C5pL!d55eLLS.SSgedLCaRC+R=p8!SeqSd8C=R++K=C8dRmN5d8aLKaK4=R8pS!G6dSCLS=++aK8CedyTj5CeK=+a=4=RSp5ddwCSKLK+;+8KLCrd)!C5Ke+a=aa4SReCdd!FKSd8==8+aKBCSpC!C5+e=L84SCoKdpIdKnCS=8C=SK>!SRCpd!+5Ke8Laa2+dReCKdp/=S=8S=DadRCRpp+!R58eaLHa=+CCKpLd=B4SS8LLd+e4Kp+dd!85+ew8!=C4SK+C=!=_SSLed=5aK4dR=p8!a5;e88C=C++K=C8 SeM5d8SLKad4=R+pS5UaKSCL9=++CK8CadO!d5!eKL!a=4=RSpPddSCep8+=p+8K4CodS!CeK8RL=aR4SRaCd!eQK8+L!=8+KKqR!pC!d5+e==CaS4aKdpedK5/S=88aK+PK5RCd5!+5+e8=Sap+dKdCK!5P=Sa8S=#!p4CRCp+!458eSL1+IK>KKCRd=^=SS8xLd4CK(R+p4!85LeBL8=C+KReC=d+sSSSedLCaKR+C5p8!=5zeS8CaS++C=CRdS}85d8lLKap4=R8dC!*5eSC8C=++=K8dS5_!dS5eKLpa=4CRS!bd!tCS!8+=R+8K4CN!dGd5KedL=aL4SR+CddC5CS+8R=8+aK^C8pC5KS=e=L4aS4LKdCpdKG+SR88=++}K9RCpK!+e=eaLSa=+dRSCKdCu=88LC=&+84CC&p+!R58eS!S=d4eKKCKd=18SS=U=daCK5R+pp!85=eZ=d=!+KK!C=dRDSSaedaC4L4+Rdp8!e5yeS8C=K4dK=CRdSGa5d88LK4+4CR8p4!W5LSC8p=++=K!CSde!dSeeKLKa=K8Cep:!}1Cee8+=4+8KSeCpd!C5Ke4L=a84SRCCddC1KSK8K=8+SKfSLep=aape+LKaS4NKd588!=44SR+CK+SKLRCpK!+==K)Red4!e5depdKx4S88S=zCa3!!RpK!R58eSLNRR!RBdSpLS_=S=8hLdaCdS5peaL+58e+8d=C+K!keRL5=e+dKpCLpd4KCCp8!S5MaLR5pdp+5SSLLR=L4t+SCCda3e!aeKL5+?+pKppCdR5=CSdJ!d5CeKL+a=48RSpS!C3CSK8+KCdp5:S8S8=L+CKRCKRa!K54eKLV)CeS8==8+SdaSeL-8papK+CKpR!e5eCd!K^+S=88KK!LtR5p8+=aa!4+K8p!!pS?5K84a+4+8S=}ad4CRRu6!=58eSarp=+CKRC+d=&8S=8EajKL4KRRp=!45Se 8d=C(CK+Cad8cLS}80LC+%SpR=pL!S5=Sd8p=K+4K=C+LeQk5deC=)a+4aR8p==5QdSC8K+d+=KLCSP.==5CeRL+a=48RCpO/(eLSK8R==+RKSCUpd!C4Ce+Laa84LRHpTdC51aR8==L+SC=Rdpp!K5+e=L+de4nKdCC50o+Sa88+SRl4dRppK!+5=eRLS4uRdKCCRd+HaS888=J+C9SRKd5!=S8eSL5=d+pKKCCLaY8SS8t=daC4RR+pK=L5Se 8d4H+KK4C=#8=KSne!LCaK4+C1p8j8e4Sd8!=K+dK=C8dS#(KieCLRa+44R8p8!?58a!8K=4+=CKCSd5!d5CeKLCda48RSp(58VCSR8++=dCKSC5pd!C5K8SL=+=RRR?p5dC5=S+8==8+SSSRdpp!K5Re=L=aS4=8eCCdR-+8588=e+m4!RCpd=45=e8LS+R+dKpCKdCaaS88S=zK84CRRp+)+KReSL5=d+pKKC+d=S8Ce8XL!aC4RR+d5!8S8ed8d=!+KKRC=d8.SS7L5LCaR4+R4p8!85M8d=a=K+4K=CLdSP+5deCaea+44R8pS!N%dSC8K=C+=KLCSde!d5deKL++C48Rep6d!jCSK8+=K!LKSC/pdSS5Ke4L=a84pRGC!dCuKS+8==8+SSdRdpp!K54e=L8aS4z!KCCdRY+S+88=S+B4de+pK!+5=eLLSa.+dKpCKd+9=S88S=_ad4CRKp+!=58eSL}=d+CKRd=d=Z8SS8H!=aC4RR+p=!85SeU8daL+KK4C=dLJSS5edLC4a4+Rap8!e5#Sd8C=K45K=CLdSN55deCLKa+4pR8pe!c?!SC8K=++=RSCSd5!d5peKL+a=48RRpk!^gCSC8+==+8K+8Lpd!d5K8SL=aL4SR5Cd!naRS+8==8+CK-R!pC!d+4e=L8aS4dKdCpdK}+C+88=e+^K5RCpK!+5=a+LSa5+dKpCKd4#=e==R=ya!4CRRp+!=58eSR4=d+pKKC4d=m8SS8TU}aC4RR+pK!85SetL8z5+KK4C=!=/SS5edLpaK4CSap8!S5U8z8C=R++KKeLdSZ{5dL4LKa44=R8a8!hr!SC8!=++=K8CS_Z!d5peKL4a=4=RSp=+e1CSR8+ap+8KeCJp!!C5dK4L=a84SCaCddpMKSCRa=8+SKjpRpC!R5+e=!=aS4SKdpSdKy+S=88!8+QK5RCpR!+5=e8LSaK+dKdCKdKu=S=8S=1+d4CRpp+!p58eSLy=d4SKKCCd=:=SS8OLdaCKaR+p4!858ex8!=C+KS8C=d8:SS5edLCaK4+4=p8!S5QSd4d=K++K=CLdS^s5d8d=Fa+4=R8G4!IJdSCLC+S+=K8CS!V!d5CeKad4548RSpc!8 CSR8+aS+8K=e5pd!C5KedL=aL4SRY8KdCkKS+8a=8+SK_p3GL!K5+e=K3aS4UKdpd=LY+Sa884C+q4dRC!K1p5=eLLSa5+dCSCK!K5pS88L=B+e4CRKp+!=SKeSL5=d+!KKCKd=5=S=8c=faCp8R+p=!8eSe=8d=d+KKKC=!KySeS8eLCad4+pep8!S5ISdCd=K+KK=C+dS^S5d8d=Ra+44R8%a!lWdSC=KaL+=KaCSde!dS4eK=Kaa48R=psS+>CSK8++=4dKSC8pdV 5K8dL=+=4pR_p8dCS!S+8==8+SR=Rdd7!K5de=L=aSRDRsCCdds+SK8848+MRXLepK!p5=a8LSay+dCC8:d+BRS88a=J4!4CCCdC!=5KeS48=d+CKKC+!8l8Sa81=TaC4CR+c=!R5SeL8d44+KRaC=58Z!S:8eLC+R4+RKp8N85KSdLS=Kp=K=C8dSSISQeC=sa+4CR8se!3STLL8K=!+=C!CSdt!dSdpeL+ad48d5p7dd-CeCL===+pKSdRpd!C5Ke+L!a84+R%padCzCS+L==p+SKLRdk2!K5de=+8+d49ReCC!8_+eL88aS+d4dC5pK5R5=e8LS4j4eKCp#d+;4S8+p=;4d!eRKpd!=5KeSL8=d4CRCC+dR^8=K8u=8aC4KpLp=!K5Se/8d=C+KK+p8d8U4S*edLCaK4+C+pp!S5+Sd+R=K++K=d8!LMMS=eC=Sa+RaR8pS!C%de88K=4+=K=CS!S.e5C8eL+KY48RSpgQdeCSKL5==+pKSdCpd5Ca4e+L!a84RRD!TdC5K888==C+SppRddL!KSK8dL8aR4XpLCCdKQ+8=LL=S+44dCLpK545=8=LRak4+KCNpd+O=S88Sa+adKLRKpK!=5=eS+1a4+CReC+eer8e58y+d+e4KC5p=ld5S848daddeK+p}d8eCS{edLC4K4!R=pd!S5KSd=S=K4KR!C8dd*^=aeCLKa+4=R4pS!KZde+8K=K+=R8CLdTQa5C=dL++/48C8p5dd5=SK=!==+8KSdG!L!CS8e+=ba8ReRXdl5LOKee8=48+SK?RdpC8S5+8.L8a84TRZCC!C5RS=8!=S4R4dRCpK5+eee8Lpac44KCdRd+5+eM8S=CadCRRKp+!=S=8SLoaR+Cd+C+d=Z8e8L+Ld+K4Kdap=!85S8SLL=C44K+H8d8cSS?edpdaKKeR=de!S5SSdLC!5++R/C8dRQNS4eC=C+K4=R!pSFRGdSC8K++44K8Cpdn,45CLRL+++4aRSpCddeRSK8+==4=K!C-dR!CL=e+L=a8K8CFCd!K:KLa8==8+SRSpLpC>45+aSL8aS4DKd8ddK5eS=Le=S+S4dCCed!+S0e84Ka,44KC!K!K6=Sd8SaCadpLRKdKf558epLJRC+CKKC+M=5LSS8RLd+a4Kd4p=?=S5e2LK=C4dK+C=d858SLed=4aKKCR=p8!SSS8K8Ca+++RKC8dS:k5dRdLK+e4=CSpS!SrdeC++=+4MK8C+dsl45C8K=8a=4dRS#8dd5LSKLKap+8KpCNTL!C5Ke+a=+d4SRRCd!a:K848=a=4eKDCKpC!p5+e=L8aSKSKdpadKzKS=8==S4SR4RCd=!+5+e8LSaJKdpCCK!8w=e:8S+5adKd!Rp+le58eKL&=d+CRCpdd=5SSS=!LdaC4KR+dd!85de_LC=C+CK+p=!RoSSRed=daKK8R=d8u55We48C4d++R)C8!8V85d8+LK4!4=R8pS5JSeSCL==+4SK8ded)5x8LeK=La=RSRSpTddNCaS8+aS+8K8Cfdm!CSC84L=+54SCRCddCNK8+LC=8+!K<CRpC5R5+8+L=aS4dKd!RdK_+S=L=as+&KpRC5C!+5=e8=8a5+dRCCK5aJ=S88SaS+g4CCRp+ea58eSL =dgdKKpLd=5LSS8SLd+CS5R+dS!85RexLR=C4CKKC=!5ISeRedLCaKR+R+p8!!5geR8C+R++R+CKdSmd5d=RLKa+4=C=pL!Z5pSC=K=++=K8p8dL!dSCeK+aa=48RSdS!dbCeR8+4C+8KSCDpdad5K8LL=+L4SRSCd!C=pS+LS=8CKK3CRpCSKS!e==#aSpKKdp8dKe+eR88=d+;C8RC*S!+S+e=LSap+d!KCKd+J=88Ld=_+R4CCap+Sa5888=S=d4KKKUpd=H8SSLS=!aCK4R+Zd!85Set=F4L+KR+C=5CDSS{edLC+d4+Cep8:S5/el8CaKKnK=p3dSfd5d84LKK+KBR8pd!IS5SCL!=+4+K!CSdp!d8=eKL+a=R8RKpk!RcCea8+ap+8CSpLpdW45K8LL=KS4SC.p5dC5=S+Lp=8+!K/pHae!KSLe=adaS4}KddCaRM+ee88=!+rKLRC!KWK5=85LSap+dp!CK!+2KS88d=y+L4CCap+o=SpeSLC=dCfKKp5d=G=ae8M=RaCK=R+p=!85+4a8daK+KKKC=dLESSSedLCKp4+R=p8!!5}Sd8C=KRRK=C8dS:a5deCLKad!pR8d5!T55SC8R=++4K8CS5e!d5CeKLpa=48RSphS5MCSK8+=4+8KSCZpdS!5Ke+L=a84SR:CdddLRS+L==8+KKNRdpCqsa!e==LaS4KKdCpdKGdS=884L+h4dRCpp!+5=e8LSKe+dKCCK!#x=S88S=xR54CRKp+!K58eSLM=dR!KKC+d=qRSS8_LdaCCpR+p=!8SSeJ8d=C+KpRC=d8HSS>edLCaK4d5pp8%85yee8C=R++KaC8dSee5deCLKaR4=R8pS5A44SCLp=++aK8pKd}5USSeK=Ca=CeRSp^dd5dep8+aR+8C5CHpd!CeK85L=+K4SCeCdSaWKSdKp=84KKBCRpC!R5+edL8aSCeKdCCdK5aS=88=S+Np5RCpK!+SKe8LSal+dp!CKd+J=e48S=,ad4Cdpp+!=588iLz=d+CKK!Rd=l8SS8=LdaC4KR+l4!85SeJL!=C+KK+C=5a^SSYed=CaK4+R=p8SL5hSd8CaC++K=C8dS+C5dLSLK4B4=RLpS5k5aSC=s=+4WK8dRdk5deeeK=da=KKRS9Rdd5S458+ad+8K4C_p!!C5pe+L=Ka4SRYCd!SqKS+8==8RLKURdpC!!5+e=L8aSCeKdCCdK58S=88=S+15RRC!r!+Sde8LeaJ+dKpCK!dw=ep8S=(adKSS5p+5-58epLQ=!+CKdC+d=eaSS8oLd484KR+p=!88Le#8d=C48K+C=d8WSLeedLCaKR5R=p8!S5j=58C=K++RSC8dSEXed+eLK4e4=RdpSe=xd8CLS=+K5K8ppd^e45C8,R!a=R5RSptdd0pSK8C==+8pLCUpd!Ce{e+L=a84SdeCddCgK8)8==8+SK9!5pC!K5+8!L8aS4VKd!!dK7+S=8d=S+<4dRC==!+e5e8=!af+!KCdKTSj=e!8S=Kad4pRK!+V5588pL-+4+CdLC+dC=RSSLpLdap4KR4p=!L5Se:+5=C+KK+ppd8GSSiedd+aKReR=!5!S55Sd=Cap++C5C8d8om5!eCaKap4=C!pSWR6d=a8K=ddpK8p!dPma5CeRL+a448RS_eddzCSKL!==+8KSC*55!C5Ke+=Ca84SR3Cd5!0KS+8=ad+SKlRdpC+K5+L5L8+!4AK!CC!C;4S=L!=SRK4dRCpK5+SKe8=paNK4KCdfd+5+eS8SapadC5RKp+!=588aL.+4+CCaC+d+_88S8dLd4a4Kpep=!!5SL LL=CKLK+d5d8epSk88CeaKRLR=p+!S55Sd8d=K++p4C8dSioSeeCLKa+4=dapS!2{deL8K=++=K8dpd2545CLaL+aa48RSpRddSaSKL===+8KSC{dJ!CeLe+Laa84eR:d:kLFK8e8=44+SKfRd!C585+L5L8+p4{!LCCEK5RS=L!=S4R4d!apK!dape8=!ar48KCCRd+c+S88S4ead4CRKdL!=58eSLJK5+CKKC+dp78SS8ULd484Kpep=555Se58d=C4LK+C=d87eS3edLC");local d=h.poGItRWK;h.RSsjOzep(function()h.KAMfLwve()d=d+h.feIEyfRB end)local function e(n,e)if e then return d end;d=n+d;end local n,d,r=p(h.poGItRWK,p,e,c,h.tLkhaLro);local function t()local n,d=h.tLkhaLro(c,e(h.feIEyfRB,h.h_FYnaIQ),e(h.ZjE_zStv,h.mpGVazRj)+h.TvCeludt);e(h.TvCeludt);return(d*h.wrPUOcWq)+n;end;local k=true;local k=h.poGItRWK local function _()local l=d();local e=d();local a=h.feIEyfRB;local l=(n(e,h.feIEyfRB,h.yCByT_oS)*(h.TvCeludt^h.ExrGDfzo))+l;local d=n(e,h.VRC_sXCD,h.reGxYmpm);local e=((-h.feIEyfRB)^n(e,h.ExrGDfzo));if(d==h.poGItRWK)then if(l==k)then return e*h.poGItRWK;else d=h.feIEyfRB;a=h.poGItRWK;end;elseif(d==h.gjlZnd_u)then return(l==h.poGItRWK)and(e*(h.feIEyfRB/h.poGItRWK))or(e*(h.poGItRWK/h.poGItRWK));end;return h.JwoTCKdT(e,d-h.HTk_tRJC)*(a+(l/(h.TvCeludt^h.WVqZSJKu)));end;local m=d;local function b(d)local n;if(not d)then d=m();if(d==h.poGItRWK)then return'';end;end;n=h.EHnqRPJQ(c,e(h.feIEyfRB,h.h_FYnaIQ),e(h.ZjE_zStv,h.mpGVazRj)+d-h.feIEyfRB);e(d)local e=""for d=(h.feIEyfRB+k),#n do e=e..h.EHnqRPJQ(n,d,d)end return e;end;local k=#h.vBokduOL(s('\49.\48'))~=h.feIEyfRB local e=d;local function le(...)return{...},h.Va_GTcHC('#',...)end local function ne()local p={};local e={};local c={};local s={c,p,nil,e};local e=d()local o={}for l=h.feIEyfRB,e do local n=r();local d;if(n==h.h_FYnaIQ)then d=(r()~=#{});elseif(n==h.poGItRWK)then local e=_();if k and h.LpkguZLh(h.vBokduOL(e),'.(\48+)$')then e=h.uiRKqIcz(e);end d=e;elseif(n==h.TvCeludt)then d=b();end;o[l]=d;end;for e=h.feIEyfRB,d()do p[e-(#{h.feIEyfRB})]=ne();end;s[h.h_FYnaIQ]=r();for s=h.feIEyfRB,d()do local e=r();if(n(e,h.feIEyfRB,h.feIEyfRB)==h.poGItRWK)then local p=n(e,h.TvCeludt,h.h_FYnaIQ);local r=n(e,h.LfzLPiwp,h.mpGVazRj);local e={t(),t(),nil,nil};if(p==h.poGItRWK)then e[a]=t();e[f]=t();elseif(p==#{h.feIEyfRB})then e[a]=d();elseif(p==u[h.TvCeludt])then e[a]=d()-(h.TvCeludt^h.gfymplQ_)elseif(p==u[h.h_FYnaIQ])then e[a]=d()-(h.TvCeludt^h.gfymplQ_)e[f]=t();end;if(n(r,h.feIEyfRB,h.feIEyfRB)==h.feIEyfRB)then e[l]=o[e[l]]end if(n(r,h.TvCeludt,h.TvCeludt)==h.feIEyfRB)then e[a]=o[e[a]]end if(n(r,h.h_FYnaIQ,h.h_FYnaIQ)==h.feIEyfRB)then e[f]=o[e[f]]end c[s]=e;end end;return s;end;local function de(n,d,e)local l=d;local l=e;return s(h.LpkguZLh(h.LpkguZLh(({h.RSsjOzep(n)})[h.TvCeludt],d),e))end local function _(k,r,s)local function ne(...)local t,m,u,de,g,d,c,ee,b,z,y,n;local e=h.poGItRWK;while-h.feIEyfRB<e do if h.TvCeludt<e then if e<h.ZjE_zStv then if e~=h.LfzLPiwp then ee={};b={...};else z=h.Va_GTcHC('#',...)-h.feIEyfRB;y={};end else if e>=h.TvCeludt then for d=h.gJaT_bbd,h.soBPqxW_ do if h.mpGVazRj~=e then n=p(h.MZRJnRZn);break;end;e=-h.TvCeludt;break;end;else n=p(h.MZRJnRZn);end end else if e<h.feIEyfRB then t=p(h.mpGVazRj,h.bfpLRICR,h.feIEyfRB,h.PydbGKCK,k);m=p(h.mpGVazRj,h.dCYijhMb,h.TvCeludt,h.VRC_sXCD,k);else if e~=-h.h_FYnaIQ then for n=h.lORUDSQc,h.fzabWwrl do if h.TvCeludt>e then u=p(h.mpGVazRj,h.PwmodIBE,h.h_FYnaIQ,h.lORUDSQc,k);g=le de=h.poGItRWK;break;end;d=-h.gJaT_bbd;c=-h.feIEyfRB;break;end;else d=-h.gJaT_bbd;c=-h.feIEyfRB;end end end e=e+h.feIEyfRB;end;for e=h.poGItRWK,z do if(e>=u)then ee[e-u]=b[e+h.feIEyfRB];else n[e]=b[e+h.feIEyfRB];end;end;local e=z-u+h.feIEyfRB local e;local p;local function u(...)while true do end end while true do if d<-h.nUyhnzoI then d=d+h.hSyFslJD end e=t[d];p=e[j];if p>=h.hTEvPLhT then if h.WsavdB_I>=p then if h.EiyRVOUq<=p then if h.guovO_HA>p then if p>h.TyuORHAp then if p<h.uXwiqziD then if 104~=p then repeat if 106~=p then local d=e[l]n[d](o(n,d+1,e[a]))break;end;n[e[l]]=(not n[e[a]]);until true;else local d=e[l]n[d](o(n,d+1,e[a]))end else if p>108 then if 107<=p then for t=33,56 do if 110>p then n[e[l]]=(not n[e[a]]);break;end;local l=e[l];local t=n[l]local f=n[l+2];if(f>0)then if(t>n[l+1])then d=e[a];else n[l+3]=t;end elseif(t<n[l+1])then d=e[a];else n[l+3]=t;end break;end;else local l=e[l];local t=n[l]local f=n[l+2];if(f>0)then if(t>n[l+1])then d=e[a];else n[l+3]=t;end elseif(t<n[l+1])then d=e[a];else n[l+3]=t;end end else local p;for h=0,6 do if h>2 then if 5>h then if 4~=h then n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];else n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];end else if 4<=h then repeat if 6~=h then n[e[l]]=n[e[a]]+n[e[f]];d=d+1;e=t[d];break;end;p=e[l]n[p]=n[p](o(n,p+1,e[a]))until true;else p=e[l]n[p]=n[p](o(n,p+1,e[a]))end end else if h<1 then n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];else if 2>h then n[e[l]]=r[e[a]];d=d+1;e=t[d];else n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];end end end end end end else if 103>p then if p~=100 then repeat if p~=101 then if(e[l]<n[e[f]])then d=e[a];else d=d+1;end;break;end;local h,u,r,s,c,p,k;for p=0,5 do if 2<p then if p<=3 then p=0;while p>-1 do if p<3 then if p<=0 then h=e;else if-3<p then for e=33,67 do if 1<p then r=a;break;end;u=l;break;end;else r=a;end end else if 4<p then if p==6 then p=-2;else n(c,s);end else if 3<p then c=h[u];else s=h[r];end end end p=p+1 end d=d+1;e=t[d];else if 4<p then if not n[e[l]]then d=d+1;else d=e[a];end;else k=e[l]n[k]=n[k](o(n,k+1,e[a]))d=d+1;e=t[d];end end else if p>=1 then if-2<=p then for f=18,87 do if p~=1 then p=0;while p>-1 do if p<=2 then if p>=1 then if p~=1 then r=a;else u=l;end else h=e;end else if 5>p then if p>-1 then repeat if p~=3 then c=h[u];break;end;s=h[r];until true;else s=h[r];end else if 2~=p then repeat if 5<p then p=-2;break;end;n(c,s);until true;else p=-2;end end end p=p+1 end d=d+1;e=t[d];break;end;p=0;while p>-1 do if 3<=p then if p>=5 then if 1<p then repeat if 5~=p then p=-2;break;end;n(c,s);until true;else n(c,s);end else if 0<p then for e=22,78 do if 4~=p then s=h[r];break;end;c=h[u];break;end;else s=h[r];end end else if p<1 then h=e;else if-1<=p then for e=40,63 do if 2~=p then u=l;break;end;r=a;break;end;else r=a;end end end p=p+1 end d=d+1;e=t[d];break;end;else p=0;while p>-1 do if 3<=p then if p>=5 then if 1<p then repeat if 5~=p then p=-2;break;end;n(c,s);until true;else n(c,s);end else if 0<p then for e=22,78 do if 4~=p then s=h[r];break;end;c=h[u];break;end;else s=h[r];end end else if p<1 then h=e;else if-1<=p then for e=40,63 do if 2~=p then u=l;break;end;r=a;break;end;else r=a;end end end p=p+1 end d=d+1;e=t[d];end else n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];end end end until true;else local h,u,r,s,c,p,k;for p=0,5 do if 2<p then if p<=3 then p=0;while p>-1 do if p<3 then if p<=0 then h=e;else if-3<p then for e=33,67 do if 1<p then r=a;break;end;u=l;break;end;else r=a;end end else if 4<p then if p==6 then p=-2;else n(c,s);end else if 3<p then c=h[u];else s=h[r];end end end p=p+1 end d=d+1;e=t[d];else if 4<p then if not n[e[l]]then d=d+1;else d=e[a];end;else k=e[l]n[k]=n[k](o(n,k+1,e[a]))d=d+1;e=t[d];end end else if p>=1 then if-2<=p then for f=18,87 do if p~=1 then p=0;while p>-1 do if p<=2 then if p>=1 then if p~=1 then r=a;else u=l;end else h=e;end else if 5>p then if p>-1 then repeat if p~=3 then c=h[u];break;end;s=h[r];until true;else s=h[r];end else if 2~=p then repeat if 5<p then p=-2;break;end;n(c,s);until true;else p=-2;end end end p=p+1 end d=d+1;e=t[d];break;end;p=0;while p>-1 do if 3<=p then if p>=5 then if 1<p then repeat if 5~=p then p=-2;break;end;n(c,s);until true;else n(c,s);end else if 0<p then for e=22,78 do if 4~=p then s=h[r];break;end;c=h[u];break;end;else s=h[r];end end else if p<1 then h=e;else if-1<=p then for e=40,63 do if 2~=p then u=l;break;end;r=a;break;end;else r=a;end end end p=p+1 end d=d+1;e=t[d];break;end;else p=0;while p>-1 do if 3<=p then if p>=5 then if 1<p then repeat if 5~=p then p=-2;break;end;n(c,s);until true;else n(c,s);end else if 0<p then for e=22,78 do if 4~=p then s=h[r];break;end;c=h[u];break;end;else s=h[r];end end else if p<1 then h=e;else if-1<=p then for e=40,63 do if 2~=p then u=l;break;end;r=a;break;end;else r=a;end end end p=p+1 end d=d+1;e=t[d];end else n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];end end end end else if 104>p then local c=m[e[a]];local o;local p={};o=h.rxMtZIQs({},{__index=function(d,e)local e=p[e];return e[1][e[2]];end,__newindex=function(n,e,d)local e=p[e]e[1][e[2]]=d;end;});for l=1,e[f]do d=d+1;local e=t[d];if e[j]==51 then p[l-1]={n,e[a]};else p[l-1]={r,e[a]};end;y[#y+1]=p;end;n[e[l]]=_(c,o,s);else if p~=100 then repeat if 105~=p then local d=e[l];local l=n[e[a]];n[d+1]=l;n[d]=l[e[f]];break;end;r[e[a]]=n[e[l]];until true;else r[e[a]]=n[e[l]];end end end end else if 115>=p then if 113>p then if p~=112 then n[e[l]][n[e[a]]]=e[f];else n[e[l]]();end else if 113>=p then d=e[a];else if 113~=p then repeat if p<115 then local p,k,r,b,h,u;for r=0,6 do if r<=2 then if r>0 then if r~=1 then n[e[l]]=s[e[a]];d=d+1;e=t[d];else n[e[l]]=s[e[a]];d=d+1;e=t[d];end else n[e[l]]={};d=d+1;e=t[d];end else if r<=4 then if r>3 then p=e[l]u,b=g(n[p](n[p+1]))c=b+p-1 h=0;for e=p,c do h=h+1;n[e]=u[h];end;d=d+1;e=t[d];else p=e[l];k=n[e[a]];n[p+1]=k;n[p]=k[e[f]];d=d+1;e=t[d];end else if 1~=r then repeat if 6~=r then p=e[l]u={n[p](o(n,p+1,c))};h=0;for e=p,e[f]do h=h+1;n[e]=u[h];end d=d+1;e=t[d];break;end;d=e[a];until true;else d=e[a];end end end end break;end;r[e[a]]=n[e[l]];until true;else local p,k,r,b,h,u;for r=0,6 do if r<=2 then if r>0 then if r~=1 then n[e[l]]=s[e[a]];d=d+1;e=t[d];else n[e[l]]=s[e[a]];d=d+1;e=t[d];end else n[e[l]]={};d=d+1;e=t[d];end else if r<=4 then if r>3 then p=e[l]u,b=g(n[p](n[p+1]))c=b+p-1 h=0;for e=p,c do h=h+1;n[e]=u[h];end;d=d+1;e=t[d];else p=e[l];k=n[e[a]];n[p+1]=k;n[p]=k[e[f]];d=d+1;e=t[d];end else if 1~=r then repeat if 6~=r then p=e[l]u={n[p](o(n,p+1,c))};h=0;for e=p,e[f]do h=h+1;n[e]=u[h];end d=d+1;e=t[d];break;end;d=e[a];until true;else d=e[a];end end end end end end end else if p<119 then if 117<=p then if 114~=p then repeat if p<118 then if(n[e[l]]<n[e[f]])then d=e[a];else d=d+1;end;break;end;local h;for p=0,6 do if 3>p then if p<=0 then n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];else if 1==p then n(e[l],e[a]);d=d+1;e=t[d];else h=e[l]n[h]=n[h](n[h+1])d=d+1;e=t[d];end end else if 4<p then if 6==p then n[e[l]]=n[e[a]][e[f]];else n[e[l]]=s[e[a]];d=d+1;e=t[d];end else if 4~=p then n[e[l]][e[a]]=e[f];d=d+1;e=t[d];else n[e[l]][e[a]]=e[f];d=d+1;e=t[d];end end end end until true;else if(n[e[l]]<n[e[f]])then d=e[a];else d=d+1;end;end else local t=e[l];local f=e[f];local l=t+2 local t={n[t](n[t+1],n[l])};for e=1,f do n[l+e]=t[e];end;local t=t[1]if t then n[l]=t d=e[a];else d=d+1;end;end else if 120<=p then if p~=116 then for h=16,92 do if p~=120 then local s,y,c,u,k,_,p,h,b,g,m;for p=0,6 do if p<=2 then if p>0 then if-2~=p then repeat if p~=1 then n[e[l]]=r[e[a]];d=d+1;e=t[d];break;end;h=e[l]n[h]=n[h](n[h+1])d=d+1;e=t[d];until true;else h=e[l]n[h]=n[h](n[h+1])d=d+1;e=t[d];end else p=0;while p>-1 do if 4>p then if p<2 then if 1==p then y=l;else s=e;end else if p>=-2 then repeat if 3>p then c=a;break;end;u=n;until true;else u=n;end end else if 6>p then if 2<p then for e=48,60 do if p~=5 then k=u[s[c]];break;end;_=s[y];break;end;else k=u[s[c]];end else if 5~=p then for e=26,57 do if 7~=p then n[_]=k;break;end;p=-2;break;end;else p=-2;end end end p=p+1 end d=d+1;e=t[d];end else if p>=5 then if 4~=p then for r=34,62 do if p<6 then h=e[l]g={n[h](o(n,h+1,e[a]))};m=0;for e=h,e[f]do m=m+1;n[e]=g[m];end d=d+1;e=t[d];break;end;if n[e[l]]then d=d+1;else d=e[a];end;break;end;else if n[e[l]]then d=d+1;else d=e[a];end;end else if 2<=p then for r=28,56 do if 4~=p then h=e[l];b=n[e[a]];n[h+1]=b;n[h]=b[e[f]];d=d+1;e=t[d];break;end;p=0;while p>-1 do if 4<=p then if p>=6 then if 4~=p then for e=38,88 do if 7~=p then n[_]=k;break;end;p=-2;break;end;else p=-2;end else if p>2 then for e=38,66 do if p>4 then _=s[y];break;end;k=u[s[c]];break;end;else k=u[s[c]];end end else if p<2 then if p>=-3 then repeat if p~=1 then s=e;break;end;y=l;until true;else s=e;end else if 1<=p then repeat if p<3 then c=a;break;end;u=n;until true;else c=a;end end end p=p+1 end d=d+1;e=t[d];break;end;else h=e[l];b=n[e[a]];n[h+1]=b;n[h]=b[e[f]];d=d+1;e=t[d];end end end end break;end;if(n[e[l]]~=e[f])then d=d+1;else d=e[a];end;break;end;else if(n[e[l]]~=e[f])then d=d+1;else d=e[a];end;end else local e=e[l]local l,d=g(n[e](n[e+1]))c=d+e-1 local d=0;for e=e,c do d=d+1;n[e]=l[d];end;end end end end else if p>=91 then if 96>p then if p<93 then if p>=90 then repeat if 91<p then local e=e[l]local l,d=g(n[e](n[e+1]))c=d+e-1 local d=0;for e=e,c do d=d+1;n[e]=l[d];end;break;end;if(e[l]<n[e[f]])then d=d+1;else d=e[a];end;until true;else if(e[l]<n[e[f]])then d=d+1;else d=e[a];end;end else if p>=94 then if 91<p then repeat if p~=94 then local p;n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];n[e[l]][e[a]]=n[e[f]];d=d+1;e=t[d];n[e[l]]=s[e[a]];d=d+1;e=t[d];n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];n(e[l],e[a]);d=d+1;e=t[d];p=e[l]n[p]=n[p](n[p+1])d=d+1;e=t[d];n[e[l]][e[a]]=e[f];break;end;local p;for h=0,4 do if 2>h then if h>=-2 then for p=41,72 do if 1~=h then n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];break;end;n[e[l]]=r[e[a]];d=d+1;e=t[d];break;end;else n[e[l]]=r[e[a]];d=d+1;e=t[d];end else if h<=2 then n[e[l]]=n[e[a]];d=d+1;e=t[d];else if-1<h then for f=12,77 do if h~=3 then if not n[e[l]]then d=d+1;else d=e[a];end;break;end;p=e[l]n[p]=n[p](o(n,p+1,e[a]))d=d+1;e=t[d];break;end;else p=e[l]n[p]=n[p](o(n,p+1,e[a]))d=d+1;e=t[d];end end end end until true;else local p;for h=0,4 do if 2>h then if h>=-2 then for p=41,72 do if 1~=h then n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];break;end;n[e[l]]=r[e[a]];d=d+1;e=t[d];break;end;else n[e[l]]=r[e[a]];d=d+1;e=t[d];end else if h<=2 then n[e[l]]=n[e[a]];d=d+1;e=t[d];else if-1<h then for f=12,77 do if h~=3 then if not n[e[l]]then d=d+1;else d=e[a];end;break;end;p=e[l]n[p]=n[p](o(n,p+1,e[a]))d=d+1;e=t[d];break;end;else p=e[l]n[p]=n[p](o(n,p+1,e[a]))d=d+1;e=t[d];end end end end end else s[e[a]]=n[e[l]];end end else if p>=98 then if p<99 then local p;for h=0,4 do if h>1 then if h<3 then n(e[l],e[a]);d=d+1;e=t[d];else if 0<h then for f=21,79 do if 3<h then p=e[l]n[p]=n[p](o(n,p+1,e[a]))break;end;n(e[l],e[a]);d=d+1;e=t[d];break;end;else p=e[l]n[p]=n[p](o(n,p+1,e[a]))end end else if 0==h then n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];else n(e[l],e[a]);d=d+1;e=t[d];end end end else if 99==p then n[e[l]][e[a]]=n[e[f]];d=d+1;e=t[d];n[e[l]][e[a]]=e[f];d=d+1;e=t[d];n[e[l]][e[a]]=e[f];d=d+1;e=t[d];n[e[l]]=s[e[a]];d=d+1;e=t[d];n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];n(e[l],e[a]);d=d+1;e=t[d];n(e[l],e[a]);else for p=0,6 do if 2<p then if p<5 then if p~=-1 then for h=32,62 do if 3~=p then n(e[l],e[a]);d=d+1;e=t[d];break;end;n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];break;end;else n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];end else if p==5 then n(e[l],e[a]);d=d+1;e=t[d];else n(e[l],e[a]);end end else if p<=0 then n[e[l]][e[a]]=n[e[f]];d=d+1;e=t[d];else if p<2 then n[e[l]][e[a]]=e[f];d=d+1;e=t[d];else n[e[l]]=s[e[a]];d=d+1;e=t[d];end end end end end end else if p>=95 then repeat if p>96 then n[e[l]]=n[e[a]]/e[f];break;end;local c=m[e[a]];local o;local p={};o=h.rxMtZIQs({},{__index=function(d,e)local e=p[e];return e[1][e[2]];end,__newindex=function(n,e,d)local e=p[e]e[1][e[2]]=d;end;});for l=1,e[f]do d=d+1;local e=t[d];if e[j]==51 then p[l-1]={n,e[a]};else p[l-1]={r,e[a]};end;y[#y+1]=p;end;n[e[l]]=_(c,o,s);until true;else n[e[l]]=n[e[a]]/e[f];end end end else if 86>p then if 82>=p then if p==82 then for p=0,3 do if 2<=p then if p~=2 then if(n[e[l]]~=e[f])then d=d+1;else d=e[a];end;else n[e[l]]=s[e[a]];d=d+1;e=t[d];end else if-2<p then repeat if p~=1 then n[e[l]]=(e[a]~=0);d=d+1;e=t[d];break;end;s[e[a]]=n[e[l]];d=d+1;e=t[d];until true;else s[e[a]]=n[e[l]];d=d+1;e=t[d];end end end else n[e[l]]=_(m[e[a]],nil,s);end else if 84>p then if n[e[l]]then d=d+1;else d=e[a];end;else if 84==p then for p=0,6 do if 3>p then if p<1 then n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];else if p>-1 then for h=22,84 do if p~=2 then n[e[l]]=r[e[a]];d=d+1;e=t[d];break;end;n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];break;end;else n[e[l]]=r[e[a]];d=d+1;e=t[d];end end else if p>=5 then if p~=5 then n[e[l]]=r[e[a]];else n[e[l]]=n[e[a]]+n[e[f]];d=d+1;e=t[d];end else if 3<p then n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];else n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];end end end end else if not n[e[l]]then d=d+1;else d=e[a];end;end end end else if p<=87 then if 85<p then repeat if p<87 then n[e[l]]=r[e[a]];d=d+1;e=t[d];n[e[l]]=(not n[e[a]]);d=d+1;e=t[d];r[e[a]]=n[e[l]];d=d+1;e=t[d];n[e[l]]=r[e[a]];d=d+1;e=t[d];n[e[l]]=r[e[a]];d=d+1;e=t[d];n[e[l]][e[a]]=n[e[f]];d=d+1;e=t[d];n[e[l]]=r[e[a]];break;end;n[e[l]]=n[e[a]]/e[f];until true;else n[e[l]]=r[e[a]];d=d+1;e=t[d];n[e[l]]=(not n[e[a]]);d=d+1;e=t[d];r[e[a]]=n[e[l]];d=d+1;e=t[d];n[e[l]]=r[e[a]];d=d+1;e=t[d];n[e[l]]=r[e[a]];d=d+1;e=t[d];n[e[l]][e[a]]=n[e[f]];d=d+1;e=t[d];n[e[l]]=r[e[a]];end else if p<=88 then if(n[e[l]]~=e[f])then d=d+1;else d=e[a];end;else if p~=88 then repeat if p>89 then do return end;break;end;local p,r;for h=0,6 do if 3>h then if 1>h then n[e[l]]=s[e[a]];d=d+1;e=t[d];else if 2==h then n(e[l],e[a]);d=d+1;e=t[d];else p=e[l];r=n[e[a]];n[p+1]=r;n[p]=r[e[f]];d=d+1;e=t[d];end end else if h<5 then if 0~=h then for r=38,87 do if h~=4 then p=e[l]n[p]=n[p](o(n,p+1,e[a]))d=d+1;e=t[d];break;end;n[e[l]][e[a]]=n[e[f]];d=d+1;e=t[d];break;end;else p=e[l]n[p]=n[p](o(n,p+1,e[a]))d=d+1;e=t[d];end else if 3<=h then for p=35,79 do if 6>h then n[e[l]]=s[e[a]];d=d+1;e=t[d];break;end;n[e[l]]=n[e[a]][e[f]];break;end;else n[e[l]]=n[e[a]][e[f]];end end end end until true;else do return end;end end end end end end else if p<=141 then if 132<=p then if 137>p then if p>=134 then if 135>p then local t=n[e[f]];if t then d=d+1;else n[e[l]]=t;d=e[a];end;else if 135~=p then n[e[l]]={};else for p=0,6 do if 3>p then if 0<p then if p~=-1 then for h=49,64 do if 2>p then n[e[l]]=s[e[a]];d=d+1;e=t[d];break;end;n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];break;end;else n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];end else n[e[l]][e[a]]=n[e[f]];d=d+1;e=t[d];end else if 5>p then if p>-1 then for f=48,62 do if 4~=p then n(e[l],e[a]);d=d+1;e=t[d];break;end;n(e[l],e[a]);d=d+1;e=t[d];break;end;else n(e[l],e[a]);d=d+1;e=t[d];end else if p>4 then for f=49,91 do if 5~=p then n(e[l],e[a]);break;end;n(e[l],e[a]);d=d+1;e=t[d];break;end;else n(e[l],e[a]);d=d+1;e=t[d];end end end end end end else if p>132 then if(n[e[l]]<=n[e[f]])then d=e[a];else d=d+1;end;else local d=e[l]n[d](o(n,d+1,e[a]))end end else if 139<=p then if 139>=p then local r,h;for p=0,3 do if 2>p then if 0~=p then n(e[l],e[a]);d=d+1;e=t[d];else n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];end else if 3>p then n(e[l],e[a]);d=d+1;e=t[d];else r=e[l];h=n[e[a]];n[r+1]=h;n[r]=h[e[f]];end end end else if 140<p then for e=e[l],e[a]do n[e]=nil;end;else local p,h;for r=0,2 do if 1<=r then if r>-1 then for o=10,95 do if 2>r then n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];break;end;p=e[l];h=n[e[a]];n[p+1]=h;n[p]=h[e[f]];break;end;else p=e[l];h=n[e[a]];n[p+1]=h;n[p]=h[e[f]];end else p=e[l]n[p](o(n,p+1,e[a]))d=d+1;e=t[d];end end end end else if p~=138 then local h,s,r,b,u,k,c,p;h=e[l];s=n[e[a]];n[h+1]=s;n[h]=s[e[f]];d=d+1;e=t[d];p=0;while p>-1 do if p>=3 then if 4>=p then if p>-1 then for e=38,75 do if 4~=p then k=r[u];break;end;c=r[b];break;end;else k=r[u];end else if p==5 then n(c,k);else p=-2;end end else if 0<p then if 0<=p then repeat if 2~=p then b=l;break;end;u=a;until true;else u=a;end else r=e;end end p=p+1 end d=d+1;e=t[d];h=e[l]n[h]=n[h](o(n,h+1,e[a]))d=d+1;e=t[d];h=e[l];s=n[e[a]];n[h+1]=s;n[h]=s[e[f]];d=d+1;e=t[d];p=0;while p>-1 do if p>=3 then if p>4 then if 2~=p then for e=48,55 do if 6~=p then n(c,k);break;end;p=-2;break;end;else n(c,k);end else if 0<=p then repeat if 4~=p then k=r[u];break;end;c=r[b];until true;else c=r[b];end end else if p>=1 then if p~=2 then b=l;else u=a;end else r=e;end end p=p+1 end d=d+1;e=t[d];h=e[l]n[h]=n[h](o(n,h+1,e[a]))d=d+1;e=t[d];if n[e[l]]then d=d+1;else d=e[a];end;else local d=e[l]local a={n[d](o(n,d+1,c))};local l=0;for e=d,e[f]do l=l+1;n[e]=a[l];end end end end else if 126<p then if 129>p then if p~=128 then for p=0,6 do if p>=3 then if p<=4 then if p>=2 then repeat if 3~=p then n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];break;end;n[e[l]]=r[e[a]];d=d+1;e=t[d];until true;else n[e[l]]=r[e[a]];d=d+1;e=t[d];end else if p>=3 then for h=22,64 do if 6>p then n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];break;end;n[e[l]]=r[e[a]];break;end;else n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];end end else if p<=0 then n[e[l]]=r[e[a]];d=d+1;e=t[d];else if 1<p then n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];else n[e[l]]=s[e[a]];d=d+1;e=t[d];end end end end else n[e[l]][e[a]]=n[e[f]];d=d+1;e=t[d];n[e[l]]=s[e[a]];d=d+1;e=t[d];n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];n(e[l],e[a]);d=d+1;e=t[d];n(e[l],e[a]);d=d+1;e=t[d];n(e[l],e[a]);d=d+1;e=t[d];n(e[l],e[a]);end else if p>129 then if 128~=p then repeat if 131~=p then local d=e[l]n[d]=n[d](o(n,d+1,e[a]))break;end;n[e[l]]=n[e[a]]+e[f];until true;else local d=e[l]n[d]=n[d](o(n,d+1,e[a]))end else n[e[l]]=s[e[a]];end end else if p<124 then if 121<p then repeat if 122~=p then local p,h;for r=0,6 do if 2>=r then if 0<r then if r>-2 then repeat if 1~=r then n(e[l],e[a]);d=d+1;e=t[d];break;end;p=e[l];h=n[e[a]];n[p+1]=h;n[p]=h[e[f]];d=d+1;e=t[d];until true;else p=e[l];h=n[e[a]];n[p+1]=h;n[p]=h[e[f]];d=d+1;e=t[d];end else n[e[l]]=s[e[a]];d=d+1;e=t[d];end else if r>4 then if r==5 then p=e[l];h=n[e[a]];n[p+1]=h;n[p]=h[e[f]];d=d+1;e=t[d];else n(e[l],e[a]);end else if 0<=r then for f=47,97 do if 3<r then n[e[l]]=s[e[a]];d=d+1;e=t[d];break;end;p=e[l]n[p]=n[p](o(n,p+1,e[a]))d=d+1;e=t[d];break;end;else p=e[l]n[p]=n[p](o(n,p+1,e[a]))d=d+1;e=t[d];end end end end break;end;local u,p,h,b,k,c,o,s,r;local t=0;while t>-1 do if 2>=t then if 1>t then u=n;else if t>=0 then repeat if 2>t then p=e;h=d;break;end;b=p[l];k=p[f];c=a;until true;else p=e;h=d;end end else if 4<t then if t<6 then d=r;else t=-2;end else if t>2 then repeat if t~=4 then o=u[b];s=u[k];break;end;r=o==s and p[c]or 1+h;until true;else r=o==s and p[c]or 1+h;end end end t=t+1 end until true;else local p,h;for r=0,6 do if 2>=r then if 0<r then if r>-2 then repeat if 1~=r then n(e[l],e[a]);d=d+1;e=t[d];break;end;p=e[l];h=n[e[a]];n[p+1]=h;n[p]=h[e[f]];d=d+1;e=t[d];until true;else p=e[l];h=n[e[a]];n[p+1]=h;n[p]=h[e[f]];d=d+1;e=t[d];end else n[e[l]]=s[e[a]];d=d+1;e=t[d];end else if r>4 then if r==5 then p=e[l];h=n[e[a]];n[p+1]=h;n[p]=h[e[f]];d=d+1;e=t[d];else n(e[l],e[a]);end else if 0<=r then for f=47,97 do if 3<r then n[e[l]]=s[e[a]];d=d+1;e=t[d];break;end;p=e[l]n[p]=n[p](o(n,p+1,e[a]))d=d+1;e=t[d];break;end;else p=e[l]n[p]=n[p](o(n,p+1,e[a]))d=d+1;e=t[d];end end end end end else if p>=125 then if 124<=p then repeat if 126~=p then local f;for p=0,1 do if-3<p then repeat if 1>p then f=e[l]n[f](o(n,f+1,e[a]))d=d+1;e=t[d];break;end;for e=e[l],e[a]do n[e]=nil;end;until true;else f=e[l]n[f](o(n,f+1,e[a]))d=d+1;e=t[d];end end break;end;local f,t,r,h,p;local d=0;while d>-1 do if d>=3 then if 5<=d then if 4<=d then repeat if d~=6 then n(p,h);break;end;d=-2;until true;else n(p,h);end else if 0~=d then for e=43,61 do if 3~=d then p=f[t];break;end;h=f[r];break;end;else p=f[t];end end else if 1<=d then if d>-3 then for e=33,59 do if d<2 then t=l;break;end;r=a;break;end;else t=l;end else f=e;end end d=d+1 end until true;else local f;for p=0,1 do if-3<p then repeat if 1>p then f=e[l]n[f](o(n,f+1,e[a]))d=d+1;e=t[d];break;end;for e=e[l],e[a]do n[e]=nil;end;until true;else f=e[l]n[f](o(n,f+1,e[a]))d=d+1;e=t[d];end end end else do return end;end end end end else if 151>=p then if 146<p then if p>=149 then if 149<p then if p~=151 then local p;for h=0,4 do if h<=1 then if h~=1 then n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];else n[e[l]]=r[e[a]];d=d+1;e=t[d];end else if 3>h then n[e[l]]=n[e[a]];d=d+1;e=t[d];else if h>0 then repeat if h>3 then d=e[a];break;end;p=e[l]n[p](o(n,p+1,e[a]))d=d+1;e=t[d];until true;else p=e[l]n[p](o(n,p+1,e[a]))d=d+1;e=t[d];end end end end else n[e[l]]=s[e[a]];end else if not n[e[l]]then d=d+1;else d=e[a];end;end else if 145<p then repeat if 147~=p then n[e[l]]=r[e[a]];break;end;n[e[l]]=n[e[a]]*e[f];until true;else n[e[l]]=r[e[a]];end end else if 143>=p then if 138<p then repeat if 143>p then n[e[l]]=(e[a]~=0);break;end;local t,h,r,f,o,p;local d=0;while d>-1 do if 4>d then if d<2 then if d~=0 then h=l;else t=e;end else if d~=-1 then for e=41,93 do if 3>d then r=a;break;end;f=n;break;end;else f=n;end end else if 6>d then if d<5 then o=f[t[r]];else p=t[h];end else if 2~=d then for e=22,62 do if d~=7 then n[p]=o;break;end;d=-2;break;end;else d=-2;end end end d=d+1 end until true;else local t,p,h,f,o,r;local d=0;while d>-1 do if 4>d then if d<2 then if d~=0 then p=l;else t=e;end else if d~=-1 then for e=41,93 do if 3>d then h=a;break;end;f=n;break;end;else f=n;end end else if 6>d then if d<5 then o=f[t[h]];else r=t[p];end else if 2~=d then for e=22,62 do if d~=7 then n[r]=o;break;end;d=-2;break;end;else d=-2;end end end d=d+1 end end else if 145>p then local p,h;for r=0,6 do if 3>r then if r>0 then if 2~=r then n[e[l]]=s[e[a]];d=d+1;e=t[d];else p=e[l];h=n[e[a]];n[p+1]=h;n[p]=h[e[f]];d=d+1;e=t[d];end else p=e[l]n[p](o(n,p+1,e[a]))d=d+1;e=t[d];end else if r>4 then if 2<r then repeat if r~=6 then n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];break;end;p=e[l];h=n[e[a]];n[p+1]=h;n[p]=h[e[f]];until true;else p=e[l];h=n[e[a]];n[p+1]=h;n[p]=h[e[f]];end else if 0~=r then for f=26,79 do if r<4 then n(e[l],e[a]);d=d+1;e=t[d];break;end;p=e[l]n[p]=n[p](o(n,p+1,e[a]))d=d+1;e=t[d];break;end;else p=e[l]n[p]=n[p](o(n,p+1,e[a]))d=d+1;e=t[d];end end end end else if 145~=p then local f;for p=0,4 do if p>1 then if p>=3 then if 0<=p then repeat if 4>p then n[e[l]]=n[e[a]];d=d+1;e=t[d];break;end;f=e[l]n[f](n[f+1])until true;else f=e[l]n[f](n[f+1])end else n[e[l]]=r[e[a]];d=d+1;e=t[d];end else if p~=0 then f=e[l]n[f]=n[f](n[f+1])d=d+1;e=t[d];else n[e[l]]=n[e[a]];d=d+1;e=t[d];end end end else for p=0,3 do if p<=1 then if 1~=p then n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];else n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];end else if p<3 then n[e[l]][e[a]]=n[e[f]];d=d+1;e=t[d];else n[e[l]][e[a]]=n[e[f]];end end end end end end end else if 156<p then if 160<=p then if p<=160 then if(n[e[l]]==n[e[f]])then d=d+1;else d=e[a];end;else if 161~=p then n[e[l]]=r[e[a]];else local p,r;for h=0,6 do if 3<=h then if 4>=h then if 3==h then p=e[l];r=n[e[a]];n[p+1]=r;n[p]=r[e[f]];d=d+1;e=t[d];else n[e[l]]=n[e[a]];d=d+1;e=t[d];end else if h~=1 then repeat if 6>h then p=e[l]n[p]=n[p](o(n,p+1,e[a]))d=d+1;e=t[d];break;end;n[e[l]]=(not n[e[a]]);until true;else p=e[l]n[p]=n[p](o(n,p+1,e[a]))d=d+1;e=t[d];end end else if h>=1 then if 1<h then p=e[l]n[p]=n[p](o(n,p+1,e[a]))d=d+1;e=t[d];else n(e[l],e[a]);d=d+1;e=t[d];end else p=e[l];r=n[e[a]];n[p+1]=r;n[p]=r[e[f]];d=d+1;e=t[d];end end end end end else if 157>=p then n[e[l]]=(e[a]~=0);else if 156<p then repeat if p~=158 then n[e[l]]=_(m[e[a]],nil,s);break;end;n[e[l]]=n[e[a]]-n[e[f]];until true;else n[e[l]]=_(m[e[a]],nil,s);end end end else if p>153 then if p>154 then if 154~=p then repeat if 156>p then n[e[l]]=s[e[a]];d=d+1;e=t[d];n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];n[e[l]]=r[e[a]];d=d+1;e=t[d];n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];n[e[l]]=n[e[a]]/e[f];d=d+1;e=t[d];n[e[l]]=r[e[a]];d=d+1;e=t[d];n[e[l]]={};break;end;n[e[l]]=n[e[a]]*n[e[f]];until true;else n[e[l]]=s[e[a]];d=d+1;e=t[d];n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];n[e[l]]=r[e[a]];d=d+1;e=t[d];n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];n[e[l]]=n[e[a]]/e[f];d=d+1;e=t[d];n[e[l]]=r[e[a]];d=d+1;e=t[d];n[e[l]]={};end else local p,h;for r=0,2 do if r>0 then if-1<=r then repeat if r~=1 then p=e[l];h=n[e[a]];n[p+1]=h;n[p]=h[e[f]];break;end;n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];until true;else n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];end else p=e[l]n[p](o(n,p+1,e[a]))d=d+1;e=t[d];end end end else if p>=151 then repeat if 152<p then local p;n(e[l],e[a]);d=d+1;e=t[d];n(e[l],e[a]);d=d+1;e=t[d];p=e[l]n[p]=n[p](o(n,p+1,e[a]))d=d+1;e=t[d];n[e[l]][e[a]]=n[e[f]];d=d+1;e=t[d];n[e[l]][e[a]]=e[f];d=d+1;e=t[d];n[e[l]][e[a]]=n[e[f]];d=d+1;e=t[d];n[e[l]]=n[e[a]][e[f]];break;end;for p=0,6 do if 3>p then if 1>p then n[e[l]]=r[e[a]];d=d+1;e=t[d];else if 2>p then n[e[l]]();d=d+1;e=t[d];else n[e[l]]=r[e[a]];d=d+1;e=t[d];end end else if 4>=p then if p>0 then for h=12,60 do if 3<p then r[e[a]]=n[e[l]];d=d+1;e=t[d];break;end;n[e[l]]=n[e[a]]+n[e[f]];d=d+1;e=t[d];break;end;else n[e[l]]=n[e[a]]+n[e[f]];d=d+1;e=t[d];end else if p~=2 then for f=10,90 do if 5<p then n[e[l]]=r[e[a]];break;end;n[e[l]]=r[e[a]];d=d+1;e=t[d];break;end;else n[e[l]]=r[e[a]];end end end end until true;else local p;n(e[l],e[a]);d=d+1;e=t[d];n(e[l],e[a]);d=d+1;e=t[d];p=e[l]n[p]=n[p](o(n,p+1,e[a]))d=d+1;e=t[d];n[e[l]][e[a]]=n[e[f]];d=d+1;e=t[d];n[e[l]][e[a]]=e[f];d=d+1;e=t[d];n[e[l]][e[a]]=n[e[f]];d=d+1;e=t[d];n[e[l]]=n[e[a]][e[f]];end end end end end end else if p>39 then if p>=60 then if 70>p then if 65>p then if p<62 then if p>58 then for d=11,69 do if p~=61 then n[e[l]]=n[e[a]]+n[e[f]];break;end;n[e[l]]=n[e[a]]-n[e[f]];break;end;else n[e[l]]=n[e[a]]-n[e[f]];end else if 62<p then if 63<p then local d=e[l]local a={n[d](o(n,d+1,c))};local l=0;for e=d,e[f]do l=l+1;n[e]=a[l];end else local t=e[l];local f=e[f];local l=t+2 local t={n[t](n[t+1],n[l])};for e=1,f do n[l+e]=t[e];end;local t=t[1]if t then n[l]=t d=e[a];else d=d+1;end;end else local h;for p=0,6 do if 2<p then if p>=5 then if p~=2 then for f=10,88 do if 5~=p then n[e[l]]=s[e[a]];break;end;h=e[l]n[h]=n[h](n[h+1])d=d+1;e=t[d];break;end;else n[e[l]]=s[e[a]];end else if-1<p then repeat if 3<p then n(e[l],e[a]);d=d+1;e=t[d];break;end;n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];until true;else n(e[l],e[a]);d=d+1;e=t[d];end end else if 1>p then n[e[l]][e[a]]=n[e[f]];d=d+1;e=t[d];else if-1~=p then for h=10,53 do if p>1 then n[e[l]]=s[e[a]];d=d+1;e=t[d];break;end;n[e[l]][e[a]]=n[e[f]];d=d+1;e=t[d];break;end;else n[e[l]][e[a]]=n[e[f]];d=d+1;e=t[d];end end end end end end else if 66>=p then if p~=63 then for h=32,72 do if 66~=p then local h,c,r,k,u,p,b;for p=0,6 do if 3<=p then if p<5 then if p>=2 then repeat if 3~=p then n[e[l]][e[a]]=n[e[f]];d=d+1;e=t[d];break;end;n[e[l]][e[a]]=n[e[f]];d=d+1;e=t[d];until true;else n[e[l]][e[a]]=n[e[f]];d=d+1;e=t[d];end else if 5<p then n[e[l]]=n[e[a]][e[f]];else n[e[l]]=s[e[a]];d=d+1;e=t[d];end end else if 1<=p then if p>0 then repeat if p~=2 then p=0;while p>-1 do if p>=3 then if 5<=p then if p>2 then for e=46,62 do if p~=6 then n(u,k);break;end;p=-2;break;end;else p=-2;end else if p~=1 then repeat if 3~=p then u=h[c];break;end;k=h[r];until true;else u=h[c];end end else if 0<p then if-1~=p then repeat if 2>p then c=l;break;end;r=a;until true;else r=a;end else h=e;end end p=p+1 end d=d+1;e=t[d];break;end;b=e[l]n[b]=n[b](o(n,b+1,e[a]))d=d+1;e=t[d];until true;else p=0;while p>-1 do if p>=3 then if 5<=p then if p>2 then for e=46,62 do if p~=6 then n(u,k);break;end;p=-2;break;end;else p=-2;end else if p~=1 then repeat if 3~=p then u=h[c];break;end;k=h[r];until true;else u=h[c];end end else if 0<p then if-1~=p then repeat if 2>p then c=l;break;end;r=a;until true;else r=a;end else h=e;end end p=p+1 end d=d+1;e=t[d];end else p=0;while p>-1 do if 3<=p then if p<5 then if p>=2 then for e=13,54 do if p~=3 then u=h[c];break;end;k=h[r];break;end;else k=h[r];end else if p~=6 then n(u,k);else p=-2;end end else if 1<=p then if 0<=p then for e=29,76 do if p~=2 then c=l;break;end;r=a;break;end;else r=a;end else h=e;end end p=p+1 end d=d+1;e=t[d];end end end break;end;n[e[l]]=n[e[a]]*e[f];break;end;else n[e[l]]=n[e[a]]*e[f];end else if 67<p then if 64~=p then repeat if 69>p then n[e[l]]();break;end;local e=e[l]n[e](n[e+1])until true;else local e=e[l]n[e](n[e+1])end else r[e[a]]=n[e[l]];d=d+1;e=t[d];n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];r[e[a]]=n[e[l]];d=d+1;e=t[d];n[e[l]]=r[e[a]];d=d+1;e=t[d];n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];r[e[a]]=n[e[l]];d=d+1;e=t[d];n[e[l]]=n[e[a]][e[f]];end end end else if 75<=p then if p<78 then if p<=75 then for p=0,4 do if 2>p then if p==1 then n[e[l]]=s[e[a]];d=d+1;e=t[d];else n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];end else if p<3 then n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];else if p>=1 then for h=37,93 do if 4~=p then n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];break;end;if(n[e[l]]==n[e[f]])then d=d+1;else d=e[a];end;break;end;else if(n[e[l]]==n[e[f]])then d=d+1;else d=e[a];end;end end end end else if 73<p then for d=23,76 do if p~=76 then n[e[l]]=#n[e[a]];break;end;do return n[e[l]]end break;end;else n[e[l]]=#n[e[a]];end end else if 79<=p then if 77<=p then for t=43,54 do if 80~=p then if(n[e[l]]==n[e[f]])then d=d+1;else d=e[a];end;break;end;local d=e[l];local l=n[d];for e=d+1,e[a]do h.mFiFOrLa(l,n[e])end;break;end;else local d=e[l];local l=n[d];for e=d+1,e[a]do h.mFiFOrLa(l,n[e])end;end else n[e[l]]=n[e[a]][n[e[f]]];end end else if 72>p then if 71~=p then local l=e[l];local d=n[e[a]];n[l+1]=d;n[l]=d[e[f]];else local p,h;for r=0,1 do if r~=1 then n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];else p=e[l];h=n[e[a]];n[p+1]=h;n[p]=h[e[f]];end end end else if p<73 then local h;for p=0,6 do if p<=2 then if 1>p then h=e[l]n[h]=n[h](n[h+1])d=d+1;e=t[d];else if 1~=p then n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];else n[e[l]]=s[e[a]];d=d+1;e=t[d];end end else if 4<p then if p~=6 then n(e[l],e[a]);d=d+1;e=t[d];else n(e[l],e[a]);end else if p>3 then n(e[l],e[a]);d=d+1;e=t[d];else n(e[l],e[a]);d=d+1;e=t[d];end end end end else if p~=74 then local l=e[l];local f=n[l+2];local t=n[l]+f;n[l]=t;if(f>0)then if(t<=n[l+1])then d=e[a];n[l+3]=t;end elseif(t>=n[l+1])then d=e[a];n[l+3]=t;end else local t=n[e[f]];if t then d=d+1;else n[e[l]]=t;d=e[a];end;end end end end end else if 49>=p then if p>44 then if p>=47 then if p>=48 then if 48<p then local e=e[l]n[e]=n[e]()else n[e[l]]=n[e[a]][e[f]];end else n[e[l]]=#n[e[a]];end else if 45~=p then if(e[l]<n[e[f]])then d=e[a];else d=d+1;end;else local h;for p=0,6 do if 2<p then if p<5 then if p>=1 then for f=28,81 do if p~=4 then n(e[l],e[a]);d=d+1;e=t[d];break;end;n(e[l],e[a]);d=d+1;e=t[d];break;end;else n(e[l],e[a]);d=d+1;e=t[d];end else if p==5 then n(e[l],e[a]);d=d+1;e=t[d];else n(e[l],e[a]);end end else if p<1 then h=e[l]n[h]=n[h](n[h+1])d=d+1;e=t[d];else if p~=1 then n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];else n[e[l]]=s[e[a]];d=d+1;e=t[d];end end end end end end else if 41<p then if p>=43 then if p~=44 then local p,h;p=e[l]n[p](o(n,p+1,e[a]))d=d+1;e=t[d];n[e[l]]=n[e[a]];d=d+1;e=t[d];n[e[l]]();d=d+1;e=t[d];n[e[l]]=s[e[a]];d=d+1;e=t[d];n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];p=e[l];h=n[e[a]];n[p+1]=h;n[p]=h[e[f]];else n[e[l]]=(e[a]~=0);d=d+1;end else local p;for h=0,6 do if 3>h then if h>0 then if-1<=h then repeat if h<2 then n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];break;end;n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];until true;else n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];end else n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];end else if 4>=h then if 1~=h then for r=25,56 do if 4~=h then p=e[l]n[p]=n[p](o(n,p+1,e[a]))d=d+1;e=t[d];break;end;n[e[l]]=n[e[a]]-n[e[f]];d=d+1;e=t[d];break;end;else p=e[l]n[p]=n[p](o(n,p+1,e[a]))d=d+1;e=t[d];end else if h~=6 then n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];else if(n[e[l]]<n[e[f]])then d=e[a];else d=d+1;end;end end end end end else if 36<=p then for h=22,79 do if p>40 then local p,r,f,t,h;local d=0;while d>-1 do if d<=2 then if 0>=d then p=e;else if-3<d then for e=17,90 do if 2~=d then r=l;break;end;f=a;break;end;else f=a;end end else if 4<d then if 2<d then repeat if d~=6 then n(h,t);break;end;d=-2;until true;else n(h,t);end else if d>3 then h=p[r];else t=p[f];end end end d=d+1 end break;end;local h;for p=0,4 do if 1>=p then if p>=-2 then for h=11,67 do if p<1 then n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];break;end;n[e[l]]=n[e[a]]*e[f];d=d+1;e=t[d];break;end;else n[e[l]]=n[e[a]]*e[f];d=d+1;e=t[d];end else if 3>p then n[e[l]]=r[e[a]];d=d+1;e=t[d];else if 4~=p then h=e[l]n[h]=n[h](o(n,h+1,e[a]))d=d+1;e=t[d];else if not n[e[l]]then d=d+1;else d=e[a];end;end end end end break;end;else local h,r,f,p,t;local d=0;while d>-1 do if d<=2 then if 0>=d then h=e;else if-3<d then for e=17,90 do if 2~=d then r=l;break;end;f=a;break;end;else f=a;end end else if 4<d then if 2<d then repeat if d~=6 then n(t,p);break;end;d=-2;until true;else n(t,p);end else if d>3 then t=h[r];else p=h[f];end end end d=d+1 end end end end else if p<55 then if 52<=p then if 52<p then if 50<=p then repeat if 53~=p then local d=e[l]local a={n[d](n[d+1])};local l=0;for e=d,e[f]do l=l+1;n[e]=a[l];end break;end;local o,h;for p=0,6 do if p>=3 then if p<=4 then if 1~=p then for h=18,78 do if p~=4 then n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];break;end;n[e[l]]=r[e[a]];d=d+1;e=t[d];break;end;else n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];end else if 5<p then n[e[l]]=n[e[a]][e[f]];else n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];end end else if 0<p then if 2>p then n[e[l]]=r[e[a]];d=d+1;e=t[d];else n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];end else o=e[l];h=n[e[a]];n[o+1]=h;n[o]=h[e[f]];d=d+1;e=t[d];end end end until true;else local o,h;for p=0,6 do if p>=3 then if p<=4 then if 1~=p then for h=18,78 do if p~=4 then n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];break;end;n[e[l]]=r[e[a]];d=d+1;e=t[d];break;end;else n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];end else if 5<p then n[e[l]]=n[e[a]][e[f]];else n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];end end else if 0<p then if 2>p then n[e[l]]=r[e[a]];d=d+1;e=t[d];else n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];end else o=e[l];h=n[e[a]];n[o+1]=h;n[o]=h[e[f]];d=d+1;e=t[d];end end end end else n[e[l]]=n[e[a]]*n[e[f]];end else if 46<p then repeat if p<51 then n[e[l]]=n[e[a]][n[e[f]]];break;end;local p,o,h,r,t,f;local d=0;while d>-1 do if d<4 then if 2<=d then if 0<=d then for e=10,61 do if d<3 then h=a;break;end;r=n;break;end;else h=a;end else if d==0 then p=e;else o=l;end end else if d<=5 then if 4<d then f=p[o];else t=r[p[h]];end else if 5<=d then repeat if d>6 then d=-2;break;end;n[f]=t;until true;else n[f]=t;end end end d=d+1 end until true;else local p,o,h,r,t,f;local d=0;while d>-1 do if d<4 then if 2<=d then if 0<=d then for e=10,61 do if d<3 then h=a;break;end;r=n;break;end;else h=a;end else if d==0 then p=e;else o=l;end end else if d<=5 then if 4<d then f=p[o];else t=r[p[h]];end else if 5<=d then repeat if d>6 then d=-2;break;end;n[f]=t;until true;else n[f]=t;end end end d=d+1 end end end else if p<=56 then if 53<p then for h=12,62 do if 56>p then for p=0,5 do if 2>=p then if 1<=p then if-1~=p then repeat if 2>p then n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];break;end;n[e[l]]=s[e[a]];d=d+1;e=t[d];until true;else n[e[l]]=s[e[a]];d=d+1;e=t[d];end else n[e[l]]=r[e[a]];d=d+1;e=t[d];end else if p<4 then n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];else if p==4 then n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];else if(n[e[l]]==n[e[f]])then d=d+1;else d=e[a];end;end end end end break;end;local l=e[l]local a={n[l](n[l+1])};local d=0;for e=l,e[f]do d=d+1;n[e]=a[d];end break;end;else for p=0,5 do if 2>=p then if 1<=p then if-1~=p then repeat if 2>p then n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];break;end;n[e[l]]=s[e[a]];d=d+1;e=t[d];until true;else n[e[l]]=s[e[a]];d=d+1;e=t[d];end else n[e[l]]=r[e[a]];d=d+1;e=t[d];end else if p<4 then n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];else if p==4 then n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];else if(n[e[l]]==n[e[f]])then d=d+1;else d=e[a];end;end end end end end else if 57<p then if p~=57 then repeat if 58~=p then local d=e[l]local a={n[d](o(n,d+1,e[a]))};local l=0;for e=d,e[f]do l=l+1;n[e]=a[l];end break;end;local l=e[l];local f=n[l+2];local t=n[l]+f;n[l]=t;if(f>0)then if(t<=n[l+1])then d=e[a];n[l+3]=t;end elseif(t>=n[l+1])then d=e[a];n[l+3]=t;end until true;else local d=e[l]local a={n[d](o(n,d+1,e[a]))};local l=0;for e=d,e[f]do l=l+1;n[e]=a[l];end end else local p;n[e[l]]=n[e[a]];d=d+1;e=t[d];n[e[l]]=n[e[a]];d=d+1;e=t[d];p=e[l]n[p]=n[p](o(n,p+1,e[a]))d=d+1;e=t[d];n[e[l]]=r[e[a]];d=d+1;e=t[d];n[e[l]]=s[e[a]];d=d+1;e=t[d];n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];n[e[l]]=n[e[a]][e[f]];end end end end end else if p<=19 then if p>=10 then if p>=15 then if p<17 then if 11<p then repeat if p~=15 then local p;n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];n[e[l]]=n[e[a]]+n[e[f]];d=d+1;e=t[d];n[e[l]]=n[e[a]]+e[f];d=d+1;e=t[d];p=e[l]n[p]=n[p](o(n,p+1,e[a]))d=d+1;e=t[d];n[e[l]][e[a]]=n[e[f]];break;end;local d=e[l]n[d]=n[d](o(n,d+1,e[a]))until true;else local p;n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];n[e[l]]=n[e[a]]+n[e[f]];d=d+1;e=t[d];n[e[l]]=n[e[a]]+e[f];d=d+1;e=t[d];p=e[l]n[p]=n[p](o(n,p+1,e[a]))d=d+1;e=t[d];n[e[l]][e[a]]=n[e[f]];end else if 18<=p then if 14<=p then repeat if p~=18 then for p=0,4 do if 1<p then if 2>=p then n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];else if-1~=p then repeat if 3~=p then if(n[e[l]]==n[e[f]])then d=d+1;else d=e[a];end;break;end;n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];until true;else n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];end end else if-2<p then for h=32,87 do if 0~=p then n[e[l]]=s[e[a]];d=d+1;e=t[d];break;end;n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];break;end;else n[e[l]]=s[e[a]];d=d+1;e=t[d];end end end break;end;local p;n[e[l]][e[a]]=n[e[f]];d=d+1;e=t[d];n[e[l]]=(e[a]~=0);d=d+1;e=t[d];n[e[l]]={};d=d+1;e=t[d];n[e[l]]=s[e[a]];d=d+1;e=t[d];n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];p=e[l]n[p]=n[p]()d=d+1;e=t[d];n[e[l]]=s[e[a]];until true;else for p=0,4 do if 1<p then if 2>=p then n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];else if-1~=p then repeat if 3~=p then if(n[e[l]]==n[e[f]])then d=d+1;else d=e[a];end;break;end;n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];until true;else n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];end end else if-2<p then for h=32,87 do if 0~=p then n[e[l]]=s[e[a]];d=d+1;e=t[d];break;end;n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];break;end;else n[e[l]]=s[e[a]];d=d+1;e=t[d];end end end end else local h,c,r,b,k,u,m,p;n[e[l]]=s[e[a]];d=d+1;e=t[d];n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];n[e[l]]=s[e[a]];d=d+1;e=t[d];h=e[l];c=n[e[a]];n[h+1]=c;n[h]=c[e[f]];d=d+1;e=t[d];p=0;while p>-1 do if 3>p then if p<=0 then r=e;else if p==2 then k=a;else b=l;end end else if p>4 then if p>3 then for e=15,97 do if 6~=p then n(m,u);break;end;p=-2;break;end;else p=-2;end else if p>2 then for e=40,65 do if 3~=p then m=r[b];break;end;u=r[k];break;end;else u=r[k];end end end p=p+1 end d=d+1;e=t[d];h=e[l]n[h]=n[h](o(n,h+1,e[a]))d=d+1;e=t[d];n[e[l]]=n[e[a]][e[f]];end end else if p>=12 then if p<13 then n[e[l]]=n[e[a]]+n[e[f]];else if p>=9 then repeat if 13~=p then s[e[a]]=n[e[l]];break;end;n[e[l]][e[a]]=n[e[f]];until true;else n[e[l]][e[a]]=n[e[f]];end end else if 9<=p then for t=48,85 do if 11>p then n[e[l]][e[a]]=n[e[f]];break;end;n[e[l]]=(e[a]~=0);d=d+1;break;end;else n[e[l]]=(e[a]~=0);d=d+1;end end end else if p<=4 then if 1>=p then if 0~=p then for p=0,6 do if p<3 then if p<=0 then n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];else if 1<p then n[e[l]]=n[e[a]]+n[e[f]];d=d+1;e=t[d];else n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];end end else if 5>p then if p>0 then for h=40,71 do if p~=4 then n[e[l]]=n[e[a]]+e[f];d=d+1;e=t[d];break;end;n[e[l]]=r[e[a]];d=d+1;e=t[d];break;end;else n[e[l]]=n[e[a]]+e[f];d=d+1;e=t[d];end else if p~=3 then repeat if 6~=p then n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];break;end;n[e[l]]=n[e[a]][e[f]];until true;else n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];end end end end else for p=0,6 do if 3<=p then if p<5 then if p>3 then n[e[l]]=s[e[a]];d=d+1;e=t[d];else n[e[l]]=r[e[a]];d=d+1;e=t[d];end else if p~=1 then repeat if p>5 then n[e[l]]=r[e[a]];break;end;n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];until true;else n[e[l]]=r[e[a]];end end else if p<1 then n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];else if p~=0 then for h=11,97 do if 2>p then n[e[l]]=r[e[a]];d=d+1;e=t[d];break;end;n[e[l]]=n[e[a]]-n[e[f]];d=d+1;e=t[d];break;end;else n[e[l]]=n[e[a]]-n[e[f]];d=d+1;e=t[d];end end end end end else if 3>p then local e=e[l]n[e]=n[e](n[e+1])else if p~=0 then repeat if 3<p then d=e[a];break;end;local e=e[l]n[e]=n[e](n[e+1])until true;else local e=e[l]n[e]=n[e](n[e+1])end end end else if p<7 then if 1<p then for h=14,75 do if 5~=p then local e=e[l]n[e](n[e+1])break;end;local p,h;n[e[l]]=r[e[a]];d=d+1;e=t[d];p=e[l];h=n[e[a]];n[p+1]=h;n[p]=h[e[f]];d=d+1;e=t[d];p=e[l]n[p](n[p+1])d=d+1;e=t[d];n[e[l]]=r[e[a]];d=d+1;e=t[d];p=e[l];h=n[e[a]];n[p+1]=h;n[p]=h[e[f]];d=d+1;e=t[d];p=e[l]n[p](n[p+1])d=d+1;e=t[d];do return end;break;end;else local p,h;n[e[l]]=r[e[a]];d=d+1;e=t[d];p=e[l];h=n[e[a]];n[p+1]=h;n[p]=h[e[f]];d=d+1;e=t[d];p=e[l]n[p](n[p+1])d=d+1;e=t[d];n[e[l]]=r[e[a]];d=d+1;e=t[d];p=e[l];h=n[e[a]];n[p+1]=h;n[p]=h[e[f]];d=d+1;e=t[d];p=e[l]n[p](n[p+1])d=d+1;e=t[d];do return end;end else if 7<p then if 8==p then n[e[l]]=n[e[a]]+e[f];else local p;n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];n[e[l]]=n[e[a]]+n[e[f]];d=d+1;e=t[d];p=e[l]n[p]=n[p](o(n,p+1,e[a]))d=d+1;e=t[d];n[e[l]][e[a]]=n[e[f]];d=d+1;e=t[d];do return end;end else n[e[l]][e[a]]=e[f];end end end end else if p>29 then if 35>p then if 32<=p then if 33>p then local e=e[l]n[e]=n[e]()else if 33==p then local h,p,b,k,c,u,s,o,r;local t=0;while t>-1 do if 2<t then if 4<t then if 1~=t then for e=43,81 do if 5~=t then t=-2;break;end;d=r;break;end;else d=r;end else if 3<t then r=s==o and p[u]or 1+b;else s=h[k];o=h[c];end end else if t>0 then if 2>t then p=e;b=d;else k=p[l];c=p[f];u=a;end else h=n;end end t=t+1 end else if(n[e[l]]<n[e[f]])then d=e[a];else d=d+1;end;end end else if 27~=p then repeat if 30<p then for p=0,6 do if p>2 then if 5<=p then if p>4 then for h=27,80 do if p~=6 then n(e[l],e[a]);d=d+1;e=t[d];break;end;n[e[l]]=n[e[a]][e[f]];break;end;else n[e[l]]=n[e[a]][e[f]];end else if 1~=p then repeat if p>3 then n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];break;end;n[e[l]]=n[e[a]]-n[e[f]];d=d+1;e=t[d];until true;else n[e[l]]=n[e[a]]-n[e[f]];d=d+1;e=t[d];end end else if p>=1 then if p>1 then n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];else n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];end else n[e[l]]=r[e[a]];d=d+1;e=t[d];end end end break;end;if(e[l]<n[e[f]])then d=d+1;else d=e[a];end;until true;else for p=0,6 do if p>2 then if 5<=p then if p>4 then for h=27,80 do if p~=6 then n(e[l],e[a]);d=d+1;e=t[d];break;end;n[e[l]]=n[e[a]][e[f]];break;end;else n[e[l]]=n[e[a]][e[f]];end else if 1~=p then repeat if p>3 then n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];break;end;n[e[l]]=n[e[a]]-n[e[f]];d=d+1;e=t[d];until true;else n[e[l]]=n[e[a]]-n[e[f]];d=d+1;e=t[d];end end else if p>=1 then if p>1 then n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];else n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];end else n[e[l]]=r[e[a]];d=d+1;e=t[d];end end end end end else if 37<=p then if p>=38 then if 39~=p then n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];n[e[l]]=n[e[a]]/e[f];d=d+1;e=t[d];n[e[l]]=n[e[a]]*n[e[f]];d=d+1;e=t[d];n[e[l]][e[a]]=n[e[f]];d=d+1;e=t[d];do return end;else n[e[l]][e[a]]=e[f];end else n[e[l]][n[e[a]]]=e[f];end else if p>=31 then repeat if 35~=p then local p,h;for r=0,2 do if 0<r then if r>0 then repeat if 1~=r then p=e[l];h=n[e[a]];n[p+1]=h;n[p]=h[e[f]];break;end;n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];until true;else n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];end else p=e[l]n[p](o(n,p+1,e[a]))d=d+1;e=t[d];end end break;end;for e=e[l],e[a]do n[e]=nil;end;until true;else for e=e[l],e[a]do n[e]=nil;end;end end end else if 24<p then if 27>p then if p>22 then for d=44,98 do if 26>p then local d=e[l]local a={n[d](o(n,d+1,e[a]))};local l=0;for e=d,e[f]do l=l+1;n[e]=a[l];end break;end;do return n[e[l]]end break;end;else do return n[e[l]]end end else if p<=27 then local d=e[l];local l=n[d];for e=d+1,e[a]do h.mFiFOrLa(l,n[e])end;else if 27<p then for h=41,93 do if p<29 then for p=0,6 do if 3>p then if 1<=p then if p==1 then n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];else n[e[l]]=n[e[a]]*n[e[f]];d=d+1;e=t[d];end else n(e[l],e[a]);d=d+1;e=t[d];end else if p>=5 then if 5==p then n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];else n[e[l]]=n[e[a]]-n[e[f]];end else if 0~=p then repeat if p~=3 then n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];break;end;n[e[l]]=n[e[a]]+n[e[f]];d=d+1;e=t[d];until true;else n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];end end end end break;end;local l=e[l];local t=n[l]local f=n[l+2];if(f>0)then if(t>n[l+1])then d=e[a];else n[l+3]=t;end elseif(t<n[l+1])then d=e[a];else n[l+3]=t;end break;end;else local l=e[l];local t=n[l]local f=n[l+2];if(f>0)then if(t>n[l+1])then d=e[a];else n[l+3]=t;end elseif(t<n[l+1])then d=e[a];else n[l+3]=t;end end end end else if 22>p then if 19<p then for h=14,64 do if p~=20 then n[e[l]]=r[e[a]];d=d+1;e=t[d];n[e[l]]=r[e[a]];d=d+1;e=t[d];n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];n[e[l]]=n[e[a]]/e[f];d=d+1;e=t[d];n[e[l]][e[a]]=n[e[f]];d=d+1;e=t[d];n[e[l]]=r[e[a]];d=d+1;e=t[d];n[e[l]]=r[e[a]];break;end;local h;for p=0,6 do if 3>p then if 1<=p then if 0<p then repeat if p>1 then n[e[l]][e[a]]=e[f];d=d+1;e=t[d];break;end;n[e[l]][e[a]]=n[e[f]];d=d+1;e=t[d];until true;else n[e[l]][e[a]]=n[e[f]];d=d+1;e=t[d];end else h=e[l]n[h]=n[h](o(n,h+1,e[a]))d=d+1;e=t[d];end else if p<=4 then if 3~=p then n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];else n[e[l]]=s[e[a]];d=d+1;e=t[d];end else if p>=4 then for h=18,88 do if 5~=p then n[e[l]][e[a]]=n[e[f]];break;end;n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];break;end;else n[e[l]][e[a]]=n[e[f]];end end end end break;end;else n[e[l]]=r[e[a]];d=d+1;e=t[d];n[e[l]]=r[e[a]];d=d+1;e=t[d];n[e[l]]=n[e[a]][e[f]];d=d+1;e=t[d];n[e[l]]=n[e[a]]/e[f];d=d+1;e=t[d];n[e[l]][e[a]]=n[e[f]];d=d+1;e=t[d];n[e[l]]=r[e[a]];d=d+1;e=t[d];n[e[l]]=r[e[a]];end else if 23>p then if n[e[l]]then d=d+1;else d=e[a];end;else if 24~=p then n[e[l]]={};else local f;f=e[l]n[f](o(n,f+1,e[a]))d=d+1;e=t[d];do return end;end end end end end end end end d=1+d;end;end;return ne end;local a=0xff;local r={};local f=(1);local l='';(function(d)local n=d local t=0x00 local e=0x00 n={(function(f)if t>0x27 then return f end t=t+1 e=(e+0xc24-f)%0x38 return(e%0x03==0x1 and(function(n)if not d[n]then e=e+0x01 d[n]=(0xc3);l='\37';a={function()a()end};l=l..'\100\43';end return true end)'Ipkba'and n[0x2](0x188+f))or(e%0x03==0x0 and(function(n)if not d[n]then e=e+0x01 d[n]=(0xaa);end return true end)'eagej'and n[0x1](f+0x1b0))or(e%0x03==0x2 and(function(n)if not d[n]then e=e+0x01 d[n]=(0x13);end return true end)'FLcTY'and n[0x3](f+0x195))or f end),(function(p)if t>0x24 then return p end t=t+1 e=(e+0xa28-p)%0x1b return(e%0x03==0x0 and(function(n)if not d[n]then e=e+0x01 d[n]=(0x3b);a[2]=(a[2]*(de(function()r()end,o(l))-de(a[1],o(l))))+1;r[f]={};a=a[2];f=f+a;end return true end)'DwM_X'and n[0x3](0xff+p))or(e%0x03==0x2 and(function(n)if not d[n]then e=e+0x01 d[n]=(0xcd);l={l..'\58 a',l};r[f]=ne();f=f+((not h.UcQTHUwy)and 1 or 0);l[1]='\58'..l[1];a[2]=0xff;end return true end)'VADGW'and n[0x2](p+0x333))or(e%0x03==0x1 and(function(n)if not d[n]then e=e+0x01 d[n]=(0x8a);end return true end)'HIOqu'and n[0x1](p+0xdb))or p end),(function(l)if t>0x20 then return l end t=t+1 e=(e+0xed2-l)%0x38 return(e%0x03==0x0 and(function(n)if not d[n]then e=e+0x01 d[n]=(0xd0);end return true end)'OffIi'and n[0x1](0x1ac+l))or(e%0x03==0x1 and(function(n)if not d[n]then e=e+0x01 d[n]=(0x5d);r[f]=ae();f=f+a;end return true end)'KoxPk'and n[0x2](l+0x97))or(e%0x03==0x2 and(function(n)if not d[n]then e=e+0x01 d[n]=(0xe);end return true end)'MVAfc'and n[0x3](l+0x12b))or l end)}n[0x1](0xa6b)end){};local e=_(o(r));return e(...);end return ee((function()local d={}local e=0x01;local n;if h.UcQTHUwy then n=h.UcQTHUwy(ee)else n=''end if h.LpkguZLh(n,h.slmGVYOV)then e=e+0;else e=e+1;end d[e]=0x02;d[d[e]+0x01]=0x03;return d;end)(),...)end)((function(e,d,n,a,l,t)local t;if 3<e then if 6>e then if 4~=e then local e=a;do return function()local d=d(n,e(e,e),e(e,e));e(1);return d;end;end;else local e=a;local p,l,a=l(2);do return function()local d,n,f,t=d(n,e(e,e),e(e,e)+3);e(4);return(t*p)+(f*l)+(n*a)+d;end;end;end else if e>=7 then if e~=3 then repeat if 8>e then do return setmetatable({},{['__\99\97\108\108']=function(e,a,n,l,d)if d then return e[d]elseif l then return e else e[a]=n end end})end break;end;do return n(e,nil,n);end until true;else do return setmetatable({},{['__\99\97\108\108']=function(e,n,l,a,d)if d then return e[d]elseif a then return e else e[n]=l end end})end end else do return l[n]end;end end else if e>=2 then if 1<e then repeat if 2~=e then do return d(1),d(4,l,a,n,d),d(5,l,a,n)end;break;end;do return 16777216,65536,256 end;until true;else do return 16777216,65536,256 end;end else if e~=-2 then for t=18,61 do if 1>e then do return d(1),d(4,l,a,n,d),d(5,l,a,n)end;break;end;do return function(n,e,d)if d then local e=(n/2^(e-1))%2^((d-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(n%(e+e)>=e)and 1 or 0;end;end;end;break;end;else do return function(n,e,d)if d then local e=(n/2^(e-1))%2^((d-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(n%(e+e)>=e)and 1 or 0;end;end;end;end end end end),...)
+-- === HUB STRIP POINT - when executed through the hub ScriptLoader, which injects
+--     "local Library = _G.OxideLib" above this line instead. ===
+-- ==============================================================================
+
+-- ==============================================================================
+-- RE-EXECUTION GUARD + RESOURCE TRACKING
+-- ==============================================================================
+do
+    local prev = _G.OxideStealAnEgg
+    if prev and type(prev.Unload) == "function" then pcall(prev.Unload) end
+end
+local HUB = { conns = {}, drawings = {}, highlights = {}, dead = false }
+_G.OxideStealAnEgg = HUB
+local function track(conn) table.insert(HUB.conns, conn); return conn end
+local function trackDrawing(d) if d then table.insert(HUB.drawings, d) end; return d end
+
+local Window = Library:CreateWindow({
+    Name = "Oxide HUB | Ein Ei stehlen",
+    LoadingAnimation = true,
+    LoadingText = "Oxide",
+    LoadingDuration = 2.0,
+})
+
+-- ==============================================================================
+-- CONFIG / FLAG PERSISTENCE
+-- ==============================================================================
+local HAS_CONFIG = type(Library.SaveConfig) == "function"
+    and type(Library.LoadConfig) == "function"
+    and type(Library.ListConfigs) == "function"
+local CONFIG_NAME = "stealanegg"
+
+local dropdownResync = {}
+local function registerResync(handle, applyFn)
+    if handle and applyFn then
+        table.insert(dropdownResync, function() applyFn(handle:Get()) end)
+    end
+end
+local function ResyncAll()
+    for _, fn in ipairs(dropdownResync) do pcall(fn) end
+end
+
+-- ==============================================================================
+-- SERVICES & LOCALS
+-- ==============================================================================
+local Players             = game:GetService("Players")
+local RS                  = game:GetService("ReplicatedStorage")
+local ReplicatedStorage   = RS
+local RunService          = game:GetService("RunService")
+local UserInputService    = game:GetService("UserInputService")
+local Workspace           = game:GetService("Workspace")
+local Lighting            = game:GetService("Lighting")
+local TeleportService     = game:GetService("TeleportService")
+local VirtualUser         = game:GetService("VirtualUser")
+
+local LP          = Players.LocalPlayer
+local LocalPlayer = LP
+local function GetCamera()
+    return Workspace.CurrentCamera or Workspace:FindFirstChildOfClass("Camera")
+end
+
+-- Instant ProximityPrompt Hold Eliminator (Ensures 0s hold on egg pickup)
+pcall(function()
+    local pps = game:GetService("ProximityPromptService")
+    track(pps.PromptButtonHoldBegan:Connect(function(prompt, player)
+        if player == LP and tostring(prompt) == "CarryAreaEgg" then
+            prompt.HoldDuration = 0
+        end
+    end))
+end)
+
+-- Anti-Robux Purchase Prompt Shield: immediately dismisses accidental Robux purchase prompts
+pcall(function()
+    local coreGui = game:GetService("CoreGui")
+    track(coreGui.ChildAdded:Connect(function(child)
+        if child.Name == "PurchasePrompt" then
+            task.wait(0.04)
+            pcall(function()
+                local cancel = child:FindFirstChild("CancelButton", true)
+                if cancel and typeof(cancel) == "Instance" and cancel:IsA("GuiButton") then
+                    pcall(function() cancel.MouseButton1Click:Fire() end)
+                end
+            end)
+        end
+    end))
+end)
+
+local function Notify(title, content, kind, dur)
+    pcall(function()
+        Window:Notify({ Title = title, Content = content, Type = kind or "Info", Duration = dur or 2.5 })
+    end)
+end
+
+local function safeCallback(fn)
+    return function(...)
+        local ok, err = pcall(fn, ...)
+        if not ok then
+            pcall(Notify, "Oxide HUB", "Error: " .. tostring(err), "Error", 4)
+        end
+    end
+end
+
+-- ==============================================================================
+-- CLIENT AC NEUTRALIZER & UGI CONSTANT WIPER (Layer 1 + Layer 2)
+-- ==============================================================================
+local function bypassClientDetections()
+    if typeof(filtergc) ~= "function" or typeof(debug) ~= "table" or typeof(debug.getupvalues) ~= "function" then
+        return false, "no filtergc"
+    end
+    local ok, fn = pcall(function()
+        return filtergc("function", {
+            Constants = { "gmatch", "GetFullName" },
+        }, true)
+    end)
+    if not ok or type(fn) ~= "function" then
+        return false, "filter miss"
+    end
+    local setMeta = (typeof(setrawmetatable) == "function" and setrawmetatable)
+        or (typeof(setmetatable) == "function" and setmetatable)
+    if not setMeta then
+        return false, "no setmeta"
+    end
+    local blocked = 0
+    local okUv, ups = pcall(debug.getupvalues, fn)
+    if not okUv or type(ups) ~= "table" then
+        return false, "no upvalues"
+    end
+    for _, tbl in pairs(ups) do
+        if typeof(tbl) == "table" then
+            local okSet = pcall(setMeta, tbl, {
+                __newindex = function() end,
+            })
+            if okSet then
+                blocked = blocked + 1
+            end
+        end
+    end
+    return blocked > 0, blocked
+end
+
+pcall(bypassClientDetections)
+
+-- Runtime AC Detection Table Freezer (Neutralizes violation storage)
+pcall(function()
+    local getgc = getgc or (debug and debug.getgc)
+    local setmeta = setrawmetatable or setmetatable
+    local getmeta = getrawmetatable or getmetatable
+
+    if getgc and setmeta then
+        for _, obj in ipairs(getgc(true)) do
+            if typeof(obj) == "table" and not (getmeta and getmeta(obj)) then
+                local mainrun = false
+                for _, v in pairs(obj) do
+                    if v == obj then
+                        mainrun = true
+                        break
+                    end
+                end
+                if mainrun then
+                    for _, v in pairs(obj) do
+                        if typeof(v) == "number" and v >= 1 and v <= 3 and obj[v] == nil then
+                            pcall(setmeta, obj, { __newindex = function() end })
+                            break
+                        end
+                    end
+                end
+            end
+        end
+    end
+end)
+
+-- UGI Constant Wiper (neutralizes ReplicatedFirst.UGI watchdog)
+pcall(function()
+    local getconstants = getconstants or (debug and debug.getconstants)
+    local setconstant = setconstant or (debug and debug.setconstant)
+    local islclosure = islclosure or function(Function)
+        return not pcall(setfenv, getfenv(Function))
+    end
+
+    if getgc and getconstants and setconstant then
+        for _, Function in ipairs(getgc(true)) do
+            if typeof(Function) == "function" and islclosure(Function) then
+                local ok, Source = pcall(debug.info, Function, "s")
+                if ok and type(Source) == "string" and Source:find("ReplicatedFirst", 1, true) and Source:find("UGI", 1, true) then
+                    local okC, Constants = pcall(getconstants, Function)
+                    if okC and type(Constants) == "table" then
+                        for Index, Constant in next, Constants do
+                            if type(Constant) == "string" and Constant == "Humanoid" then
+                                pcall(setconstant, Function, Index, "")
+                            end
+                        end
+                    end
+                end
+            end
+        end
+    end
+end)
+
+-- Secondary Layer: X-14 Stack Scrubber & Token Neutralizer
+pcall(function()
+    local getconstants = getconstants or (debug and debug.getconstants)
+    local islclosure = islclosure or function(fn) return not pcall(setfenv, getfenv(fn)) end
+    local HookFn = hookfunction or replaceclosure or hookfunc
+    if getgc and getconstants and HookFn and debug and debug.getstack and debug.setstack then
+        for _, fn in ipairs(getgc(true)) do
+            if typeof(fn) == "function" and islclosure(fn) then
+                local ok, consts = pcall(getconstants, fn)
+                if ok and type(consts) == "table" and table.find(consts, "X-14") then
+                    local cb = nil
+                    cb = HookFn(fn, function(...)
+                        local stack = debug.getstack(1)
+                        if type(stack) == "table" then
+                            for idx, val in pairs(stack) do
+                                if val == "X-14" then
+                                    pcall(debug.setstack, 1, idx, nil)
+                                end
+                            end
+                        end
+                        if cb then return cb(...) end
+                    end)
+                end
+            end
+        end
+    end
+end)
+
+-- Layer 3: Anti-Tamper State Table Sanitizer (19-upvalue detection neutralization)
+pcall(function()
+    local getgc = getgc or (debug and debug.getgc)
+    local islclosure = islclosure or function(v) return not pcall(setfenv, getfenv(v)) end
+    local getupvalues = getupvalues or (debug and debug.getupvalues)
+    local getupvalue = getupvalue or (debug and debug.getupvalue)
+    local setupvalue = setupvalue or (debug and debug.setupvalue)
+    local clonefunction = clonefunction or function(f) return function(...) return f(...) end end
+
+    if getgc and getupvalues and getupvalue and setupvalue then
+        for _, v in ipairs(getgc(true)) do
+            if typeof(v) == "function" and islclosure(v) then
+                local ok, upvs = pcall(getupvalues, v)
+                if ok and upvs and #upvs == 19 then
+                    local ok2, u2 = pcall(getupvalue, v, 2)
+                    if ok2 and typeof(u2) == "function" then
+                        local old = clonefunction(u2)
+                        pcall(setupvalue, v, 2, function(a, b)
+                            if b and typeof(b) == "table" then
+                                pcall(setmetatable, b, {})
+                            end
+                            return old(a, b)
+                        end)
+                    end
+                end
+            end
+        end
+    end
+end)
+
+-- ==============================================================================
+-- CHARACTER & MOVEMENT HELPERS
+-- ==============================================================================
+local function findChar() return LP.Character end
+local function findHum()
+    local ch = LP.Character
+    return ch and ch:FindFirstChildOfClass("Humanoid")
+end
+local function findHRP()
+    local ch = LP.Character
+    return ch and (ch:FindFirstChild("HumanoidRootPart") or ch.PrimaryPart or ch:FindFirstChildWhichIsA("BasePart"))
+end
+
+local GetCharacter = findChar
+local GetHumanoid  = findHum
+local GetHRP       = findHRP
+
+local function GetRootCFrame()
+    local hrp = findHRP()
+    return hrp and hrp.CFrame
+end
+
+-- ==============================================================================
+-- BAC TELEMETRY PACKET SPOOFER
+-- ==============================================================================
+local bxor = bit32.bxor
+local unpack = table.unpack
+
+local function isGuid(n)
+    return #n==36 and n:sub(9,9)=="-" and n:sub(14,14)=="-" and n:sub(19,19)=="-" and n:sub(24,24)=="-" and n:gsub("-",""):match("^%x+$")~=nil
+end
+
+local remoteSet, anyRemote = {}, nil
+
+local function scanRemotes()
+    for _, s in ipairs(game:GetChildren()) do
+        local ok, list = pcall(s.GetDescendants, s)
+        if ok and list then
+            for _, o in ipairs(list) do
+                if o:IsA("RemoteEvent") and isGuid(o.Name) then
+                    remoteSet[o] = true
+                    anyRemote = anyRemote or o
+                end
+            end
+        end
+    end
+end
+
+scanRemotes()
+
+local function parseCounter(v)
+    if type(v) ~= "string" then return end
+    local n = v:match("^X%-(%d+)$")
+    return n and tonumber(n)
+end
+
+local function looksLikeState(t, r)
+    if type(t) ~= "table" then return false end
+    local hR, hM = false, false
+    local ok = pcall(function()
+        for _, v in pairs(t) do
+            if v == r then hR = true
+            elseif type(v) == "string" and v:match("^X%-%d+$") then hM = true end
+        end
+    end)
+    return ok and hR and hM
+end
+
+local function findState(r)
+    for l=2,24 do
+        local _, fn = pcall(debug.info, l, "f")
+        if type(fn) == "function" then
+            local _, ups = pcall(debug.getupvalues, fn)
+            if type(ups) == "table" then
+                for _, v in pairs(ups) do
+                    if looksLikeState(v, r) then return v end
+                    if type(v) == "table" then
+                        local nested
+                        pcall(function()
+                            for _, x in pairs(v) do
+                                if looksLikeState(x, r) then nested = x; return end
+                            end
+                        end)
+                        if nested then return nested end
+                    end
+                end
+            end
+        end
+    end
+end
+
+local function mapState(st, a1, a2)
+    local m = {}
+    for k, v in pairs(st) do
+        if type(v) == "string" then
+            if v:match("^X%-%d+$") then m.marker = m.marker or k
+            elseif a1 and v == a1 then m.arg1 = m.arg1 or k
+            elseif a2 and v == a2 then m.arg2 = m.arg2 or k end
+        end
+    end
+    return m
+end
+
+local model = nil
+
+local function digits(n)
+    n = n % 1000
+    return math.floor(n/100), math.floor(n/10)%10, n%10
+end
+
+local function encode(m, c)
+    local d1, d2, d3 = digits(c)
+    return m.prefix .. string.char(bxor(d1, m.k1), bxor(d2, m.k2), bxor(d3, m.k3))
+end
+
+local function learn(r, a1, a2)
+    local st = findState(r)
+    if not st then return end
+    local map = mapState(st, a1, a2)
+    if not map.marker then return end
+    local c = parseCounter(rawget(st, map.marker))
+    if not c then return end
+    local d1, d2, d3 = digits(c)
+    local m = {
+        state = st, map = map, remote = r,
+        prefix = a1:sub(1, 9),
+        k1 = bxor(a1:byte(10), d1),
+        k2 = bxor(a1:byte(11), d2),
+        k3 = bxor(a1:byte(12), d3),
+        offset = c - os.time(),
+        arg2 = a2
+    }
+    if encode(m, c) == a1 then return m end
+end
+
+local function liveCounter(m)
+    if m.state and m.map.marker then
+        local _, raw = pcall(rawget, m.state, m.map.marker)
+        local c = parseCounter(raw)
+        if c and math.abs((c - os.time()) - m.offset) <= 5 then
+            return c
+        end
+    end
+    return os.time() + m.offset
+end
+
+local function refreshArg2(m)
+    if m.state and m.map.arg2 then
+        local _, v = pcall(rawget, m.state, m.map.arg2)
+        if type(v) == "string" then m.arg2 = v end
+    end
+    return m.arg2
+end
+
+local HookFn = hookfunction or replaceclosure or hookfunc or detour_function
+
+if anyRemote and HookFn then
+    local oldFire
+    oldFire = HookFn(anyRemote.FireServer, function(self, ...)
+        local args = table.pack(...)
+        if not remoteSet[self] then
+            return oldFire(self, unpack(args, 1, args.n))
+        end
+
+        local a1 = args[1]
+
+        if type(a1) == "string" and #a1 == 12 then
+            if not model then
+                model = learn(self, a1, args[2])
+            else
+                local c = parseCounter(rawget(model.state, model.map.marker))
+                if c and encode(model, c) ~= a1 then
+                    local m = learn(self, a1, args[2])
+                    if m then m.spoofed = model.spoofed; model = m end
+                end
+            end
+            return oldFire(self, unpack(args, 1, args.n))
+        end
+
+        if model and type(a1) == "string" and #a1 == 4 then
+            local c = liveCounter(model)
+            args[1] = encode(model, c)
+            args[2] = refreshArg2(model)
+            model.spoofed = (model.spoofed or 0) + 1
+            return oldFire(self, unpack(args, 1, math.max(args.n, 2)))
+        end
+
+        return oldFire(self, unpack(args, 1, args.n))
+    end)
+end
+
+task.spawn(function()
+    while not HUB.dead do
+        task.wait(10)
+        local alive = false
+        for r in pairs(remoteSet) do
+            if r:IsDescendantOf(game) then alive = true; break end
+        end
+        if not alive then
+            table.clear(remoteSet)
+            anyRemote = nil
+            model = nil
+            scanRemotes()
+        end
+    end
+end)
+
+-- Real-time Memory Evidence Scrubber for Character Integrity
+task.spawn(function()
+    if not getgc then return end
+    local st = nil
+
+    local function findIntegrityTable()
+        local ok, objs = pcall(getgc, true)
+        if ok and objs then
+            for _, o in pairs(objs) do
+                if type(o) == "table" then
+                    local hit = false
+                    pcall(function()
+                        hit = (rawget(o, "ValidationLocked") ~= nil and rawget(o, "Evidence") ~= nil)
+                            or (rawget(o, "ThreatLevel") ~= nil and rawget(o, "LastObservedSample") ~= nil)
+                    end)
+                    if hit then return o end
+                end
+            end
+        end
+        return nil
+    end
+
+    track(LP.CharacterAdded:Connect(function()
+        task.wait(1)
+        st = findIntegrityTable()
+    end))
+
+    while not HUB.dead do
+        if not st then
+            st = findIntegrityTable()
+        end
+
+        if st then
+            pcall(function()
+                local ev = rawget(st, "Evidence")
+                if type(ev) == "table" then
+                    if (tonumber(ev.Speed)    or 0) > 0 then rawset(ev, "Speed", 0) end
+                    if (tonumber(ev.Teleport) or 0) > 0 then rawset(ev, "Teleport", 0) end
+                    if (tonumber(ev.Flight)   or 0) > 0 then rawset(ev, "Flight", 0) end
+                end
+                if rawget(st, "ThreatLevel") ~= "Trusted" then rawset(st, "ThreatLevel", "Trusted") end
+                if rawget(st, "ValidationLocked") == true then rawset(st, "ValidationLocked", false) end
+                if rawget(st, "FirstSuspiciousAt") ~= nil then rawset(st, "FirstSuspiciousAt", nil) end
+                if rawget(st, "KickQueued") == true then rawset(st, "KickQueued", false) end
+                if rawget(st, "TamperScore") ~= nil then rawset(st, "TamperScore", 0) end
+                if rawget(st, "InvalidHeartbeatCount") ~= nil then rawset(st, "InvalidHeartbeatCount", 0) end
+
+                local los = rawget(st, "LastObservedSample")
+                if los ~= nil then
+                    if rawget(st, "LastGameplayTrustedSample") == nil then rawset(st, "LastGameplayTrustedSample", los) end
+                    if rawget(st, "LastValidatedSample") == nil then rawset(st, "LastValidatedSample", los) end
+                    if rawget(st, "LastValidatedGroundedSample") == nil then rawset(st, "LastValidatedGroundedSample", los) end
+                    if rawget(st, "LastConfirmedGroundSample") == nil then rawset(st, "LastConfirmedGroundSample", los) end
+                    if rawget(st, "LastGoodSample") == nil then rawset(st, "LastGoodSample", los) end
+                end
+            end)
+        end
+        task.wait(0.2)
+    end
+end)
+
+-- ==============================================================================
+-- GAME NETWORKING & MODULE INTEGRATION
+-- ==============================================================================
+local EggState, PlotState, AreasData, RarityData, AssetsData, EggToolDisplay, AreaEggSlotIdentity
+pcall(function() EggState = require(RS.Client.EggState) end)
+pcall(function() PlotState = require(RS.Client.PlotState) end)
+pcall(function() AreasData = require(RS.Data.Areas) end)
+pcall(function() RarityData = require(RS.Data.Rarity) end)
+pcall(function() AssetsData = require(RS.Data.Assets) end)
+local SaveModule
+pcall(function() SaveModule = require(RS.Shared.Save) end)
+pcall(function() EggToolDisplay = require(RS.Shared.Eggs.EggToolDisplay) end)
+pcall(function()
+    AreaEggSlotIdentity = (RS:FindFirstChild("Shared") and RS.Shared:FindFirstChild("Util") and require(RS.Shared.Util.AreaEggSlotIdentity))
+        or (RS:FindFirstChild("Util") and require(RS.Util.AreaEggSlotIdentity))
+        or (RS:FindFirstChild("Shared") and RS.Shared:FindFirstChild("Utils") and require(RS.Shared.Utils.AreaEggSlotIdentity))
+end)
+
+local function GetNetRemote(name)
+    local net = RS:FindFirstChild("Packages") and RS.Packages:FindFirstChild("Networking")
+    return net and net:FindFirstChild(name)
+end
+
+local function GetLocalSlot()
+    if PlotState and PlotState.ResolveLocalSlot then
+        local ok, slot = pcall(PlotState.ResolveLocalSlot)
+        if ok and slot then return slot end
+    end
+    return 1
+end
+
+local function GetLocalPlotCenter()
+    local plotObj = PlotState and PlotState.ResolvePlot and PlotState.ResolvePlot()
+    local pt = plotObj and plotObj.CenterPoint and (typeof(plotObj.CenterPoint) == "Vector3" and plotObj.CenterPoint or (plotObj.CenterPoint:IsA("BasePart") and plotObj.CenterPoint.Position))
+    if pt then
+        return Vector3.new(pt.X, math.max(pt.Y, 70.4), pt.Z), CFrame.new(pt.X, math.max(pt.Y, 70.4), pt.Z)
+    end
+    return Vector3.new(464.7, 70.4, -364.0), CFrame.new(464.7, 70.4, -364.0)
+end
+
+-- ==============================================================================
+-- CLEAN ROAD & FLIGHT PATH NAVIGATION (Anti-Trap & Zero Kick Engine)
+-- ==============================================================================
+local MAIN_ROAD_Z = -364.5
+
+local stealMovementMethod    = "Tween Glide" -- "Tween Glide", "Fly Glide", "Safe Walk", "Anti Guard"
+local avoidTrapsEnabled       = true
+local autoClaimMonsterChests  = false
+local autoFeedMonster         = false
+
+local function instantTP(cframe)
+    local root = findHRP()
+    if not root then return end
+    root.CFrame = cframe
+    root.AssemblyLinearVelocity = Vector3.zero
+    root.AssemblyAngularVelocity = Vector3.zero
+    task.spawn(function()
+        local char = LP.Character
+        if char then
+            for _, part in ipairs(char:GetDescendants()) do
+                if part:IsA("BasePart") then
+                    pcall(function() part.CanCollide = false end)
+                end
+            end
+        end
+    end)
+end
+
+local function heartbeatTP(cframeTarget, holdTime)
+    local root = findHRP()
+    if not root then return end
+    local char = LP.Character
+    if char then
+        for _, part in ipairs(char:GetDescendants()) do
+            if part:IsA("BasePart") then
+                pcall(function() part.CanCollide = false end)
+            end
+        end
+    end
+    local conn
+    conn = RunService.Heartbeat:Connect(function()
+        local r = findHRP()
+        if r and r.Parent then
+            r.CFrame = cframeTarget
+            r.AssemblyLinearVelocity = Vector3.zero
+            r.AssemblyAngularVelocity = Vector3.zero
+        end
+    end)
+    task.wait(holdTime or 0.25)
+    if conn then conn:Disconnect() end
+    local r2 = findHRP()
+    if r2 then
+        r2.CFrame = cframeTarget
+        r2.AssemblyLinearVelocity = Vector3.zero
+        r2.AssemblyAngularVelocity = Vector3.zero
+    end
+end
+
+local BYPASS_FLOAT_HEIGHT = 6.7
+local BYPASS_LEG_OFFSET = Vector3.new(0, -6.7, 0)
+local BYPASS_TP_OFFSET = Vector3.new(0, 6.7, 0)
+
+local function bypassReturnTP(safeCFrame, holdTime)
+    local hrp = findHRP()
+    if not hrp then return false end
+    local targetPart = Workspace:FindFirstChild("SpawnLocation", true)
+    if not targetPart or not targetPart:IsA("BasePart") then
+        heartbeatTP(safeCFrame, holdTime or 0.3)
+        return true
+    end
+    pcall(function() targetPart.CanCollide = false end)
+    local char = LP.Character
+    if char then
+        for _, part in ipairs(char:GetDescendants()) do
+            if part:IsA("BasePart") then
+                pcall(function() part.CanCollide = false end)
+            end
+        end
+    end
+    local conn
+    conn = RunService.Heartbeat:Connect(function()
+        local r = findHRP()
+        if not r or not r.Parent then return end
+        pcall(function() targetPart.CFrame = r.CFrame * CFrame.new(BYPASS_LEG_OFFSET) end)
+        r.CFrame = safeCFrame + BYPASS_TP_OFFSET
+        r.AssemblyLinearVelocity = Vector3.zero
+        r.AssemblyAngularVelocity = Vector3.zero
+        pcall(function() targetPart.CFrame = safeCFrame end)
+    end)
+    task.wait(holdTime or 0.35)
+    if conn then conn:Disconnect() end
+    local r2 = findHRP()
+    if r2 then
+        r2.CFrame = safeCFrame
+        r2.AssemblyLinearVelocity = Vector3.zero
+        r2.AssemblyAngularVelocity = Vector3.zero
+    end
+    return true
+end
+
+local function restoreCollisions()
+    local char = LP.Character
+    if not char or not char.Parent then return end
+    for _, part in ipairs(char:GetDescendants()) do
+        if part:IsA("BasePart") and part.Name ~= "HumanoidRootPart" then
+            part.CanCollide = true
+        end
+    end
+end
+
+local function SafeTeleport(targetPos)
+    local root = findHRP()
+    if not root or not targetPos then return false end
+    root.CFrame = CFrame.new(targetPos.X, math.max(targetPos.Y, 70.0), targetPos.Z)
+    root.AssemblyLinearVelocity = Vector3.zero
+    root.AssemblyAngularVelocity = Vector3.zero
+    return true
+end
+
+local function NeutralizeTraps()
+    local debris = Workspace:FindFirstChild("__DEBRIS")
+    if not debris then return end
+    for _, d in ipairs(debris:GetChildren()) do
+        if d.Name == "PlayerTrap" and d:GetAttribute("Owner") ~= LP.Name then
+            if d:IsA("BasePart") then
+                d.CanTouch = false
+                d.CanQuery = false
+            end
+            for _, c in ipairs(d:GetChildren()) do
+                if c:IsA("BasePart") then
+                    c.CanTouch = false
+                    c.CanQuery = false
+                    if c.Name == "Hitbox" then
+                        c.CFrame = CFrame.new(0, -999, 0)
+                    end
+                end
+            end
+            local tt = d:FindFirstChildWhichIsA("TouchTransmitter", true)
+            if tt then pcall(function() tt:Destroy() end) end
+        end
+    end
+end
+
+local function MoveToPoint(target, speed, easeOut)
+    local hrp = findHRP()
+    if not hrp or not target then return false end
+
+    local start = hrp.Position
+    local dist = (target - start).Magnitude
+    if dist < 1.0 then
+        hrp.CFrame = CFrame.new(target.X, math.max(target.Y, 70.0), target.Z)
+        hrp.AssemblyLinearVelocity = Vector3.zero
+        hrp.AssemblyAngularVelocity = Vector3.zero
+        return true
+    end
+
+    speed = math.clamp(tonumber(speed) or tonumber(glideSpeed) or 750, 50, 750)
+
+    local t0 = os.clock()
+    local totalDist = dist
+    while not HUB.dead do
+        local dt = RunService.Heartbeat:Wait()
+        local curPos = hrp.Position
+        local toTarget = target - curPos
+        local remain = toTarget.Magnitude
+        if remain < 1.0 then break end
+        local stepSpeed = speed
+        if easeOut then
+            local progress = 1 - math.clamp(remain / totalDist, 0, 1)
+            stepSpeed = math.max(speed * (1 - progress * 0.8), 35)
+        end
+        local step = math.min(stepSpeed * dt, remain)
+        local dir = toTarget.Unit
+        local nextPos = curPos + dir * step
+        hrp.CFrame = CFrame.lookAt(nextPos, nextPos + dir)
+        hrp.AssemblyLinearVelocity = Vector3.zero
+        hrp.AssemblyAngularVelocity = Vector3.zero
+        if os.clock() - t0 > (totalDist / 50 + 5) then break end
+    end
+
+    hrp.CFrame = CFrame.new(target.X, math.max(target.Y, 70.0), target.Z)
+    hrp.AssemblyLinearVelocity = Vector3.zero
+    hrp.AssemblyAngularVelocity = Vector3.zero
+    return true
+end
+
+local function FlyToPoint(target, speed, easeOut)
+    local hrp = findHRP()
+    if not hrp or not target then return false end
+    local start = hrp.Position
+    local dist = (target - start).Magnitude
+    if dist < 1.0 then
+        hrp.CFrame = CFrame.new(target.X, math.max(target.Y, 70.0), target.Z)
+        hrp.AssemblyLinearVelocity = Vector3.zero
+        hrp.AssemblyAngularVelocity = Vector3.zero
+        return true
+    end
+
+    speed = math.clamp(tonumber(speed) or tonumber(glideSpeed) or 750, 50, 750)
+    local moveTime = math.max(dist / speed, 0.02)
+    if easeOut then
+        moveTime = moveTime * 1.25
+    end
+
+    local t0 = os.clock()
+    local delta = target - start
+    local dir = delta.Magnitude > 0.001 and delta.Unit or Vector3.new(1, 0, 0)
+
+    while os.clock() - t0 < moveTime and not HUB.dead do
+        local dt = RunService.Heartbeat:Wait()
+        local linearAlpha = math.clamp((os.clock() - t0) / moveTime, 0, 1)
+
+        local a = linearAlpha
+        if easeOut then
+            a = math.sin(linearAlpha * (math.pi / 2))
+        end
+
+        local cur = start:Lerp(target, a)
+        hrp.CFrame = CFrame.lookAt(cur, cur + dir)
+
+        local curSpeed = speed
+        if easeOut then
+            curSpeed = math.max(speed * (1 - linearAlpha * 0.8), 35)
+        end
+        hrp.AssemblyLinearVelocity = Vector3.new(dir.X * curSpeed, math.clamp(dir.Y * curSpeed, -15, 150), dir.Z * curSpeed)
+        hrp.AssemblyAngularVelocity = Vector3.zero
+    end
+
+    hrp.CFrame = CFrame.new(target.X, math.max(target.Y, 70.0), target.Z)
+    hrp.AssemblyLinearVelocity = Vector3.zero
+    hrp.AssemblyAngularVelocity = Vector3.zero
+    return true
+end
+
+local SAFE_BOUNDARY_X = 580 -- right before entering the safe zone
+local SAFE_ZONE_SPEED = 245 -- 245 studs/s safe entry speed
+
+local function TravelRoadPath(targetPos, speed, isApproach)
+    local hrp = findHRP()
+    if not hrp or not targetPos then return false end
+    if avoidTrapsEnabled then pcall(NeutralizeTraps) end
+
+    local startPos = hrp.Position
+    local safeY = math.max(startPos.Y, targetPos.Y, 70.4)
+    local isReturningToBase = (targetPos.X < 560)
+
+    if isReturningToBase and startPos.X > SAFE_BOUNDARY_X then
+        -- 1. Sprint to main road at full speed (750 studs/s)
+        local p1 = Vector3.new(startPos.X, safeY, MAIN_ROAD_Z)
+        MoveToPoint(p1, speed, false)
+
+        -- 2. Sprint along main road at full speed until 20 studs BEFORE safe zone
+        local pSafeApproach = Vector3.new(SAFE_BOUNDARY_X, safeY, MAIN_ROAD_Z)
+        MoveToPoint(pSafeApproach, speed, false)
+
+        -- 3. Slow down to 245 studs/s before entering the safe zone
+        local pBaseRoad = Vector3.new(targetPos.X, safeY, MAIN_ROAD_Z)
+        MoveToPoint(pBaseRoad, SAFE_ZONE_SPEED, false)
+
+        -- 4. Enter base pen at 245 studs/s
+        local pPen = targetPos + Vector3.new(0, 1.2, 0)
+        MoveToPoint(pPen, SAFE_ZONE_SPEED, isApproach == true)
+        return true
+    else
+        local p1 = Vector3.new(startPos.X, safeY, MAIN_ROAD_Z)
+        local p2 = Vector3.new(targetPos.X, safeY, MAIN_ROAD_Z)
+        local p3 = targetPos + Vector3.new(0, 1.2, 0)
+
+        MoveToPoint(p1, speed, false)
+        MoveToPoint(p2, speed, false)
+        MoveToPoint(p3, speed, isApproach == true)
+        return true
+    end
+end
+
+local function TravelFlyDirect(targetPos, speed, isApproach)
+    local hrp = findHRP()
+    if not hrp or not targetPos then return false end
+    if avoidTrapsEnabled then pcall(NeutralizeTraps) end
+
+    local startPos = hrp.Position
+    local isReturningToBase = (targetPos.X < 560)
+    local flyAltitude = math.max(startPos.Y, targetPos.Y, 70.4) + 28
+
+    if isReturningToBase and startPos.X > SAFE_BOUNDARY_X then
+        -- Fly at full speed (750 studs/s) until right before safe zone
+        local pSky1 = Vector3.new(startPos.X, flyAltitude, startPos.Z)
+        local pSkySafe = Vector3.new(SAFE_BOUNDARY_X, flyAltitude, MAIN_ROAD_Z)
+        FlyToPoint(pSky1, speed, false)
+        FlyToPoint(pSkySafe, speed, false)
+
+        -- Descend and slow down to 245 studs/s before entering safe zone
+        local pGroundSafe = Vector3.new(SAFE_BOUNDARY_X, 70.4, MAIN_ROAD_Z)
+        FlyToPoint(pGroundSafe, SAFE_ZONE_SPEED, false)
+
+        local pBaseRoad = Vector3.new(targetPos.X, 70.4, MAIN_ROAD_Z)
+        MoveToPoint(pBaseRoad, SAFE_ZONE_SPEED, false)
+
+        local pPen = targetPos + Vector3.new(0, 1.2, 0)
+        MoveToPoint(pPen, SAFE_ZONE_SPEED, isApproach == true)
+        return true
+    else
+        local totalDist = (targetPos - startPos).Magnitude
+        if totalDist < 25 then
+            FlyToPoint(Vector3.new(targetPos.X, math.max(targetPos.Y, 70.0) + 1.2, targetPos.Z), speed, isApproach == true)
+            return true
+        end
+
+        local pSky1 = Vector3.new(startPos.X, flyAltitude, startPos.Z)
+        local pSky2 = Vector3.new(targetPos.X, flyAltitude, targetPos.Z)
+        local pGround = Vector3.new(targetPos.X, math.max(targetPos.Y, 70.0) + 1.2, targetPos.Z)
+
+        FlyToPoint(pSky1, speed, false)
+        FlyToPoint(pSky2, speed, false)
+        FlyToPoint(pGround, speed, isApproach == true)
+        return true
+    end
+end
+
+local function TravelSafeWalk(targetPos)
+    local hum = findHum()
+    local hrp = findHRP()
+    if not hum or not hrp or not targetPos then return false end
+    if avoidTrapsEnabled then pcall(NeutralizeTraps) end
+
+    local startPos = hrp.Position
+    local p1 = Vector3.new(startPos.X, startPos.Y, MAIN_ROAD_Z)
+    local p2 = Vector3.new(targetPos.X, targetPos.Y, MAIN_ROAD_Z)
+    local p3 = targetPos + Vector3.new(0, 1.2, 0)
+
+    for _, pt in ipairs({ p1, p2, p3 }) do
+        if HUB.dead then break end
+        hum:MoveTo(pt)
+        local t0 = os.clock()
+        while (hrp.Position - pt).Magnitude > 4.5 and os.clock() - t0 < 5 and not HUB.dead do
+            task.wait(0.05)
+        end
+    end
+    return true
+end
+
+local function TravelToDestination(targetPos, speed, isApproach)
+    if stealMovementMethod == "Fly Glide" then
+        return TravelFlyDirect(targetPos, speed, isApproach)
+    elseif stealMovementMethod == "Safe Walk" then
+        return TravelSafeWalk(targetPos)
+    else
+        -- Both "Tween Glide" and "Anti Guard" smoothly glide to the egg via road
+        return TravelRoadPath(targetPos, speed, isApproach)
+    end
+end
+
+-- ==============================================================================
+-- RARITY & AREA DICTIONARIES (Dynamic scoring for Rare Egg Hunter)
+-- ==============================================================================
+local RARITY_SCORE_MAP = {
+    ["Titan"]           = 1100,
+    ["Divine"]          = 1000,
+    ["Transcendent"]    = 1000,
+    ["Superior"]        = 1000,
+    ["Eternal"]         = 900,
+    ["Limited"]         = 900,
+    ["Secret"]          = 800,
+    ["Exotic"]          = 800,
+    ["Cosmic"]          = 700,
+    ["Exclusive"]       = 700,
+    ["Admin"]           = 700,
+    ["Mythic"]          = 600,
+    ["Mythical"]        = 600,
+    ["Prismatic"]       = 600,
+    ["Rainbow"]         = 600,
+    ["Squishy God"]     = 600,
+    ["BrainrotGod"]     = 600,
+    ["Legendary"]       = 500,
+    ["Epic"]            = 400,
+    ["Rare"]            = 300,
+    ["SuperRare"]       = 200,
+    ["Celestial"]       = 200,
+    ["Uncommon"]        = 200,
+    ["Basic"]           = 100,
+    ["Common"]          = 100,
+}
+
+local AREA_COORDINATES = {
+    ["Base / Plot"]      = Vector3.new(491.7, 70.4, -364.4),
+    ["Stands & Shops"]   = Vector3.new(539.5, 68.0, -364.5),
+    ["Forest"]           = Vector3.new(596.0, 68.0, -328.0),
+    ["Lake"]             = Vector3.new(744.0, 68.5, -408.0),
+    ["Desert"]           = Vector3.new(948.0, 69.5, -323.0),
+    ["Jungle"]           = Vector3.new(1188.0, 68.5, -408.0),
+    ["Snow"]             = Vector3.new(1492.0, 69.0, -315.0),
+    ["Volcano"]          = Vector3.new(1882.0, 68.0, -398.0),
+    ["Abyss Ocean"]      = Vector3.new(2280.0, 68.0, -326.0),
+    ["Prehistoric"]      = Vector3.new(2812.0, 69.0, -398.0),
+    ["Cosmic"]           = Vector3.new(3390.0, 68.0, -324.0),
+    ["Cherry Blossom"]   = Vector3.new(4028.0, 68.5, -396.0),
+    ["Titan Temple"]     = Vector3.new(4796.0, 69.5, -328.0),
+    ["Monster Event"]    = Vector3.new(539.5, 68.0, -411.3),
+    ["Dragon Event"]     = Vector3.new(539.5, 68.0, -318.0),
+}
+
+local AREA_NAMES = {
+    "Forest", "Lake", "Desert", "Jungle", "Snow", "Volcano",
+    "Abyss Ocean", "Prehistoric", "Cosmic", "Cherry Blossom", "Titan Temple",
+    "Monster Event", "Dragon Event"
+}
+
+local RARITY_NAMES = {
+    "Titan", "Divine", "Superior", "Eternal", "Limited",
+    "Secret", "Exotic", "Cosmic", "Exclusive", "Mythic", "Rainbow",
+    "Squishy God", "Legendary", "Epic", "Rare", "Uncommon", "Common"
+}
+
+local MUTATION_FILTERS = {
+    "Normal Only", "Mutated Only", "Parasite / Infested", "Rainbow Only", "Gold Only", "Silver Only", "Monstrous"
+}
+
+-- ==============================================================================
+-- AUTOMATION STATE & PERSISTENT RETURN POSITION
+-- ==============================================================================
+local autoStealEnabled          = false
+local rareEggHunter             = true
+local stealParasiteOnly         = false
+local stealBigEggsOnly          = false
+local selectedStealRarities     = {}
+local selectedStealAreas        = {}
+local selectedMutationTypes     = {}
+local stealDelay                = 1.5
+local glideSpeed                = 750
+local ignoredEggs               = {} -- [uid] = timestamp (prevents loops on failed eggs)
+
+-- Saved Return Position (automatically captured on first steal activation)
+local savedReturnCFrame         = nil
+
+local autoHatchEnabled          = false
+local autoPlantEnabled          = false
+local hatchCheckDelay           = 2.0
+
+local autoUpgradeBase           = false
+local autoUpgradeTreadmill      = false
+local autoTrainSpeed            = false
+local autoBuyTrails             = false
+local autoEquipBestPets         = false
+local autoClaimRewards          = false
+
+local autoSellPets              = false
+local autoSellEggs              = false
+local selectedSellPetRarities   = {}
+local selectedSellEggRarities   = {}
+
+-- When no rarity filter is picked, only sell low-tier items (the default list
+-- from the working satchel seller) instead of everything in the inventory.
+local DEFAULT_LOW_TIER_SELL = {
+    ["Common"] = true, ["Uncommon"] = true, ["Rare"] = true,
+    ["Epic"] = true, ["Legendary"] = true, ["Mythic"] = true,
+}
+local SELL_REQUEST_DELAY = 0.1
+local function getSellRarityFilter(selected)
+    if not selected or next(selected) == nil then return DEFAULT_LOW_TIER_SELL end
+    return selected
+end
+
+local instantPickupEnabled      = true
+local noKnockbackEnabled        = true
+local batAuraEnabled            = false
+local batAuraRadius             = 20
+local batAuraDelay              = 0.2
+local antiRagdollEnabled        = true
+
+-- ==============================================================================
+-- EGG STEALING, PLANTING & HATCHING CORE LOGIC (Strict Rarity Matching)
+-- ==============================================================================
+local function GetEggRarityInfo(egg)
+    if not egg then return "Common", 100 end
+
+    -- 1. Direct rarity property on egg
+    if egg.Rarity then
+        local r = egg.Rarity
+        local name = type(r) == "table" and (r.DisplayName or r._id or r.Name) or tostring(r)
+        local score = RARITY_SCORE_MAP[name] or (type(r) == "table" and tonumber(r.RarityNumber) and r.RarityNumber * 100) or 100
+        return name, score
+    end
+
+    -- 2. Individual Animal / Egg Rarity from Assets Catalog (AssetCategory)
+    local cat = egg.AssetCategory or egg.Category or egg.Name
+    if cat and AssetsData then
+        local assetsDir = AssetsData.Directory or AssetsData
+        local aInfo = assetsDir[cat]
+        if aInfo and aInfo.Rarity then
+            local r = aInfo.Rarity
+            local name = type(r) == "table" and (r.DisplayName or r._id or r.Name) or tostring(r)
+            local score = RARITY_SCORE_MAP[name] or (type(r) == "table" and tonumber(r.RarityNumber) and r.RarityNumber * 100) or 100
+            return name, score
+        end
+    end
+
+    -- 3. Fallback to Area mapping if asset category wasn't found in catalog
+    local areaData = AreasData and (AreasData.Directory or AreasData) and (AreasData.Directory or AreasData)[egg.AreaId]
+    local rarity = areaData and areaData.Rarity
+    local rarityId = (type(rarity) == "table" and (rarity._id or rarity.DisplayName or rarity.Name)) or (type(rarity) == "string" and rarity) or "Common"
+    local raritiesTable = RarityData and (RarityData.Rarities or RarityData) or {}
+    local rInfo = raritiesTable[rarityId] or {}
+    local rarityDisplayName = (type(rInfo) == "table" and (rInfo.DisplayName or rInfo._id)) or (type(rarity) == "table" and rarity.DisplayName) or rarityId or "Common"
+    local baseScore = RARITY_SCORE_MAP[rarityDisplayName] or RARITY_SCORE_MAP[rarityId] or (type(rarity) == "table" and tonumber(rarity.RarityNumber) and rarity.RarityNumber * 100) or 100
+    return rarityDisplayName, baseScore
+end
+
+local function isRarityAllowed(rarityName, filter)
+    if not filter or type(filter) ~= "table" then return true end
+    local count = 0
+    for _ in pairs(filter) do count = count + 1 end
+    if count == 0 then return true end
+
+    if filter[rarityName] == true then return true end
+    local rLower = string.lower(tostring(rarityName))
+    for k, v in pairs(filter) do
+        if type(v) == "string" and string.lower(v) == rLower then
+            return true
+        elseif type(k) == "string" and string.lower(k) == rLower and v == true then
+            return true
+        end
+    end
+    return false
+end
+
+local function isAreaAllowed(areaId, filter)
+    if not filter or type(filter) ~= "table" then return true end
+    local count = 0
+    for _ in pairs(filter) do count = count + 1 end
+    if count == 0 then return true end
+
+    if filter[areaId] == true then return true end
+    local aLower = string.lower(tostring(areaId))
+    for k, v in pairs(filter) do
+        if type(v) == "string" and string.lower(v) == aLower then
+            return true
+        elseif type(k) == "string" and string.lower(k) == aLower and v == true then
+            return true
+        end
+    end
+    return false
+end
+
+local function isMutationAllowed(muts, record, filter)
+    local isParasite = (record and record.HasParasite == true)
+        or (type(muts) == "table" and (table.find(muts, "Parasite") or table.find(muts, "Monstrous")))
+        or (record and (record.BaseMutation == "Parasite" or record.BaseMutation == "Monstrous"))
+
+    if stealParasiteOnly and not isParasite then
+        return false
+    end
+
+    if not filter or type(filter) ~= "table" then return true end
+    local count = 0
+    for _ in pairs(filter) do count = count + 1 end
+    if count == 0 then return true end
+
+    local hasMut = type(muts) == "table" and #muts > 0
+    local allowed = false
+    for _, opt in pairs(filter) do
+        if type(opt) == "string" then
+            if opt == "Normal Only" and not hasMut and not isParasite then
+                allowed = true
+            elseif opt == "Mutated Only" and (hasMut or isParasite) then
+                allowed = true
+            elseif (opt == "Parasite / Infested" or opt == "Monstrous") and isParasite then
+                allowed = true
+            elseif opt == "Silver Only" and type(muts) == "table" and table.find(muts, "Silver") then
+                allowed = true
+            elseif opt == "Gold Only" and type(muts) == "table" and (table.find(muts, "Gold") or table.find(muts, "Golden")) then
+                allowed = true
+            elseif opt == "Rainbow Only" and type(muts) == "table" and table.find(muts, "Rainbow") then
+                allowed = true
+            end
+        end
+    end
+    return allowed
+end
+
+local function isBigEgg(record)
+    if not record then return false end
+    local scale = tonumber(record.AssetScale) or 1
+    local nestScale = tonumber(record.NestScale) or 1
+    return scale >= 1.35 or nestScale >= 1.0
+end
+
+local function GetMatchingFieldEggs(areasFilter, raritiesFilter, mutationsFilter)
+    if not EggState or not EggState.ReadFieldEggs then return {} end
+    local ok, snapshot = pcall(EggState.ReadFieldEggs)
+    if not ok or not snapshot or not snapshot.Records then return {} end
+
+    local matched = {}
+    for _, record in ipairs(snapshot.Records) do
+        if record.State == "Slot" and record.BoundsCFrame then
+            local isIgnored = ignoredEggs[record.Uid] and (os.clock() - ignoredEggs[record.Uid] < 2.5)
+            if not isIgnored and (not stealBigEggsOnly or isBigEgg(record)) then
+                local areaOk = isAreaAllowed(record.AreaId, areasFilter)
+                local rarityName, baseScore = GetEggRarityInfo(record)
+                local rarityOk = isRarityAllowed(rarityName, raritiesFilter)
+                local muts = record.Mutations or {}
+                local mutOk = isMutationAllowed(muts, record, mutationsFilter)
+
+                -- Strict filter check: only insert if all selected filters match!
+                if areaOk and rarityOk and mutOk then
+                    local mutBonus = 0
+                    for _, m in ipairs(muts) do
+                        if m == "Rainbow" then mutBonus = mutBonus + 35
+                        elseif m == "Gold" or m == "Golden" then mutBonus = mutBonus + 20
+                        elseif m == "Silver" then mutBonus = mutBonus + 10 end
+                    end
+
+                    if record.HasParasite == true or (type(muts) == "table" and (table.find(muts, "Parasite") or table.find(muts, "Monstrous"))) then
+                        mutBonus = mutBonus + 800
+                    end
+
+                    if isBigEgg(record) then
+                        mutBonus = mutBonus + 600
+                    end
+
+                    table.insert(matched, {
+                        record = record,
+                        rarity = rarityName,
+                        score = baseScore + mutBonus
+                    })
+                end
+            end
+        end
+    end
+
+    -- Rare Egg Hunter: sort matched eggs by total score descending (Highest Rarity First)
+    if #matched > 1 then
+        table.sort(matched, function(a, b)
+            return a.score > b.score
+        end)
+    end
+
+    return matched
+end
+
+local function EnsureSavedReturnPosition()
+    if not savedReturnCFrame then
+        local hrp = findHRP()
+        if hrp then
+            savedReturnCFrame = hrp.CFrame
+        end
+    end
+end
+
+local function isPlayerCarryingEgg()
+    local pg = LP:FindFirstChildOfClass("PlayerGui")
+    local dropGui = pg and pg:FindFirstChild("DropHeldEgg")
+    if dropGui and dropGui.Enabled == true then
+        return true
+    end
+
+    local char = LP.Character
+    if char then
+        for _, t in ipairs(char:GetChildren()) do
+            if t:IsA("Model") and (t.Name:lower():find("egg") or t:GetAttribute("Uid") or t:GetAttribute("AssetCategory")) then
+                return true
+            end
+            if t:IsA("Tool") then
+                if EggToolDisplay and EggToolDisplay.IsEggTool and EggToolDisplay.IsEggTool(t) then
+                    return true
+                end
+                if t:GetAttribute("IsEgg") == true or t:GetAttribute("Uid") ~= nil or t:GetAttribute("AssetCategory") ~= nil then
+                    return true
+                end
+                local tName = t.Name:lower()
+                if tName:find("egg") or (tName ~= "bat" and tName ~= "defaulttool" and not tName:find("bat") and not tName:find("slap") and not tName:find("coil") and not tName:find("potion") and not tName:find("lantern")) then
+                    return true
+                end
+            end
+        end
+    end
+    local bp = LP:FindFirstChild("Backpack")
+    if bp then
+        for _, t in ipairs(bp:GetChildren()) do
+            if t:IsA("Tool") and EggToolDisplay and EggToolDisplay.IsEggTool and EggToolDisplay.IsEggTool(t) then
+                return true
+            end
+        end
+    end
+    return false
+end
+
+local function PlantAllCarriedEggsInPen()
+    local plotObj = PlotState and PlotState.ResolvePlot and PlotState.ResolvePlot()
+    local plotCenter = plotObj and plotObj.CenterPoint and plotObj.CenterPoint.Position or Vector3.new(464.7, 68.2, -364.0)
+
+    local toolsToPlant = {}
+    for _, t in ipairs(LP.Character:GetChildren()) do
+        if t:IsA("Tool") and EggToolDisplay and EggToolDisplay.IsEggTool and EggToolDisplay.IsEggTool(t) then
+            local uid = EggToolDisplay.GetToolUid(t)
+            if uid then table.insert(toolsToPlant, uid) end
+        end
+    end
+    for _, t in ipairs(LP.Backpack:GetChildren()) do
+        if t:IsA("Tool") and EggToolDisplay and EggToolDisplay.IsEggTool and EggToolDisplay.IsEggTool(t) then
+            local uid = EggToolDisplay.GetToolUid(t)
+            if uid then table.insert(toolsToPlant, uid) end
+        end
+    end
+
+    local plantedCount = 0
+    for _, eggUid in ipairs(toolsToPlant) do
+        for attempt = 1, 3 do
+            local offset = CFrame.new(math.random(-6, 6), 0, math.random(-6, 6))
+            local ok, res = pcall(function()
+                if EggState and EggState.PlantEgg then
+                    return EggState.PlantEgg(eggUid, offset)
+                end
+                return false
+            end)
+            if ok and res then
+                plantedCount = plantedCount + 1
+                break
+            end
+            task.wait(0.1)
+        end
+    end
+    return plantedCount
+end
+
+local function StealSpecificEggRobust(targetItem)
+    local record = targetItem.record or targetItem
+    if not record or not record.Uid or not record.BoundsCFrame then return false end
+
+    -- Verify the egg is still present in the latest snapshot before traveling
+    if EggState and EggState.ReadFieldEggs then
+        local ok, snap = pcall(EggState.ReadFieldEggs)
+        if ok and snap and snap.Records then
+            local stillThere = false
+            for _, r in ipairs(snap.Records) do
+                if r.Uid == record.Uid and r.State == "Slot" then
+                    stillThere = true
+                    record = r
+                    break
+                end
+            end
+            if not stillThere then
+                return false
+            end
+        end
+    end
+
+    local hrp = findHRP()
+    local hum = findHum()
+    if not hrp then return false end
+
+    EnsureSavedReturnPosition()
+
+    local targetPos = record.BoundsCFrame.Position
+    local speed = math.clamp(tonumber(glideSpeed) or 750, 50, 750)
+    local isInstantTP = (stealMovementMethod == "Anti Guard")
+
+    -- 1. Travel to egg nest: normal glide for all methods (including Anti Guard)
+    TravelToDestination(targetPos + Vector3.new(0, 1.2, 0), speed, true)
+    if hrp then
+        hrp.CFrame = CFrame.new(targetPos + Vector3.new(0, 1.2, 0))
+        hrp.AssemblyLinearVelocity = Vector3.zero
+        hrp.AssemblyAngularVelocity = Vector3.zero
+    end
+    task.wait(isInstantTP and 0.25 or 0.5)
+
+    -- 2. Claim egg with instant stop & verification handshake
+    local slotKey = nil
+    if AreaEggSlotIdentity and AreaEggSlotIdentity.LooksLikeFirstAreaUid and AreaEggSlotIdentity.LooksLikeFirstAreaUid(record.Uid) then
+        slotKey = AreaEggSlotIdentity.SlotKey(record.AreaId, record.NestId)
+    end
+
+    local net = RS:FindFirstChild("Packages") and RS.Packages:FindFirstChild("Networking")
+    local carryRemote = net and net:FindFirstChild("RF/EggWorld/AskFieldEggCarry")
+    if carryRemote then
+        pcall(function() carryRemote:InvokeServer({ Uid = record.Uid, FirstAreaSlotKey = slotKey }) end)
+    end
+    pcall(function()
+        if EggState and EggState.CarryFieldEgg then
+            EggState.CarryFieldEgg(record.Uid, slotKey)
+        end
+    end)
+
+    local prompt = nil
+    for _, d in ipairs(Workspace:GetDescendants()) do
+        if d:IsA("ProximityPrompt") and d.Name == "CarryAreaEgg" and d.Enabled then
+            local act = (d.ActionText or ""):lower()
+            local obj = (d.ObjectText or ""):lower()
+            if not act:find("skip") and not act:find("robux") and not obj:find("skip") and not obj:find("robux") then
+                local p = d.Parent
+                if p:IsA("Attachment") then p = p.Parent end
+                if p and (p.Position - hrp.Position).Magnitude < 14 then
+                    prompt = d
+                    break
+                end
+            end
+        end
+    end
+
+    if prompt then
+        prompt.HoldDuration = 0
+        pcall(function() fireproximityprompt(prompt) end)
+        pcall(function() fireproximityprompt(prompt, 0) end)
+    end
+
+    local safePlotCenter, _ = GetLocalPlotCenter()
+    local safeCFrame = CFrame.new(safePlotCenter + Vector3.new(0, 1.2, 0))
+    local tPickup = os.clock()
+    local carried = false
+    local instantFired = false
+    local conns = {}
+    local function fireInstantNow()
+        if instantFired then return end
+        instantFired = true
+        carried = true
+        task.spawn(function()
+            bypassReturnTP(safeCFrame, 0.35)
+            pcall(restoreCollisions)
+            pcall(PlantAllCarriedEggsInPen)
+        end)
+    end
+    if isInstantTP then
+        local char = LP.Character
+        local bp = LP:FindFirstChild("Backpack")
+        local pg = LP:FindFirstChildOfClass("PlayerGui")
+        pcall(function()
+            if char then
+                table.insert(conns, char.ChildAdded:Connect(function()
+                    if isPlayerCarryingEgg() then fireInstantNow() end
+                end))
+            end
+            if bp then
+                table.insert(conns, bp.ChildAdded:Connect(function()
+                    if isPlayerCarryingEgg() then fireInstantNow() end
+                end))
+            end
+            if pg then
+                table.insert(conns, pg.ChildAdded:Connect(function(c)
+                    if c.Name == "DropHeldEgg" then fireInstantNow() end
+                end))
+                local dg = pg:FindFirstChild("DropHeldEgg")
+                if dg then
+                    table.insert(conns, dg:GetPropertyChangedSignal("Enabled"):Connect(function()
+                        if dg.Enabled then fireInstantNow() end
+                    end))
+                end
+            end
+        end)
+    end
+    local maxWait = isInstantTP and 1.2 or 1.5
+    while os.clock() - tPickup < maxWait and not HUB.dead do
+        if carried or instantFired then
+            carried = true
+            break
+        end
+        if isPlayerCarryingEgg() then
+            carried = true
+            break
+        end
+        pcall(function()
+            if EggState and EggState.CarryFieldEgg then
+                EggState.CarryFieldEgg(record.Uid, slotKey)
+            end
+        end)
+        if prompt then
+            prompt.HoldDuration = 0
+            pcall(function() fireproximityprompt(prompt) end)
+        end
+        if isInstantTP then
+            task.wait()
+        else
+            task.wait(0.08)
+        end
+    end
+    for _, c in ipairs(conns) do pcall(function() c:Disconnect() end) end
+
+    if not carried then
+        ignoredEggs[record.Uid] = os.clock()
+        if isInstantTP then
+            bypassReturnTP(safeCFrame, 0.2)
+            restoreCollisions()
+        end
+        return false
+    end
+
+    -- 2.5 Guard-hit double pickup trick (user method: pickup -> get hit by guard -> pickup again -> glide back to avoid deliver error)
+    do
+        local guardHitEnabled = true -- pickup, let guard hit you, pick up again, then glide back (prevents deliver error)
+        if guardHitEnabled and carried then
+            local tGuardStart = os.clock()
+            local startHealth = 100
+            local hum0 = findHum()
+            if hum0 then startHealth = hum0.Health end
+            local wasHit = false
+            -- Linger near egg to let guard hit us (up to 4s). Detect via health drop / ragdoll / egg drop.
+            while os.clock() - tGuardStart < 4.0 and not HUB.dead do
+                if not isPlayerCarryingEgg() then
+                    wasHit = true
+                    break
+                end
+                local h = findHum()
+                if h then
+                    local hs = h:GetState()
+                    if h.Health < startHealth - 1.5 or hs == Enum.HumanoidStateType.Physics or hs == Enum.HumanoidStateType.Ragdoll or hs == Enum.HumanoidStateType.FallingDown then
+                        wasHit = true
+                        local tPost = os.clock()
+                        while os.clock() - tPost < 0.85 and not HUB.dead do
+                            if not isPlayerCarryingEgg() then break end
+                            task.wait(0.05)
+                        end
+                        break
+                    end
+                end
+                task.wait(0.05)
+            end
+
+            if wasHit or not isPlayerCarryingEgg() then
+                task.wait(0.65)
+                -- Wait until not ragdolled anymore before re-pickup (user: guard hit -> stand up -> then pick up & glide)
+                do
+                    local tRag = os.clock()
+                    while os.clock() - tRag < 3.2 and not HUB.dead do
+                        local h = findHum()
+                        if not h then break end
+                        local hs = h:GetState()
+                        if hs ~= Enum.HumanoidStateType.Physics and hs ~= Enum.HumanoidStateType.Ragdoll and hs ~= Enum.HumanoidStateType.FallingDown then
+                            break
+                        end
+                        pcall(function() h:ChangeState(Enum.HumanoidStateType.GettingUp) end)
+                        task.wait(0.12)
+                    end
+                    task.wait(0.35)
+                end
+                local hrpNow = findHRP()
+                if hrpNow and (hrpNow.Position - targetPos).Magnitude > 14 then
+                    pcall(function()
+                        hrpNow.CFrame = CFrame.new(targetPos + Vector3.new(0, 1.8, 0))
+                        hrpNow.AssemblyLinearVelocity = Vector3.zero
+                        hrpNow.AssemblyAngularVelocity = Vector3.zero
+                    end)
+                    task.wait(0.35)
+                end
+                -- Ensure fully standing before pickup attempt
+                do
+                    local tStand = os.clock()
+                    while os.clock() - tStand < 1.5 and not HUB.dead do
+                        local h = findHum()
+                        if h and h:GetState() ~= Enum.HumanoidStateType.Physics and h:GetState() ~= Enum.HumanoidStateType.Ragdoll then break end
+                        task.wait(0.08)
+                    end
+                end
+                -- Wait for guard to be back to sleep/idle before re-pickup (prevents instant re-alert & deliver error)
+                do
+                    local tGuardSleep = os.clock()
+                    while os.clock() - tGuardSleep < 4.5 and not HUB.dead do
+                        local guardAsleep = false
+                        pcall(function()
+                            local areasRoot = Workspace:FindFirstChild("__OBJECTS") and Workspace.__OBJECTS:FindFirstChild("Areas") and Workspace.__OBJECTS.Areas:FindFirstChild("GuardAreas")
+                            local guardModel = nil
+                            if areasRoot and record.AreaId then
+                                local areaFolder = areasRoot:FindFirstChild(record.AreaId)
+                                if areaFolder then
+                                    guardModel = areaFolder:FindFirstChild("Guard") or areaFolder:FindFirstChild("ForestGuardAuthored") or areaFolder:FindFirstChildWhichIsA("Model", true)
+                                end
+                            end
+                            if not guardModel then
+                                local nearest, nd = nil, 1e9
+                                for _, m in ipairs(Workspace:GetDescendants()) do
+                                    if m:IsA("Model") and m.Name:lower():find("guard") and m.PrimaryPart then
+                                        local d = (m.PrimaryPart.Position - targetPos).Magnitude
+                                        if d < nd and d < 90 then nd = d; nearest = m end
+                                    end
+                                end
+                                guardModel = nearest
+                            end
+                            if guardModel then
+                                local alert = guardModel:GetAttribute("Alert") or guardModel:GetAttribute("Alerted") or guardModel:GetAttribute("IsAlerted") or guardModel:GetAttribute("Chasing")
+                                local sleeping = guardModel:GetAttribute("Sleeping") or guardModel:GetAttribute("IsSleeping") or guardModel:GetAttribute("Asleep") or guardModel:GetAttribute("Sleep")
+                                local state = guardModel:GetAttribute("State")
+                                if sleeping == true then guardAsleep = true
+                                elseif alert == false or alert == nil then
+                                    local hum = guardModel:FindFirstChildOfClass("Humanoid")
+                                    local hrp = guardModel.PrimaryPart or guardModel:FindFirstChild("HumanoidRootPart") or guardModel:FindFirstChildWhichIsA("BasePart", true)
+                                    local eggPoint = guardModel:FindFirstChild("EggPoint", true)
+                                    if hrp and eggPoint then
+                                        local distToHome = (hrp.Position - eggPoint.Position).Magnitude
+                                        if distToHome < 7 and (not hum or hum.MoveDirection.Magnitude < 0.12) then
+                                            guardAsleep = true
+                                        elseif distToHome < 12 and os.clock() - tGuardSleep > 1.2 and (not hum or hum.MoveDirection.Magnitude < 0.15) then
+                                            guardAsleep = true
+                                        end
+                                    elseif state and tostring(state):lower():find("sleep") then guardAsleep = true
+                                    elseif alert == nil and sleeping == nil and state == nil then
+                                        if os.clock() - tGuardSleep > 1.6 then guardAsleep = true end
+                                    elseif alert == false then guardAsleep = true
+                                    end
+                                end
+                                if not guardAsleep then
+                                    local alertGui = guardModel:FindFirstChild("Alert", true)
+                                    if alertGui and alertGui:IsA("BillboardGui") and alertGui.Enabled == false then guardAsleep = true end
+                                end
+                            else
+                                if os.clock() - tGuardSleep > 1.4 then guardAsleep = true end
+                            end
+                        end)
+                        if guardAsleep then break end
+                        task.wait(0.14)
+                    end
+                    task.wait(0.08)
+                end
+                task.wait(0.08)
+                pcall(function()
+                    if carryRemote then carryRemote:InvokeServer({ Uid = record.Uid, FirstAreaSlotKey = slotKey }) end
+                end)
+                pcall(function()
+                    if EggState and EggState.CarryFieldEgg then EggState.CarryFieldEgg(record.Uid, slotKey) end
+                end)
+                task.wait(0.08)
+                local prompt2 = nil
+                for _, d in ipairs(Workspace:GetDescendants()) do
+                    if d:IsA("ProximityPrompt") and d.Name == "CarryAreaEgg" and d.Enabled then
+                        local p = d.Parent
+                        if p and p:IsA("Attachment") then p = p.Parent end
+                        if p then
+                            local dist = (p.Position - (findHRP() and findHRP().Position or targetPos)).Magnitude
+                            if dist < 16 then
+                                local act = (d.ActionText or ""):lower()
+                                if not act:find("skip") and not act:find("robux") then
+                                    prompt2 = d
+                                    break
+                                end
+                            end
+                        end
+                    end
+                end
+                if prompt2 then
+                    prompt2.HoldDuration = 0
+                    pcall(function() fireproximityprompt(prompt2) end)
+                    pcall(function() fireproximityprompt(prompt2, 0) end)
+                else
+                    for _, d in ipairs(Workspace:GetDescendants()) do
+                        if d:IsA("ProximityPrompt") and d.Name == "CarryAreaEgg" and d.Enabled then
+                            local p = d.Parent
+                            if p and p:IsA("Attachment") then p = p.Parent end
+                            if p and (p.Position - (findHRP() and findHRP().Position or targetPos)).Magnitude < 18 then
+                                d.HoldDuration = 0
+                                pcall(function() fireproximityprompt(d) end)
+                                task.wait(0.08)
+                                if isPlayerCarryingEgg() then break end
+                            end
+                        end
+                    end
+                end
+                local tPickup2 = os.clock()
+                while os.clock() - tPickup2 < 2.2 and not HUB.dead do
+                    if isPlayerCarryingEgg() then carried = true break end
+                    pcall(function()
+                        if EggState and EggState.CarryFieldEgg then EggState.CarryFieldEgg(record.Uid, slotKey) end
+                    end)
+                    if prompt2 then pcall(function() fireproximityprompt(prompt2) end) end
+                    task.wait(0.06)
+                end
+                if isPlayerCarryingEgg() then carried = true end
+                -- Fast trigger back to safe area once egg re-attached
+                if isPlayerCarryingEgg() then
+                    task.wait(0.12)
+                    isInstantTP = false
+                else
+                    -- Extra fallback: one more prompt scan if still not carrying
+                    task.wait(0.12)
+                    for _, d in ipairs(Workspace:GetDescendants()) do
+                        if d:IsA("ProximityPrompt") and d.Name == "CarryAreaEgg" and d.Enabled then
+                            local p = d.Parent
+                            if p and p:IsA("Attachment") then p = p.Parent end
+                            if p and (p.Position - (findHRP() and findHRP().Position or targetPos)).Magnitude < 18 then
+                                d.HoldDuration = 0
+                                pcall(function() fireproximityprompt(d) end)
+                            end
+                        end
+                    end
+                    task.wait(0.12)
+                    if isPlayerCarryingEgg() then carried = true isInstantTP = false end
+                end
+            end
+        end
+    end
+
+    -- 3. Return to base: exact bypass TP back for "Anti Guard", fast-then-slow for others! (after guard-hit we glide)
+    if isInstantTP then
+        if not instantFired then
+            bypassReturnTP(safeCFrame, 0.35)
+            task.spawn(function()
+                pcall(restoreCollisions)
+                pcall(PlantAllCarriedEggsInPen)
+            end)
+        end
+    else
+        if speed > 250 then
+            local hrpNow = findHRP()
+            local curPos = hrpNow and hrpNow.Position or targetPos
+            local toBase = safePlotCenter - curPos
+            local distBase = toBase.Magnitude
+            if distBase > 45 then
+                local stagePos = safePlotCenter - toBase.Unit * 35
+                stagePos = Vector3.new(stagePos.X, math.max(stagePos.Y, 70.4), stagePos.Z)
+                TravelToDestination(stagePos, speed, false)
+                local hrp2 = findHRP()
+                if hrp2 then
+                    hrp2.AssemblyLinearVelocity = Vector3.zero
+                    hrp2.AssemblyAngularVelocity = Vector3.zero
+                end
+                task.wait(0.35)
+            end
+            TravelToDestination(safePlotCenter, 240, true)
+        else
+            TravelToDestination(safePlotCenter, speed, true)
+        end
+    end
+
+    -- Settle in the base pen and wait for delivery to confirm
+    local tDeliver = os.clock()
+    while os.clock() - tDeliver < 1.5 and isPlayerCarryingEgg() and not HUB.dead do
+        task.wait(0.08)
+    end
+
+    -- 4. Plant all carried egg tools in the base pen
+    PlantAllCarriedEggsInPen()
+
+    -- 5. Land safely on base pen ground (Never go under map)
+    local char = LP.Character
+    local h = char and char:FindFirstChild("HumanoidRootPart")
+    local hu = char and char:FindFirstChildOfClass("Humanoid")
+    if h then
+        h.CFrame = CFrame.new(safePlotCenter.X, math.max(safePlotCenter.Y, 70.4), safePlotCenter.Z)
+        h.AssemblyLinearVelocity = Vector3.zero
+        h.AssemblyAngularVelocity = Vector3.zero
+    end
+    if hu then
+        hu.PlatformStand = false
+        hu.AutoRotate = true
+        pcall(function() hu:ChangeState(Enum.HumanoidStateType.Running) end)
+    end
+
+    return carried or isPlayerCarryingEgg()
+end
+
+local function StealBestEggOnce()
+    pcall(HatchAllReadyEggs)
+    local eggs = GetMatchingFieldEggs(selectedStealAreas, selectedStealRarities, selectedMutationTypes)
+    if #eggs == 0 then
+        return false -- Strictly respect user filter, no fallback to unwanted eggs!
+    end
+
+    local target = eggs[1] -- First item is highest rarity / score among matching eggs
+    return StealSpecificEggRobust(target)
+end
+
+local function HatchAllReadyEggs()
+    if not EggState or not EggState.ReadOwnedEggs then return 0 end
+    local ok, snapshot = pcall(EggState.ReadOwnedEggs, LP.UserId)
+    if not ok or not snapshot then return 0 end
+
+    local count = 0
+    local records = snapshot.Records or snapshot
+    if typeof(records) == "table" then
+        for uid, eggData in pairs(records) do
+            if typeof(eggData) == "table" then
+                local isReady = false
+                if EggState.IsReadyToHatch then
+                    isReady = EggState.IsReadyToHatch(eggData)
+                else
+                    isReady = eggData.Placement ~= nil
+                end
+
+                if isReady then
+                    pcall(function()
+                        if EggState.BeginHatch then EggState.BeginHatch(uid) end
+                        task.wait(0.05)
+                        if EggState.FinishHatch then EggState.FinishHatch(uid) end
+                        count = count + 1
+                    end)
+                end
+            end
+        end
+    end
+    return count
+end
+
+-- ==============================================================================
+-- BASE, HOMESTEAD & REWARDS AUTOMATION LOGIC
+-- ==============================================================================
+local function UpgradeHomesteadBase()
+    local re1 = GetNetRemote("RE/Homestead/AskNearbyPurchase")
+    if re1 then pcall(function() re1:FireServer() end) end
+    local re2 = GetNetRemote("RE/Homestead/AskBaseTierRaise")
+    if re2 then pcall(function() re2:FireServer() end) end
+end
+
+local function UpgradeTreadmillTier()
+    local rf = GetNetRemote("RF/Treadmill/AskTierRaise")
+    if rf then pcall(function() rf:InvokeServer() end) end
+end
+
+local function EquipBestPets()
+    local rf = GetNetRemote("RF/Haul/WearBest") or GetNetRemote("RF/PenRoster/ConfirmEquipBestBadge")
+    if rf then pcall(function() rf:InvokeServer() end) end
+end
+
+local function GetMyMonsterPosition()
+    local myMonster = Workspace:FindFirstChild("MonsterParasiteMonsters") and Workspace.MonsterParasiteMonsters:FindFirstChild("Monster_" .. LP.UserId)
+    if myMonster then
+        local pos = (myMonster.PrimaryPart and myMonster.PrimaryPart.Position) or myMonster:GetPivot().Position
+        return pos
+    end
+    local standPad = Workspace:FindFirstChild("Stands") and Workspace.Stands:FindFirstChild("Pads") and Workspace.Stands.Pads:FindFirstChild("Monster")
+    if standPad then return standPad.Position end
+    return Vector3.new(545.1, 68.0, -413.4)
+end
+
+local function ClaimMonsterChests()
+    pcall(function()
+        local rf1 = GetNetRemote("RF/MonsterParasite/AskChestClaim")
+        if rf1 then rf1:InvokeServer() end
+        local rf2 = GetNetRemote("RF/MonsterParasite/AskChestTake")
+        if rf2 then rf2:InvokeServer() end
+    end)
+end
+
+local function FeedMonsterParasite()
+    local rf = GetNetRemote("RF/MonsterParasite/AskFeed")
+    if not rf then return false end
+
+    local hrp = findHRP()
+    if not hrp then return false end
+
+    local mPos = GetMyMonsterPosition()
+    local dist = (hrp.Position - mPos).Magnitude
+    local savedSpot = nil
+
+    if dist > 12 then
+        savedSpot = hrp.CFrame
+        TravelToDestination(mPos + Vector3.new(0, 1.2, 0), glideSpeed or 200, true)
+        task.wait(0.08)
+    end
+
+    local ok, res = pcall(function() return rf:InvokeServer() end)
+
+    if savedSpot then
+        task.wait(0.1)
+        TravelToDestination(savedSpot.Position, glideSpeed or 200, true)
+        local h = findHRP()
+        if h then h.CFrame = savedSpot end
+    end
+
+    return ok and res
+end
+
+local function DropHeldEgg()
+    local rf = GetNetRemote("RF/EggWorld/AskFieldEggDrop")
+    if rf then pcall(function() rf:InvokeServer() end) end
+    if EggState and EggState.DropFieldEgg then pcall(EggState.DropFieldEgg) end
+end
+
+local function BuyAffordableTrails()
+    local rf = GetNetRemote("RF/Trailwear/AskPurchase")
+    local TrailsData = RS:FindFirstChild("Data") and RS.Data:FindFirstChild("Trails") and require(RS.Data.Trails)
+    local save = nil
+    pcall(function() save = SaveModule and SaveModule.Get and SaveModule.Get() end)
+    if not rf or not TrailsData or not save then return end
+
+    local myMoney = tonumber(save.Money) or 0
+    local inv = save.TrailInventory or {}
+
+    for _, t in pairs(TrailsData.Directory or TrailsData) do
+        if type(t) == "table" and t._id and not inv[t._id] then
+            local price = tonumber(t.Price) or math.huge
+            if myMoney >= price then
+                pcall(function() rf:InvokeServer(t._id) end)
+                task.wait(0.25)
+            end
+        end
+    end
+end
+
+local instantPickupConn = nil
+local function SetupInstantPickup(enabled)
+    instantPickupEnabled = enabled
+    local ProximityPromptService = game:GetService("ProximityPromptService")
+    if enabled and not instantPickupConn then
+        instantPickupConn = track(ProximityPromptService.PromptButtonHoldBegan:Connect(function(prompt, player)
+            if player == LP and prompt.Name == "CarryAreaEgg" then
+                prompt.HoldDuration = 0
+            end
+        end))
+    elseif not enabled and instantPickupConn then
+        pcall(function() instantPickupConn:Disconnect() end)
+        instantPickupConn = nil
+    end
+end
+
+local function SetNoKnockback(enabled)
+    noKnockbackEnabled = enabled
+    if enabled then
+        pcall(function()
+            local rigSync = GetNetRemote("RE/RigSync/Refresh")
+            if rigSync and getconnections then
+                for _, conn in ipairs(getconnections(rigSync.OnClientEvent)) do
+                    pcall(function() conn:Disconnect() end)
+                end
+            end
+        end)
+    end
+end
+
+-- Auto-enable defensive features by default (user request)
+pcall(function() if avoidTrapsEnabled then NeutralizeTraps() end end)
+pcall(function() if instantPickupEnabled then SetupInstantPickup(true) end end)
+pcall(function() if noKnockbackEnabled then SetNoKnockback(true) end end)
+
+local function SellSelectedPets()
+    local re = GetNetRemote("RE/PetSatchel/SellPet")
+    if not re or not SaveModule then return end
+    local save = nil
+    pcall(function() save = SaveModule.Get and SaveModule.Get() end)
+    local inv = save and save.Inventory
+    if type(inv) ~= "table" then return end
+
+    for uid, petData in pairs(inv) do
+        if type(petData) == "table" and not petData.Locked then
+            local rName = petData.Rarity or "Common"
+            if isRarityAllowed(rName, getSellRarityFilter(selectedSellPetRarities)) then
+                pcall(function() re:FireServer(uid) end)
+                task.wait(0.08)
+            end
+        end
+    end
+end
+
+local function SellSelectedEggs()
+    if not SaveModule then return end
+    local save = nil
+    pcall(function() save = SaveModule.Get and SaveModule.Get() end)
+    if not save then return end
+    local inv = save.EggInventory
+    if type(inv) ~= "table" then return end
+
+    local wear = GetNetRemote("RF/EggWorld/AskWearTool")
+    local sell = GetNetRemote("RE/PetSatchel/SellPet")
+    if not wear or not sell then return end
+
+    for uid, eggData in pairs(inv) do
+        if type(eggData) == "table" and not eggData.Placement and not eggData.Locked then
+            local rName = GetEggRarityInfo(eggData)
+            if isRarityAllowed(rName, getSellRarityFilter(selectedSellEggRarities)) then
+                pcall(function() wear:InvokeServer(uid) end)
+                pcall(function() sell:FireServer({ uid }) end)
+                task.wait(SELL_REQUEST_DELAY)
+            end
+        end
+    end
+end
+
+local function DeleteOwnPetRenders()
+    local count = 0
+    local function sweep(container)
+        if not container then return end
+        for _, child in ipairs(container:GetChildren()) do
+            if child:IsA("Model") or child:IsA("BasePart") then
+                pcall(function()
+                    child:Destroy()
+                    count = count + 1
+                end)
+            end
+        end
+    end
+    sweep(Workspace:FindFirstChild("Pets"))
+    sweep(Workspace:FindFirstChild("RenderedPets"))
+    return count
+end
+
+local function ClaimAllAvailableRewards()
+    pcall(function()
+        local rf1 = GetNetRemote("RF/AwayEarnings/AskCollect")
+        if rf1 then rf1:InvokeServer() end
+    end)
+    pcall(function()
+        local rf2 = GetNetRemote("RF/Codex/AskRedeemAll")
+        if rf2 then rf2:InvokeServer() end
+    end)
+    pcall(function()
+        local rf3 = GetNetRemote("RF/GroupPerk/RedeemPerk")
+        if rf3 then rf3:InvokeServer() end
+    end)
+    pcall(ClaimMonsterChests)
+end
+
+-- ==============================================================================
+-- WORKER LOOPS
+-- ==============================================================================
+-- 1. Auto Steal Eggs Loop
+task.spawn(function()
+    while not HUB.dead do
+        if autoStealEnabled then
+            pcall(StealBestEggOnce)
+        end
+        task.wait(stealDelay)
+    end
+end)
+
+-- 2. Auto Hatch & Auto Plant Loop
+task.spawn(function()
+    while not HUB.dead do
+        if autoHatchEnabled then
+            pcall(HatchAllReadyEggs)
+        end
+        if autoPlantEnabled then
+            pcall(PlantAllCarriedEggsInPen)
+        end
+        task.wait(hatchCheckDelay)
+    end
+end)
+
+-- 3. Base, Homestead, Sales & Event Upgrades Loop
+task.spawn(function()
+    while not HUB.dead do
+        if autoUpgradeBase then pcall(UpgradeHomesteadBase) end
+        if autoUpgradeTreadmill then pcall(UpgradeTreadmillTier) end
+        if autoEquipBestPets then pcall(EquipBestPets) end
+        if autoClaimRewards then pcall(ClaimAllAvailableRewards) end
+        if autoClaimMonsterChests then pcall(ClaimMonsterChests) end
+        if autoFeedMonster then pcall(FeedMonsterParasite) end
+        if autoSellPets then pcall(SellSelectedPets) end
+        if autoSellEggs then pcall(SellSelectedEggs) end
+        task.wait(2.5)
+    end
+end)
+
+-- 4. Bat / Slap Aura Loop
+task.spawn(function()
+    local batRe = GetNetRemote("RE/BatSwing/Trigger")
+    while not HUB.dead do
+        if batAuraEnabled and batRe then
+            local hrp = findHRP()
+            if hrp then
+                local foundNearby = false
+                for _, p in ipairs(Players:GetPlayers()) do
+                    if p ~= LP and p.Character then
+                        local oHrp = p.Character:FindFirstChild("HumanoidRootPart")
+                        if oHrp and (oHrp.Position - hrp.Position).Magnitude <= batAuraRadius then
+                            foundNearby = true
+                            break
+                        end
+                    end
+                end
+                if foundNearby then
+                    pcall(function() batRe:FireServer() end)
+                end
+            end
+        end
+        task.wait(batAuraDelay)
+    end
+end)
+
+-- 5. Trap Neutralizer Loop
+task.spawn(function()
+    local debris = Workspace:FindFirstChild("__DEBRIS")
+    if debris then
+        track(debris.ChildAdded:Connect(function(child)
+            if avoidTrapsEnabled and child.Name == "PlayerTrap" then
+                task.wait(0.05)
+                if child:GetAttribute("Owner") ~= LP.Name then
+                    if child:IsA("BasePart") then child.CanTouch = false end
+                    for _, c in ipairs(child:GetChildren()) do
+                        if c:IsA("BasePart") then c.CanTouch = false end
+                    end
+                end
+            end
+        end))
+    end
+
+    while not HUB.dead do
+        if avoidTrapsEnabled or autoStealEnabled then
+            pcall(NeutralizeTraps)
+        end
+        task.wait(1.5)
+    end
+end)
+
+-- ==============================================================================
+-- VISUALS & ESP
+-- ==============================================================================
+local esp = {
+    enabled         = false,
+    eggs            = true,
+    traps           = false,
+    players         = false,
+    guards          = false,
+    rareEggsOnly    = false,
+    showPetIcons    = true,
+    maxDistance     = 800,
+
+    eggColor        = Color3.fromRGB(255, 200, 50),
+    rareEggColor    = Color3.fromRGB(255, 60, 220),
+    trapColor       = Color3.fromRGB(255, 60, 60),
+    playerColor     = Color3.fromRGB(100, 220, 100),
+    guardColor      = Color3.fromRGB(255, 60, 60),
+}
+
+local hasDrawing = type(Drawing) == "table" and type(Drawing.new) == "function"
+local trackedEspObjects = {}
+local espBillboards = {}
+local espContainer = nil
+
+local function getEspContainer()
+    if espContainer and espContainer.Parent then return espContainer end
+    local p = nil
+    pcall(function() p = (gethui and gethui()) end)
+    if not p then pcall(function() p = game:GetService("CoreGui") end) end
+    if not p then p = LP:FindFirstChild("PlayerGui") or Workspace end
+
+    pcall(function()
+        for _, c in ipairs(p:GetChildren()) do
+            if c:IsA("Folder") and c.Name == "SAE_Esp_Holder" then c:Destroy() end
+        end
+    end)
+    espContainer = Instance.new("Folder")
+    espContainer.Name = "SAE_Esp_Holder"
+    pcall(function() espContainer.Parent = p end)
+    return espContainer
+end
+
+local function updateEggBillboard(key, pos, icon)
+    local bb = espBillboards[key]
+    if not bb or not bb.gui or not bb.gui.Parent then
+        local holder = getEspContainer()
+        local part = Instance.new("Part")
+        part.Name = "EspAnchor"
+        part.Size = Vector3.new(1, 1, 1)
+        part.Transparency = 1
+        part.Anchored = true
+        part.CanCollide = false
+        part.CanQuery = false
+        part.CanTouch = false
+        part.CFrame = CFrame.new(pos)
+        part.Parent = holder
+
+        local gui = Instance.new("BillboardGui")
+        gui.Name = "EggIconBillboard"
+        gui.Adornee = part
+        gui.Size = UDim2.fromOffset(28, 28)
+        gui.StudsOffset = Vector3.new(-2.2, 1.2, 0)
+        gui.AlwaysOnTop = true
+        gui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+        gui.Parent = part
+
+        local img = Instance.new("ImageLabel")
+        img.Name = "PetImage"
+        img.Size = UDim2.fromScale(1, 1)
+        img.BackgroundTransparency = 1
+        img.ScaleType = Enum.ScaleType.Fit
+        img.Image = icon or ""
+        img.Parent = gui
+
+        bb = {
+            part = part,
+            gui = gui,
+            img = img
+        }
+        espBillboards[key] = bb
+    else
+        bb.part.CFrame = CFrame.new(pos)
+        bb.img.Image = icon or ""
+        bb.gui.Enabled = (icon ~= nil and icon ~= "")
+    end
+    return bb
+end
+
+local function createDrawingObject()
+    if not hasDrawing then return {} end
+    local o = {}
+    o.name = trackDrawing(Drawing.new("Text"))
+    o.name.Size = 13; o.name.Center = true; o.name.Outline = true; o.name.Visible = false
+
+    o.dist = trackDrawing(Drawing.new("Text"))
+    o.dist.Size = 11; o.dist.Center = true; o.dist.Outline = true; o.dist.Visible = false
+
+    o.box = trackDrawing(Drawing.new("Square"))
+    o.box.Thickness = 1.5; o.box.Filled = false; o.box.Visible = false
+
+    return o
+end
+
+track(RunService.RenderStepped:Connect(function()
+    if HUB.dead or not esp.enabled then
+        for _, obj in pairs(trackedEspObjects) do
+            if obj.name then obj.name.Visible = false end
+            if obj.dist then obj.dist.Visible = false end
+            if obj.box then obj.box.Visible = false end
+        end
+        for _, bb in pairs(espBillboards) do
+            if bb.gui then bb.gui.Enabled = false end
+        end
+        return
+    end
+
+    local hrp = findHRP()
+    local myPos = hrp and hrp.Position or Vector3.zero
+    local renderItems = {}
+    local activeBbKeys = {}
+
+    -- Eggs ESP
+    if esp.eggs and EggState and EggState.ReadFieldEggs then
+        local ok, snap = pcall(EggState.ReadFieldEggs)
+        if ok and snap and snap.Records then
+            for _, egg in ipairs(snap.Records) do
+                if egg.State == "Slot" and egg.BoundsCFrame then
+                    local pos = egg.BoundsCFrame.Position
+                    local dist = (pos - myPos).Magnitude
+                    if esp.maxDistance <= 0 or dist <= esp.maxDistance then
+                        local muts = egg.Mutations or {}
+                        local isRare = #muts > 0
+                        if not esp.rareEggsOnly or isRare then
+                            local mutText = isRare and (" [" .. table.concat(muts, ",") .. "]") or ""
+                            local rName = GetEggRarityInfo(egg)
+                            local label = (egg.AssetCategory or "Egg") .. " (" .. rName .. ")" .. mutText
+                            local cat = egg.AssetCategory
+                            local aInfo = AssetsData and (AssetsData.Directory or AssetsData) and (AssetsData.Directory or AssetsData)[cat]
+                            local petIcon = aInfo and (aInfo.Icon or (aInfo.Egg and aInfo.Egg.Icon)) or ""
+
+                            local itemColor = isRare and esp.rareEggColor or esp.eggColor
+
+                            table.insert(renderItems, {
+                                Key = egg.Uid,
+                                Pos = pos,
+                                Name = label,
+                                Color = itemColor,
+                                Dist = dist,
+                            })
+
+                            if esp.showPetIcons and petIcon ~= "" then
+                                activeBbKeys[egg.Uid] = true
+                                updateEggBillboard(egg.Uid, pos, petIcon)
+                            end
+                        end
+                    end
+                end
+            end
+        end
+    end
+
+    -- Traps ESP
+    if esp.traps then
+        local debris = Workspace:FindFirstChild("__DEBRIS")
+        if debris then
+            for _, trap in ipairs(debris:GetChildren()) do
+                if trap.Name == "PlayerTrap" and trap:IsA("BasePart") then
+                    local pos = trap.Position
+                    local dist = (pos - myPos).Magnitude
+                    if esp.maxDistance <= 0 or dist <= esp.maxDistance then
+                        local owner = trap:GetAttribute("Owner") or "Enemy"
+                        table.insert(renderItems, {
+                            Key = trap,
+                            Pos = pos + Vector3.new(0, 1.5, 0),
+                            Name = "[TRAP] @" .. owner,
+                            Color = esp.trapColor,
+                            Dist = dist,
+                        })
+                    end
+                end
+            end
+        end
+    end
+
+    -- Players ESP
+    if esp.players then
+        for _, p in ipairs(Players:GetPlayers()) do
+            if p ~= LP and p.Character then
+                local oHrp = p.Character:FindFirstChild("HumanoidRootPart")
+                if oHrp then
+                    local dist = (oHrp.Position - myPos).Magnitude
+                    if esp.maxDistance <= 0 or dist <= esp.maxDistance then
+                        table.insert(renderItems, {
+                            Key = p,
+                            Pos = oHrp.Position,
+                            Name = p.DisplayName .. " (@" .. p.Name .. ")",
+                            Color = esp.playerColor,
+                            Dist = dist,
+                        })
+                    end
+                end
+            end
+        end
+    end
+
+    -- Hide unreferenced billboards
+    for k, bb in pairs(espBillboards) do
+        if not activeBbKeys[k] and bb.gui then
+            bb.gui.Enabled = false
+        end
+    end
+
+    local cam = GetCamera()
+    local activeKeys = {}
+    for _, item in ipairs(renderItems) do
+        activeKeys[item.Key] = true
+        local obj = trackedEspObjects[item.Key]
+        if not obj then
+            obj = createDrawingObject()
+            trackedEspObjects[item.Key] = obj
+        end
+
+        local screenPos, onScreen = nil, false
+        if cam then
+            screenPos, onScreen = cam:WorldToViewportPoint(item.Pos)
+        end
+        if onScreen and hasDrawing and screenPos then
+            if obj.name then
+                obj.name.Text = item.Name
+                obj.name.Position = Vector2.new(screenPos.X, screenPos.Y - 14)
+                obj.name.Color = item.Color
+                obj.name.Visible = true
+            end
+            if obj.dist then
+                obj.dist.Text = math.floor(item.Dist) .. " studs"
+                obj.dist.Position = Vector2.new(screenPos.X, screenPos.Y + 2)
+                obj.dist.Color = Color3.fromRGB(220, 220, 220)
+                obj.dist.Visible = true
+            end
+        else
+            if obj.name then obj.name.Visible = false end
+            if obj.dist then obj.dist.Visible = false end
+            if obj.box then obj.box.Visible = false end
+        end
+    end
+
+    for k, obj in pairs(trackedEspObjects) do
+        if not activeKeys[k] then
+            if obj.name then obj.name.Visible = false end
+            if obj.dist then obj.dist.Visible = false end
+            if obj.box then obj.box.Visible = false end
+        end
+    end
+end))
+
+-- Fullbright
+local fullbrightEnabled = false
+local defaultAmbient = Lighting.Ambient
+local defaultOutdoor = Lighting.OutdoorAmbient
+local defaultBrightness = Lighting.Brightness
+local defaultClockTime = Lighting.ClockTime
+
+local function SetFullbright(v)
+    fullbrightEnabled = v
+    if v then
+        Lighting.Ambient = Color3.fromRGB(255, 255, 255)
+        Lighting.OutdoorAmbient = Color3.fromRGB(255, 255, 255)
+        Lighting.Brightness = 2
+        Lighting.ClockTime = 14
+    else
+        Lighting.Ambient = defaultAmbient
+        Lighting.OutdoorAmbient = defaultOutdoor
+        Lighting.Brightness = defaultBrightness
+        Lighting.ClockTime = defaultClockTime
+    end
+end
+
+-- ==============================================================================
+-- MOVEMENT & PLAYER MODIFIERS
+-- ==============================================================================
+local walkSpeedEnabled = false
+local walkSpeedVal     = 24
+local jumpPowerEnabled = false
+local jumpPowerVal     = 60
+local infiniteJump     = false
+local flying           = false
+local flySpeed         = 60
+local antiAFK          = false
+
+local function ApplyWalkSpeed(v)
+    walkSpeedVal = v
+    local hum = findHum()
+    if hum and walkSpeedEnabled then hum.WalkSpeed = v end
+end
+
+local function ApplyJumpPower(v)
+    jumpPowerVal = v
+    local hum = findHum()
+    if hum and jumpPowerEnabled then
+        hum.UseJumpPower = true
+        hum.JumpPower = v
+    end
+end
+
+track(RunService.Stepped:Connect(function()
+    if HUB.dead then return end
+    local hum = findHum()
+    if hum then
+        if walkSpeedEnabled then hum.WalkSpeed = walkSpeedVal end
+        if jumpPowerEnabled then hum.UseJumpPower = true; hum.JumpPower = jumpPowerVal end
+    end
+end))
+
+track(UserInputService.JumpRequest:Connect(function()
+    if HUB.dead then return end
+    local hum = findHum()
+    if hum then
+        hum.Jump = true
+        hum:ChangeState(Enum.HumanoidStateType.Jumping)
+    end
+end))
+
+local function startFly()
+    if flying then return end
+    local hrp = findHRP()
+    local hum = findHum()
+    if not (hrp and hum) then return end
+    flying = true
+    hrp.Anchored = true
+
+    local bodyGyro = Instance.new("BodyGyro")
+    bodyGyro.MaxTorque = Vector3.new(1, 1, 1) * 1e5
+    bodyGyro.P = 1e5
+    bodyGyro.CFrame = hrp.CFrame
+    bodyGyro.Parent = hrp
+
+    HUB._fly = {
+        hrp = hrp,
+        gyro = bodyGyro,
+        conn = track(RunService.RenderStepped:Connect(function(dt)
+            if not flying or HUB.dead then return end
+            local cam = GetCamera()
+            if not cam then return end
+            local look = cam.CFrame.LookVector
+            local right = cam.CFrame.RightVector
+            local flatLook = Vector3.new(look.X, 0, look.Z)
+            flatLook = flatLook.Magnitude > 0.001 and flatLook.Unit or Vector3.new(0, 0, -1)
+            local flatRight = Vector3.new(right.X, 0, right.Z)
+            flatRight = flatRight.Magnitude > 0.001 and flatRight.Unit or Vector3.new(1, 0, 0)
+
+            local dir = Vector3.zero
+            if UserInputService:IsKeyDown(Enum.KeyCode.W) then dir = dir + flatLook end
+            if UserInputService:IsKeyDown(Enum.KeyCode.S) then dir = dir - flatLook end
+            if UserInputService:IsKeyDown(Enum.KeyCode.A) then dir = dir - flatRight end
+            if UserInputService:IsKeyDown(Enum.KeyCode.D) then dir = dir + flatRight end
+            if UserInputService:IsKeyDown(Enum.KeyCode.Space) then dir = dir + Vector3.new(0, 1, 0) end
+            if UserInputService:IsKeyDown(Enum.KeyCode.LeftShift) then dir = dir - Vector3.new(0, 1, 0) end
+
+            if dir.Magnitude > 0 then
+                hrp.CFrame = hrp.CFrame + dir.Unit * flySpeed * math.min(dt, 0.1)
+            end
+            bodyGyro.CFrame = CFrame.lookAt(hrp.Position, hrp.Position + look)
+        end))
+    }
+end
+
+local function stopFly()
+    flying = false
+    local f = HUB._fly
+    if f then
+        pcall(function() f.conn:Disconnect() end)
+        pcall(function() f.hrp.Anchored = false end)
+        pcall(function() f.gyro:Destroy() end)
+        HUB._fly = nil
+    end
+end
+
+local antiAfkConn = nil
+local function SetAntiAFK(v)
+    antiAFK = v
+    if v and not antiAfkConn then
+        antiAfkConn = track(LocalPlayer.Idled:Connect(function()
+            if antiAFK then
+                VirtualUser:CaptureController()
+                VirtualUser:ClickButton2(Vector2.new())
+            end
+        end))
+    elseif not v and antiAfkConn then
+        pcall(function() antiAfkConn:Disconnect() end)
+        antiAfkConn = nil
+    end
+end
+
+-- ==============================================================================
+-- UI CREATION - MAIN TABS
+-- ==============================================================================
+local EggsTab     = Window:AddTab({ Name = "Eggs", Subtitle = "Steal, hatch & plant", Icon = "crown" })
+local BaseTab     = Window:AddTab({ Name = "Base", Subtitle = "Homestead & training", Icon = "bolt" })
+local CombatTab   = Window:AddTab({ Name = "Combat", Subtitle = "Bat, slaps & defense", Icon = "combat" })
+local PlayerTab   = Window:AddTab({ Name = "Player", Subtitle = "Movement & teleports", Icon = "player" })
+local SettingsTab = Window:AddTab({ Name = "Settings", Subtitle = "Configs & unloader", Icon = "gear" })
+
+-- -----------------------------------------------------------------------------
+-- TAB 1: EGGS
+-- -----------------------------------------------------------------------------
+local StealSub = EggsTab:AddSubTab("Auto Steal")
+local HatchSub = EggsTab:AddSubTab("Auto Hatch & Plant")
+local EggEspSub = EggsTab:AddSubTab("Egg Tracker ESP")
+
+-- SubTab: Auto Steal
+StealSub:AddToggle({
+    Name = "Auto Steal Eggs", Default = false, Flag = "steal_auto",
+    Callback = safeCallback(function(v)
+        autoStealEnabled = v
+        if v then EnsureSavedReturnPosition() end
+        Notify("Auto Steal", v and "Enabled" or "Disabled", v and "Success" or "Error")
+    end)
+})
+StealSub:AddDropdown({
+    Name = "Steal Movement Method", Options = { "Tween Glide", "Fly Glide", "Safe Walk", "Anti Guard" }, Default = "Tween Glide", Flag = "steal_method",
+    Callback = function(v) stealMovementMethod = v end
+})
+StealSub:AddToggle({
+    Name = "Steal Infested / Parasite Eggs Only", Default = false, Flag = "steal_parasite_only",
+    Callback = function(v)
+        stealParasiteOnly = v
+        Notify("Parasite Eggs", v and "Targeting Infested Eggs Only" or "All Filtered Eggs", v and "Success" or "Info")
+    end
+})
+StealSub:AddToggle({
+    Name = "Instant Prompt Pickup", Default = true, Flag = "instant_pickup",
+    Callback = function(v) SetupInstantPickup(v) end
+})
+StealSub:AddToggle({
+    Name = "Rare Egg Hunter (Highest Rarity First)", Default = true, Flag = "rare_hunter",
+    Callback = function(v) rareEggHunter = v end
+})
+StealSub:AddMultiDropdown({
+    Name = "Filter by Rarity (Multi-Select)", Options = RARITY_NAMES, Default = {}, Flag = "steal_rarities",
+    Callback = function(selectedList) selectedStealRarities = selectedList end
+})
+StealSub:AddMultiDropdown({
+    Name = "Filter by Area (Multi-Select)", Options = AREA_NAMES, Default = {}, Flag = "steal_areas",
+    Callback = function(selectedList) selectedStealAreas = selectedList end
+})
+StealSub:AddMultiDropdown({
+    Name = "Filter by Mutation (Multi-Select)", Options = MUTATION_FILTERS, Default = {}, Flag = "steal_muts",
+    Callback = function(selectedList) selectedMutationTypes = selectedList end
+})
+StealSub:AddSlider({
+    Name = "Glide / Travel Speed", Min = 50, Max = 750, Default = 750, Suffix = " studs/s", Flag = "glide_speed",
+    Callback = function(v) glideSpeed = tonumber(v) or 750 end
+})
+StealSub:AddSlider({
+    Name = "Steal Delay Gap", Min = 0.5, Max = 10, Default = 1.5, Suffix = "s", Flag = "steal_gap",
+    Callback = function(v) stealDelay = v end
+})
+StealSub:AddButton({
+    Name = "Steal Best Available Egg Once", Primary = true,
+    Callback = safeCallback(function()
+        local ok = StealBestEggOnce()
+        Notify("Steal Egg", ok and "Stealing target egg" or "No matching egg found for selected filters", ok and "Success" or "Info")
+    end)
+})
+
+-- SubTab: Auto Hatch & Plant
+HatchSub:AddToggle({
+    Name = "Auto Hatch Ready Eggs", Default = false, Flag = "hatch_auto",
+    Callback = safeCallback(function(v)
+        autoHatchEnabled = v
+        Notify("Auto Hatch", v and "Enabled" or "Disabled", v and "Success" or "Error")
+    end)
+})
+HatchSub:AddToggle({
+    Name = "Auto Place Egg (Base Pen)", Default = false, Flag = "plant_auto",
+    Callback = function(v)
+        autoPlantEnabled = v
+        Notify("Auto Place Egg", v and "Enabled" or "Disabled", v and "Success" or "Error")
+    end
+})
+HatchSub:AddSlider({
+    Name = "Hatch Check Delay", Min = 0.5, Max = 10, Default = 2.0, Suffix = "s", Flag = "hatch_gap",
+    Callback = function(v) hatchCheckDelay = v end
+})
+HatchSub:AddButton({
+    Name = "Hatch All Ready Eggs Now", Primary = true,
+    Callback = safeCallback(function()
+        local count = HatchAllReadyEggs()
+        Notify("Hatch", "Hatched " .. count .. " egg(s)", "Success")
+    end)
+})
+HatchSub:AddButton({
+    Name = "Place Carried Eggs in Pen Now",
+    Callback = safeCallback(function()
+        local count = PlantAllCarriedEggsInPen()
+        Notify("Plant Eggs", "Planted " .. count .. " egg(s) in pen", "Success")
+    end)
+})
+
+-- SubTab: Egg Tracker ESP
+EggEspSub:AddToggle({
+    Name = "Egg ESP Enabled", Default = false, Flag = "esp_eggs_enabled",
+    Callback = safeCallback(function(v)
+        esp.enabled = v
+        Notify("Egg ESP", v and "Enabled" or "Disabled", v and "Success" or "Error")
+    end)
+})
+EggEspSub:AddToggle({
+    Name = "Show 3D Pet Image Badges", Default = true, Flag = "esp_pet_icons",
+    Callback = function(v) esp.showPetIcons = v end
+})
+EggEspSub:AddToggle({
+    Name = "Trap ESP (Highlights Enemy Traps)", Default = false, Flag = "esp_traps",
+    Callback = function(v) esp.traps = v end
+})
+EggEspSub:AddToggle({
+    Name = "Show Mutated / Rare Eggs Only", Default = false, Flag = "esp_eggs_rare_only",
+    Callback = function(v) esp.rareEggsOnly = v end
+})
+EggEspSub:AddSlider({
+    Name = "Max ESP Distance", Min = 100, Max = 2500, Default = 800, Suffix = " studs", Flag = "esp_max_dist",
+    Callback = function(v) esp.maxDistance = v end
+})
+
+-- -----------------------------------------------------------------------------
+-- TAB 2: BASE & UPGRADES
+-- -----------------------------------------------------------------------------
+do
+local UpgradesSub = BaseTab:AddSubTab("Homestead & Treadmill")
+local PetsSub     = BaseTab:AddSubTab("Pets & Satchel")
+local SalesSub    = BaseTab:AddSubTab("Auto Sell")
+local EventsSub   = BaseTab:AddSubTab("Events & Bosses")
+local RewardsSub  = BaseTab:AddSubTab("Claim Rewards")
+
+-- SubTab: Homestead & Treadmill
+UpgradesSub:AddToggle({
+    Name = "Auto Upgrade Base / Plot", Default = false, Flag = "up_base_auto",
+    Callback = function(v) autoUpgradeBase = v end
+})
+UpgradesSub:AddToggle({
+    Name = "Auto Upgrade Treadmill Tier", Default = false, Flag = "up_tread_auto",
+    Callback = function(v) autoUpgradeTreadmill = v end
+})
+UpgradesSub:AddToggle({
+    Name = "Auto Buy Speed Trails", Default = false, Flag = "auto_buy_trails",
+    Callback = function(v) autoBuyTrails = v end
+})
+UpgradesSub:AddButton({
+    Name = "Upgrade Base Now", Primary = true,
+    Callback = safeCallback(function()
+        UpgradeHomesteadBase()
+        Notify("Base Upgrade", "Requested base upgrade", "Success")
+    end)
+})
+UpgradesSub:AddButton({
+    Name = "Upgrade Treadmill Now",
+    Callback = safeCallback(function()
+        UpgradeTreadmillTier()
+        Notify("Treadmill Upgrade", "Requested treadmill upgrade", "Success")
+    end)
+})
+
+-- SubTab: Pets & Satchel
+PetsSub:AddToggle({
+    Name = "Auto Equip Best Pets", Default = false, Flag = "equip_best_pets",
+    Callback = function(v) autoEquipBestPets = v end
+})
+PetsSub:AddButton({
+    Name = "Equip Best Pets Now", Primary = true,
+    Callback = safeCallback(function()
+        EquipBestPets()
+        Notify("Pets", "Equipped best pets", "Success")
+    end)
+})
+
+-- SubTab: Auto Sell
+SalesSub:AddToggle({
+    Name = "Auto Sell Low-Tier Pets", Default = false, Flag = "auto_sell_pets",
+    Callback = function(v) autoSellPets = v end
+})
+SalesSub:AddMultiDropdown({
+    Name = "Filter Pet Sell Rarities", Options = RARITY_NAMES, Default = {}, Flag = "sell_pet_rarities",
+    Callback = function(selectedList) selectedSellPetRarities = selectedList end
+})
+SalesSub:AddToggle({
+    Name = "Auto Sell Low-Tier Eggs", Default = false, Flag = "auto_sell_eggs",
+    Callback = function(v) autoSellEggs = v end
+})
+SalesSub:AddMultiDropdown({
+    Name = "Filter Egg Sell Rarities", Options = RARITY_NAMES, Default = {}, Flag = "sell_egg_rarities",
+    Callback = function(selectedList) selectedSellEggRarities = selectedList end
+})
+SalesSub:AddButton({
+    Name = "Sell Selected Pets Now", Primary = true,
+    Callback = safeCallback(function()
+        SellSelectedPets()
+        Notify("Sales", "Sold matching pets", "Success")
+    end)
+})
+SalesSub:AddButton({
+    Name = "Sell Selected Eggs Now",
+    Callback = safeCallback(function()
+        SellSelectedEggs()
+        Notify("Sales", "Sold matching eggs", "Success")
+    end)
+})
+
+-- SubTab: Events & Bosses
+EventsSub:AddToggle({
+    Name = "Auto Claim Monster Chests", Default = false, Flag = "auto_monster_chests",
+    Callback = function(v) autoClaimMonsterChests = v end
+})
+EventsSub:AddToggle({
+    Name = "Auto Feed Monster Parasite", Default = false, Flag = "auto_feed_monster",
+    Callback = function(v) autoFeedMonster = v end
+})
+EventsSub:AddButton({
+    Name = "Claim Monster Chest Now", Primary = true,
+    Callback = safeCallback(function()
+        ClaimMonsterChests()
+        Notify("Monster Event", "Claimed monster chest", "Success")
+    end)
+})
+EventsSub:AddButton({
+    Name = "Feed Monster Parasite Now",
+    Callback = safeCallback(function()
+        FeedMonsterParasite()
+        Notify("Monster Event", "Fed monster parasite", "Success")
+    end)
+})
+
+-- SubTab: Claim Rewards
+RewardsSub:AddToggle({
+    Name = "Auto Claim Away Earnings & Codex", Default = false, Flag = "claim_auto_rewards",
+    Callback = function(v) autoClaimRewards = v end
+})
+RewardsSub:AddButton({
+    Name = "Claim Away Earnings & Codex Now", Primary = true,
+    Callback = safeCallback(function()
+        ClaimAllAvailableRewards()
+        Notify("Rewards", "Claimed all ready rewards and earnings", "Success")
+    end)
+})
+end
+
+-- -----------------------------------------------------------------------------
+-- TAB 3: COMBAT & DEFENSE
+-- -----------------------------------------------------------------------------
+do
+local BatSub   = CombatTab:AddSubTab("Bat & Slap Aura")
+local GuardSub = CombatTab:AddSubTab("Defense & Guards")
+
+-- SubTab: Bat & Slap Aura
+BatSub:AddToggle({
+    Name = "Bat / Slap Aura", Default = false, Flag = "bat_aura_enabled",
+    Callback = safeCallback(function(v)
+        batAuraEnabled = v
+        Notify("Bat Aura", v and "Enabled" or "Disabled", v and "Success" or "Error")
+    end)
+})
+BatSub:AddSlider({
+    Name = "Aura Radius", Min = 5, Max = 50, Default = 20, Suffix = " studs", Flag = "bat_radius",
+    Callback = function(v) batAuraRadius = v end
+})
+BatSub:AddSlider({
+    Name = "Swing Delay", Min = 0.05, Max = 1.0, Default = 0.2, Suffix = "s", Flag = "bat_delay",
+    Callback = function(v) batAuraDelay = v end
+})
+BatSub:AddButton({
+    Name = "Swing Bat Once (Manual)", Primary = true,
+    Callback = safeCallback(function()
+        local re = GetNetRemote("RE/BatSwing/Trigger")
+        if re then re:FireServer() end
+        Notify("Bat", "Triggered bat swing", "Info")
+    end)
+})
+
+-- SubTab: Defense & Guards
+GuardSub:AddToggle({
+    Name = "Anti-Trap (Full Immunity / Destroy Hitboxes)", Default = true, Flag = "avoid_traps",
+    Callback = safeCallback(function(v)
+        avoidTrapsEnabled = v
+        if v then pcall(NeutralizeTraps) end
+        Notify("Anti-Trap", v and "Immunity Active (Enemy Hitboxes Destroyed)" or "Anti-Trap Disabled", v and "Success" or "Error")
+    end)
+})
+
+GuardSub:AddToggle({
+    Name = "No Knockback / Ragdoll Immunity", Default = true, Flag = "no_knockback",
+    Callback = safeCallback(function(v)
+        SetNoKnockback(v)
+        Notify("Knockback", v and "Ragdoll Immunity Active" or "Knockback Enabled", v and "Success" or "Error")
+    end)
+})
+
+GuardSub:AddToggle({
+    Name = "Anti-Ragdoll (Quick Standup)", Default = true, Flag = "anti_ragdoll",
+    Callback = function(v) antiRagdollEnabled = v end
+})
+
+track(RunService.Heartbeat:Connect(function()
+    if HUB.dead or not antiRagdollEnabled then return end
+    local hum = findHum()
+    if hum and hum:GetState() == Enum.HumanoidStateType.Physics then
+        hum:ChangeState(Enum.HumanoidStateType.GettingUp)
+    end
+end))
+end
+
+-- -----------------------------------------------------------------------------
+-- TAB 4: PLAYER & MOVEMENT
+-- -----------------------------------------------------------------------------
+do
+local MoveSub     = PlayerTab:AddSubTab("Movement")
+local AreaTpSub   = PlayerTab:AddSubTab("Area Travel")
+local PlotTpSub   = PlayerTab:AddSubTab("Plot Travel")
+local PlayerTpSub = PlayerTab:AddSubTab("Player Travel")
+local PerfSub     = PlayerTab:AddSubTab("Visuals & Performance")
+
+-- SubTab: Movement
+MoveSub:AddToggle({
+    Name = "Enable WalkSpeed", Default = false, Flag = "speed_enabled",
+    Callback = safeCallback(function(v)
+        walkSpeedEnabled = v
+        if not v then
+            local hum = findHum()
+            if hum then hum.WalkSpeed = 16 end
+        end
+        Notify("WalkSpeed", v and "Enabled" or "Disabled", v and "Success" or "Error")
+    end)
+})
+MoveSub:AddSlider({
+    Name = "WalkSpeed Value", Min = 16, Max = 10000, Default = 24, Suffix = " studs/s", Flag = "speed_val",
+    Callback = function(v) ApplyWalkSpeed(v) end
+})
+MoveSub:AddToggle({
+    Name = "Enable JumpPower", Default = false, Flag = "jump_enabled",
+    Callback = safeCallback(function(v)
+        jumpPowerEnabled = v
+        if not v then
+            local hum = findHum()
+            if hum then hum.JumpPower = 50 end
+        end
+        Notify("JumpPower", v and "Enabled" or "Disabled", v and "Success" or "Error")
+    end)
+})
+MoveSub:AddSlider({
+    Name = "JumpPower Value", Min = 50, Max = 300, Default = 60, Suffix = "", Flag = "jump_val",
+    Callback = function(v) ApplyJumpPower(v) end
+})
+MoveSub:AddToggle({
+    Name = "Infinite Jump", Default = false, Flag = "inf_jump",
+    Callback = function(v) infiniteJump = v end
+})
+MoveSub:AddToggle({
+    Name = "Smooth Fly (WASD + Space/Shift)", Default = false, Flag = "fly_enabled",
+    Callback = safeCallback(function(v)
+        if v then startFly() else stopFly() end
+        Notify("Fly", v and "Enabled" or "Disabled", v and "Success" or "Error")
+    end)
+})
+MoveSub:AddSlider({
+    Name = "Fly Speed", Min = 20, Max = 250, Default = 60, Suffix = " studs/s", Flag = "fly_speed",
+    Callback = function(v) flySpeed = v end
+})
+MoveSub:AddToggle({
+    Name = "Anti-AFK (Bypass 20min Kick)", Default = false, Flag = "anti_afk",
+    Callback = function(v) SetAntiAFK(v) end
+})
+
+-- SubTab: Area Travel
+local selectedAreaTp = "Base / Plot"
+local areaKeys = {}
+for k in pairs(AREA_COORDINATES) do table.insert(areaKeys, k) end
+table.sort(areaKeys)
+
+AreaTpSub:AddDropdown({
+    Name = "Select Area", Options = areaKeys, Items = areaKeys, Default = "Base / Plot", Flag = "tele_area",
+    Callback = function(v) selectedAreaTp = v end
+})
+AreaTpSub:AddButton({
+    Name = "Travel to Selected Area", Primary = true,
+    Callback = safeCallback(function()
+        local pos = AREA_COORDINATES[selectedAreaTp]
+        if selectedAreaTp == "Base / Plot" then
+            pos = GetLocalPlotCenter()
+        end
+        if pos then
+            Notify("Travel", "Traveling to " .. selectedAreaTp, "Info")
+            TravelRoadPath(pos, glideSpeed or 200)
+            Notify("Travel", "Arrived at " .. selectedAreaTp, "Success")
+        else
+            Notify("Travel", "Area position not found", "Error")
+        end
+    end)
+})
+
+-- SubTab: Plot Travel
+local selectedPlotNum = "Plot 1"
+local plotOptions = { "Plot 1", "Plot 2", "Plot 3", "Plot 4", "Plot 5", "Plot 6", "Plot 7", "My Plot" }
+
+PlotTpSub:AddDropdown({
+    Name = "Select Plot", Options = plotOptions, Items = plotOptions, Default = "My Plot", Flag = "tele_plot",
+    Callback = function(v) selectedPlotNum = v end
+})
+PlotTpSub:AddButton({
+    Name = "Travel to Plot", Primary = true,
+    Callback = safeCallback(function()
+        local slotNum = selectedPlotNum == "My Plot" and GetLocalSlot() or tonumber(selectedPlotNum:match("%d+")) or 1
+        local plot = Workspace.Plots:FindFirstChild(tostring(slotNum))
+        local targetPos = plot and (plot:FindFirstChild("CenterPoint") and plot.CenterPoint.Position or plot:GetPivot().Position)
+        if targetPos then
+            TravelRoadPath(targetPos + Vector3.new(0, 2, 0), glideSpeed or 200)
+            Notify("Plot", "Arrived at Plot " .. tostring(slotNum), "Success")
+        else
+            Notify("Plot", "Plot not found", "Error")
+        end
+    end)
+})
+
+-- SubTab: Player Travel
+local selectedPlayerName = nil
+local function GetPlayerList()
+    local names = {}
+    for _, p in ipairs(Players:GetPlayers()) do
+        if p ~= LP then table.insert(names, p.Name) end
+    end
+    table.sort(names)
+    if #names == 0 then names = { "(no other players)" } end
+    return names
+end
+
+local playerDropdown = PlayerTpSub:AddDropdown({
+    Name = "Select Player", Options = GetPlayerList(), Items = GetPlayerList(), Default = nil, Flag = "tele_plr",
+    Callback = function(v) selectedPlayerName = v end
+})
+
+PlayerTpSub:AddButton({
+    Name = "Refresh Player List",
+    Callback = function()
+        playerDropdown:SetOptions(GetPlayerList())
+        Notify("Players", "Refreshed player list", "Info")
+    end
+})
+PlayerTpSub:AddButton({
+    Name = "Travel to Player", Primary = true,
+    Callback = safeCallback(function()
+        if not selectedPlayerName then return end
+        local targetPlr = Players:FindFirstChild(selectedPlayerName)
+        local tHrp = targetPlr and targetPlr.Character and targetPlr.Character:FindFirstChild("HumanoidRootPart")
+        if tHrp then
+            TravelRoadPath(tHrp.Position + Vector3.new(0, 2, 0), glideSpeed or 200)
+            Notify("Player", "Arrived at " .. selectedPlayerName, "Success")
+        else
+            Notify("Player", "Player unavailable", "Error")
+        end
+    end)
+})
+
+-- SubTab: Visuals & Performance
+PerfSub:AddToggle({
+    Name = "Fullbright (Daylight Visuals)", Default = false, Flag = "fullbright",
+    Callback = function(v) SetFullbright(v) end
+})
+PerfSub:AddButton({
+    Name = "Delete Own Pet Renders (FPS Boost)", Primary = true,
+    Callback = safeCallback(function()
+        local count = DeleteOwnPetRenders()
+        Notify("Performance", "Removed " .. count .. " rendered pet model(s)", "Success")
+    end)
+})
+end
+
+-- -----------------------------------------------------------------------------
+-- TAB 5: SETTINGS & CONFIG
+-- -----------------------------------------------------------------------------
+do
+local ConfigSub = SettingsTab:AddSubTab("Configuration")
+
+if HAS_CONFIG then
+    ConfigSub:AddInput({
+        Name = "Config Name", Default = CONFIG_NAME, Flag = "cfg_name",
+        Callback = function(v) if v and #v > 0 then CONFIG_NAME = v end end
+    })
+    ConfigSub:AddButton({
+        Name = "Save Config", Primary = true,
+        Callback = safeCallback(function()
+            local ok, err = Library:SaveConfig(CONFIG_NAME)
+            Notify("Config", ok and ("Saved config '" .. CONFIG_NAME .. "'") or ("Save failed: " .. tostring(err)), ok and "Success" or "Error")
+        end)
+    })
+    ConfigSub:AddButton({
+        Name = "Load Config",
+        Callback = safeCallback(function()
+            local ok, err = Library:LoadConfig(CONFIG_NAME)
+            if ok then
+                ResyncAll()
+                Notify("Config", "Loaded config '" .. CONFIG_NAME .. "'", "Success")
+            else
+                Notify("Config", "Load failed: " .. tostring(err), "Error")
+            end
+        end)
+    })
+end
+
+ConfigSub:AddKeybind({
+    Name = "Toggle UI Keybind", Default = Enum.KeyCode.RightControl, Flag = "ui_toggle_key",
+    OnPress = function()
+        Window:Toggle()
+    end
+})
+
+ConfigSub:AddDivider()
+
+ConfigSub:AddButton({
+    Name = "Unload Oxide HUB",
+    Callback = safeCallback(function()
+        pcall(function() HUB.Unload() end)
+    end)
+})
+
+    ConfigSub:AddParagraph({
+        Title = "Oxide HUB | Ein Ei stehlen",
+        Content = "Version 4.2.0 (Production)\nEquipped with UGI / Client AC Neutralizer, BAC Telemetry Spoofer, Evidence Scrubber, Strict Rarity Filtering, clean open walkway travel without wall clipping, automatic return to trigger position, and auto egg placement in pen.\nAutomated egg stealing, hatching, homestead base upgrades, treadmill speed training, rewards collector, bat aura, ESP tracker."
+    })
+end
+
+-- ==============================================================================
+-- HUB CLEANUP & UNLOAD HANDLER
+-- ==============================================================================
+HUB.Unload = function()
+    HUB.dead = true
+
+    for _, c in ipairs(HUB.conns) do pcall(function() c:Disconnect() end) end
+    HUB.conns = {}
+
+    for _, d in ipairs(HUB.drawings) do pcall(function() d:Remove() end) end
+    HUB.drawings = {}
+
+    for _, h in ipairs(HUB.highlights) do pcall(function() h:Destroy() end) end
+    HUB.highlights = {}
+
+    stopFly()
+    SetFullbright(false)
+
+    local hum = findHum()
+    if hum then
+        hum.PlatformStand = false
+        hum.WalkSpeed = 16
+        hum.JumpPower = 50
+    end
+
+    pcall(function() Window:Destroy() end)
+    _G.OxideStealAnEgg = nil
+end
+
+Notify("Oxide HUB", "Ein Ei stehlen script loaded successfully!", "Success", 3.5)
